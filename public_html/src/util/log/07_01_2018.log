@@ -1,0 +1,38 @@
+[100.43.85.190 08:38:55]
+uid = -
+params = ""
+uri = "/"
+[187.19.187.7 22:26:33]
+uid = -
+params = ""
+uri = "/"
+[187.19.187.7 22:26:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=pepjh0pcp21hb4fp5nio302071"
+uri = "/?op=login"
+[187.19.187.7 22:26:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=pepjh0pcp21hb4fp5nio302071"
+uri = "/index.php?op=home"
+[187.19.187.7 22:26:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=pepjh0pcp21hb4fp5nio302071"
+uri = "/index.php?op=cad-lanc"
+[187.19.187.7 22:26:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29929&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pepjh0pcp21hb4fp5nio302071"
+uri = "/index.php?op=cad-lanc"
+[187.19.187.7 22:26:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29929&PHPSESSID=pepjh0pcp21hb4fp5nio302071"
+uri = "/ajax.php?code=5577&type=html&vend=29929"
+[187.19.187.7 22:27:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=29929&PHPSESSID=pepjh0pcp21hb4fp5nio302071"
+uri = "/ajax.php?code=8004&vend=29929"

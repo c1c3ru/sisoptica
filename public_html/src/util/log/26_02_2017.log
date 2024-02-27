@@ -1,0 +1,77 @@
+[167.250.136.34 00:22:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/"
+[177.177.165.164 08:04:19]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/"
+[177.177.165.164 08:04:19]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/"
+[177.177.165.164 08:04:28]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-gerencial&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/?op=rel-gerencial"
+[177.177.165.164 08:05:09]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-02-01&dt-final=2017-02-26&submit-html=&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/print.php?code=0018"
+[167.250.136.34 11:23:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/"
+[66.249.83.94 12:26:16]
+uid = -
+params = ""
+uri = "/"
+[177.177.165.164 18:14:43]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/"
+[177.177.165.164 18:14:43]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/"
+[177.177.165.164 18:15:08]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-vend&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/?op=rel-vend"
+[177.177.165.164 18:15:08]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=4415&loja=5&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/ajax.php?code=4415&loja=5"
+[177.177.165.164 18:15:41]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0003&html=sim&loja=&tipo-periodo=d&d-i=2017-01-01&d-f=2017-02-26&submit-html=&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/print.php?code=0003"
+[177.177.165.164 18:18:33]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0003&html=sim&loja=&tipo-periodo=d&d-i=2017-02-01&d-f=2017-02-26&submit-html=&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/print.php?code=0003"
+[177.177.165.164 18:18:57]
+uid = -
+params = "op=logout&PHPSESSID=e3b7pegdvaf0921qm7kf1lf7n5"
+uri = "/?op=logout"
+[177.177.165.164 18:18:57]
+uid = -
+params = ""
+uri = "/index.php"
+[167.250.136.34 23:57:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/"

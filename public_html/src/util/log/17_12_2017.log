@@ -1,0 +1,49 @@
+[66.249.83.95 06:19:38]
+uid = -
+params = ""
+uri = "/"
+[189.92.204.57 16:42:04]
+uid = -
+params = ""
+uri = "/"
+[189.92.204.57 16:42:04]
+uid = -
+params = ""
+uri = "/"
+[189.92.204.57 16:43:16]
+uid = -
+params = "PHPSESSID=si5ujfukbbvp2biu604ll0bgr3"
+uri = "/"
+[189.92.204.57 16:44:04]
+uid = -
+params = "op=login&login=edsonrodrigues&senha=paragui&submeter=login&PHPSESSID=si5ujfukbbvp2biu604ll0bgr3"
+uri = "/?op=login"
+[189.92.204.57 16:44:05]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&PHPSESSID=si5ujfukbbvp2biu604ll0bgr3&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[189.92.204.57 16:44:21]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=si5ujfukbbvp2biu604ll0bgr3"
+uri = "/index.php?op=login"
+[189.92.204.57 16:44:22]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=si5ujfukbbvp2biu604ll0bgr3"
+uri = "/index.php?op=home"
+[189.92.204.57 16:44:33]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-gerencial&PHPSESSID=si5ujfukbbvp2biu604ll0bgr3"
+uri = "/index.php?op=rel-gerencial"
+[189.92.204.57 16:45:09]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-12-01&dt-final=2017-12-17&submit-html=&PHPSESSID=si5ujfukbbvp2biu604ll0bgr3"
+uri = "/print.php?code=0018"
+[66.249.64.206 21:13:12]
+uid = -
+params = ""
+uri = "/"

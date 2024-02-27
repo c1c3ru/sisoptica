@@ -1,0 +1,399 @@
+[2a02:4780:1:5::1a 00:23:54]
+uid = -
+params = ""
+uri = "/"
+[45.160.234.31 09:08:03]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[35.171.144.152 16:00:56]
+uid = -
+params = ""
+uri = "/"
+[35.171.144.152 16:00:56]
+uid = -
+params = ""
+uri = "/"
+[2804:7f7:e28b:c2ce:a921:f62c:eb91:a171 17:06:57]
+uid = -
+params = ""
+uri = "/"
+[2804:7f7:e28b:c2ce:a921:f62c:eb91:a171 17:06:59]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[2804:7f7:e28b:c2ce:a921:f62c:eb91:a171 17:07:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:7f7:e28b:c2ce:a921:f62c:eb91:a171 17:07:03]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[179.183.234.59 17:08:59]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[179.183.234.59 17:14:33]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[179.183.234.59 17:15:13]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-loca"
+uri = "/index.php?op=cad-loca"
+[179.183.234.59 17:15:33]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-regi"
+uri = "/index.php?op=cad-regi"
+[179.183.234.59 17:15:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[170.79.202.219 17:17:22]
+uid = -
+params = ""
+uri = "/"
+[170.79.202.219 17:17:32]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[170.79.202.219 17:17:32]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[170.79.202.219 17:17:41]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[170.79.202.219 17:18:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8876&cidade=399"
+uri = "/ajax.php?code=8876&cidade=399"
+[170.79.202.219 17:18:32]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8876&cidade=241"
+uri = "/ajax.php?code=8876&cidade=241"
+[170.79.202.219 17:18:34]
+uid = -
+params = "op=logout"
+uri = "/index.php?op=logout"
+[170.79.202.219 17:18:34]
+uid = -
+params = ""
+uri = "/index.php"
+[54.37.76.179 17:59:57]
+uid = -
+params = ""
+uri = "/"
+[35.171.144.152 18:24:46]
+uid = -
+params = ""
+uri = "/"
+[35.171.144.152 18:24:47]
+uid = -
+params = ""
+uri = "/"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:43:32]
+uid = -
+params = ""
+uri = "/index.php"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:44:25]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=login&login=francilda&senha=654321&submeter=login"
+uri = "/index.php?op=login"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:44:25]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:44:39]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:3004:8002:4f0:d998:c959:1a0:23e3 21:50:14]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:3004:8002:4f0:d998:c959:1a0:23e3 22:02:00]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = ""
+uri = "/index.php"
+[2804:3004:8002:4f0:d998:c959:1a0:23e3 22:02:05]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:03:38]
+uid = -
+params = "op=cad-loja"
+uri = "/index.php?op=cad-loja"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:03:40]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:03:40]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:03:43]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-loja"
+uri = "/index.php?op=cad-loja"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:04:14]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:05:15]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-tipo"
+uri = "/index.php?op=cad-tipo"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:05:32]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:05:34]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000029"
+uri = "/ajax.php?code=7781&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:11]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:14]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000029"
+uri = "/ajax.php?code=7781&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:22]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=1000029&codigo=1000&descricao=TESTE&preco-compra=100,00&preco-venda=200,00&preco-venda-min=150,00&tipo=31&marca=15&categoria=0&submit=Atualizar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:22]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:25]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000029"
+uri = "/ajax.php?code=7781&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:28]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=1000029&codigo=1000&descricao=TESTE&preco-compra=100,00&preco-venda=200,00&preco-venda-min=150,00&tipo=31&marca=15&categoria=1&submit=Atualizar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:28]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:11:32]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000029"
+uri = "/ajax.php?code=7781&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:12:53]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:15:30]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-equipe"
+uri = "/index.php?op=cad-equipe"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:15:38]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:15:42]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-func"
+uri = "/index.php?op=cad-func"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:17:40]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:17:42]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-equipe"
+uri = "/index.php?op=cad-equipe"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:17:44]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-func"
+uri = "/index.php?op=cad-func"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:17:47]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-equipe"
+uri = "/index.php?op=cad-equipe"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:18:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:18:51]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:20:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:20:33]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&type=html&prod=1000029"
+uri = "/ajax.php?code=7781&type=html&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:20:45]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000029"
+uri = "/ajax.php?code=7781&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:20:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=1000029&codigo=1000&descricao=TESTE&preco-compra=100,00&preco-venda=200,00&preco-venda-min=150,00&tipo=31&marca=15&categoria=0&submit=Atualizar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:20:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:20:51]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&type=html&prod=1000029"
+uri = "/ajax.php?code=7781&type=html&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:23:15]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&type=html&prod=1000029"
+uri = "/ajax.php?code=7781&type=html&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:24:30]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:25:19]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:26:25]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:26:42]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:12]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=&codigo=1001&descricao=LENTES 2&preco-compra=0,00&preco-venda=100,00&preco-venda-min=150,00&tipo=33&marca=12&categoria=1&submit=Cadastrar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:13]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&type=html&prod=1000030"
+uri = "/ajax.php?code=7781&type=html&prod=1000030"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:19]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000030"
+uri = "/ajax.php?code=7781&prod=1000030"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=1000030&codigo=1001&descricao=LENTES 2&preco-compra=0,00&preco-venda=100,00&preco-venda-min=150,00&tipo=33&marca=12&categoria=0&submit=Atualizar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:27]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&type=html&prod=1000029"
+uri = "/ajax.php?code=7781&type=html&prod=1000029"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:30]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000030"
+uri = "/ajax.php?code=7781&prod=1000030"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:34]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=1000030&codigo=1001&descricao=LENTES 2&preco-compra=0,00&preco-venda=100,00&preco-venda-min=150,00&tipo=33&marca=12&categoria=1&submit=Atualizar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:34]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:38]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7781&prod=1000030"
+uri = "/ajax.php?code=7781&prod=1000030"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=add_prod&for-update-id=1000030&codigo=1001&descricao=LENTES 2&preco-compra=0,00&preco-venda=100,00&preco-venda-min=150,00&tipo=33&marca=12&categoria=0&submit=Atualizar"
+uri = "/index.php?op=add_prod"
+[2804:7f7:e28b:c2ce:706f:8f86:3490:3de9 23:27:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"

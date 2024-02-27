@@ -1,0 +1,47 @@
+.green-back{
+    background-color: #80C02C;
+    box-shadow: inset 0 3px 10px #B5E07D;
+}
+.gray-grad-back{
+	background-image: linear-gradient(bottom, rgb(232,232,232) 10%, rgb(255,255,255) 62%);
+	background-image: -o-linear-gradient(bottom, rgb(232,232,232) 10%, rgb(255,255,255) 62%);
+	background-image: -moz-linear-gradient(bottom, rgb(232,232,232) 10%, rgb(255,255,255) 62%);
+	background-image: -webkit-linear-gradient(bottom, rgb(232,232,232) 10%, rgb(255,255,255) 62%);
+	background-image: -ms-linear-gradient(bottom, rgb(232,232,232) 10%, rgb(255,255,255) 62%);
+
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.1, rgb(232,232,232)),
+		color-stop(0.62, rgb(255,255,255))
+	);
+}
+.brown-grad-back{
+    background-image: linear-gradient(bottom, rgb(191,16,10) 8%, rgb(232,39,39) 82%, rgb(255,156,156) 100%) !important;
+    background-image: -o-linear-gradient(bottom, rgb(191,16,10) 8%, rgb(232,39,39) 82%, rgb(255,156,156) 100%) !important;
+    background-image: -moz-linear-gradient(bottom, rgb(191,16,10) 8%, rgb(232,39,39) 82%, rgb(255,156,156) 100%) !important;
+    background-image: -webkit-linear-gradient(bottom, rgb(191,16,10) 8%, rgb(232,39,39) 82%, rgb(255,156,156) 100%) !important;
+    background-image: -ms-linear-gradient(bottom, rgb(191,16,10) 8%, rgb(232,39,39) 82%, rgb(255,156,156) 100%) !important;
+
+    background-image: -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0.08, rgb(191,16,10)),
+            color-stop(0.82, rgb(232,39,39)),
+            color-stop(1, rgb(255,156,156))
+    ) !important;
+}   
+.opacity-back{
+    background: rgba(255, 255, 255, 0.5);
+}
+.bg-white{
+    background: white;
+}
+.fnt-white{
+    color: white !important;
+}
+.fnt-brown{
+    color: brown;
+}

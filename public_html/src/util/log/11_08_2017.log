@@ -1,0 +1,1293 @@
+[187.79.113.183 07:05:32]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/"
+[187.79.113.183 07:08:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/?op=login"
+[187.79.113.183 07:08:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/index.php?op=home"
+[187.79.113.183 07:09:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/index.php?op=cad-caix"
+[187.79.113.183 07:10:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3798&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8181&caixa=3798"
+[187.79.113.183 07:10:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3798&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8181&caixa=3798"
+[187.79.113.183 07:20:33]
+uid = -
+params = "_ga=GA1.2.1175606763.1501670573"
+uri = "/"
+[187.79.113.183 07:20:44]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=login&login=elanearaujo&senha=enally0916&submeter=login&_ga=GA1.2.1175606763.1501670573&PHPSESSID=8nk62aus4qfautogs4gbn1dtu6"
+uri = "/?op=login"
+[187.79.113.183 07:20:44]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=home&_ga=GA1.2.1175606763.1501670573&PHPSESSID=8nk62aus4qfautogs4gbn1dtu6"
+uri = "/index.php?op=home"
+[187.79.113.183 07:20:47]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=val-retornos&_ga=GA1.2.1175606763.1501670573&PHPSESSID=8nk62aus4qfautogs4gbn1dtu6"
+uri = "/index.php?op=val-retornos"
+[187.79.113.183 07:21:00]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=avalicao_ret&_ga=GA1.2.1175606763.1501670573&PHPSESSID=8nk62aus4qfautogs4gbn1dtu6"
+uri = "/index.php?op=avalicao_ret"
+[187.79.113.183 07:21:09]
+uid = -
+params = "op=logout&_ga=GA1.2.1175606763.1501670573&PHPSESSID=8nk62aus4qfautogs4gbn1dtu6"
+uri = "/index.php?op=logout"
+[187.79.113.183 07:21:09]
+uid = -
+params = "_ga=GA1.2.1175606763.1501670573"
+uri = "/index.php"
+[187.79.113.183 07:24:05]
+uid = -
+params = "_ga=GA1.2.1246092241.1501670772"
+uri = "/"
+[187.79.113.183 07:24:14]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=login&login=elanearaujo&senha=enally0916&submeter=login&_ga=GA1.2.1246092241.1501670772&PHPSESSID=7ffog7e0scin9oaeseaki2nui0"
+uri = "/?op=login"
+[187.79.113.183 07:24:15]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=home&_ga=GA1.2.1246092241.1501670772&PHPSESSID=7ffog7e0scin9oaeseaki2nui0"
+uri = "/index.php?op=home"
+[187.79.113.183 07:24:17]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=val-retornos&_ga=GA1.2.1246092241.1501670772&PHPSESSID=7ffog7e0scin9oaeseaki2nui0"
+uri = "/index.php?op=val-retornos"
+[187.79.113.183 07:24:28]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=avalicao_ret&_ga=GA1.2.1246092241.1501670772&PHPSESSID=7ffog7e0scin9oaeseaki2nui0"
+uri = "/index.php?op=avalicao_ret"
+[187.79.113.183 07:24:31]
+uid = -
+params = "op=logout&_ga=GA1.2.1246092241.1501670772&PHPSESSID=7ffog7e0scin9oaeseaki2nui0"
+uri = "/index.php?op=logout"
+[187.79.113.183 07:24:32]
+uid = -
+params = "_ga=GA1.2.1246092241.1501670772"
+uri = "/index.php"
+[187.79.113.183 08:01:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/"
+[187.79.113.183 08:01:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/?op=cad-caix"
+[187.79.113.183 08:01:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3798&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8181&caixa=3798"
+[66.249.83.93 08:05:21]
+uid = -
+params = ""
+uri = "/"
+[187.79.113.183 08:07:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=fec_caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/index.php?op=fec_caix"
+[187.79.113.183 08:07:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[187.79.113.183 08:07:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_caix&for-update-id=&data=2017-08-11&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/index.php?op=add_caix"
+[187.79.113.183 08:07:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[187.79.113.183 08:07:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 08:07:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3799"
+[187.79.113.183 08:07:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=50,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=*** equipe clarisse editar ***&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 08:07:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 08:08:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3797&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8109&caixa=3797"
+[187.79.113.183 08:09:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3798&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8109&caixa=3798"
+[187.79.113.183 08:09:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3797&_ga=GA1.2.1736666189.1501674028&PHPSESSID=tu185rh3f9qeln2ud3q2eo64d5"
+uri = "/ajax.php?code=8109&caixa=3797"
+[66.249.85.18 08:45:32]
+uid = -
+params = ""
+uri = "/"
+[201.9.18.17 09:18:28]
+uid = -
+params = "op=rel-cobr"
+uri = "/index.php?op=rel-cobr"
+[201.9.18.17 09:18:35]
+uid = -
+params = "op=login&login=joaopaulo&senha=jaolucas&submeter=login&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=login"
+[201.9.18.17 09:18:36]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&PHPSESSID=ebs31la26v57jv8uh84ntq5j56&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[201.9.18.17 09:18:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=login"
+[201.9.18.17 09:18:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=home"
+[201.9.18.17 10:01:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 10:01:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[201.9.18.17 10:01:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 10:01:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 10:01:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 10:01:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 10:01:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 10:01:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 10:01:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 10:01:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 10:01:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 10:01:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 10:13:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[201.9.18.17 10:13:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 10:13:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 10:13:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 10:13:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 10:13:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 10:13:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 10:13:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 10:13:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 10:13:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 10:13:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 10:13:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-vend"
+[201.9.18.17 10:13:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 10:13:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 10:13:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 10:37:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/"
+[187.79.113.183 10:37:33]
+uid = -
+params = ""
+uri = "/"
+[201.9.18.17 10:37:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=cad-lanc"
+[201.9.18.17 10:37:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28453&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 10:37:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28453&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 10:37:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=28453&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=5577&type=html&vend=28453"
+[187.79.113.183 10:37:54]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/?op=login"
+[187.79.113.183 10:37:54]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/index.php?op=home"
+[201.9.18.17 10:37:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28449&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 10:38:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28449&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 10:38:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=28449&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=5577&type=html&vend=28449"
+[201.9.18.17 10:38:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ANGELA NOGUEIRA DA COSTA	&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[187.79.113.183 10:38:18]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-gerencial&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/index.php?op=rel-gerencial"
+[187.79.113.183 10:38:39]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-08-01&dt-final=2017-08-11&submit-html=&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/print.php?code=0018"
+[187.79.113.183 10:40:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-lanc&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/index.php?op=rel-lanc"
+[187.79.113.183 10:41:11]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0005&html=sim&loja=1||4||5||6||7||8&data-inicial=2017-08-01&data-final=2017-08-11&filtro=1&filtro-receb=0&submit-html=&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/print.php?code=0005"
+[187.79.113.183 10:42:22]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-caix&PHPSESSID=m4t7961hletkhq17u6o5iv7h43"
+uri = "/index.php?op=cad-caix"
+[201.9.18.17 14:22:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/"
+[201.9.18.17 14:22:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=cad-vend&open-cad=1"
+[201.9.18.17 14:22:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 14:22:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 14:22:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 14:22:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 14:22:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 14:22:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=cad-lanc"
+[201.9.18.17 14:22:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29325&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 14:22:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29325&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 14:22:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29325&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=5577&type=html&vend=29325"
+[201.9.18.17 14:22:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29325&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=5577&type=html&vend=29325"
+[201.9.18.17 14:54:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[201.9.18.17 14:54:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 14:54:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 14:54:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 14:54:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.18.17 14:54:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-vend"
+[201.9.18.17 14:54:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.18.17 14:54:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.18.17 14:54:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.18.17 15:16:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/"
+[201.9.18.17 15:17:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=cad-lanc"
+[201.9.18.17 15:44:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=cad-lanc"
+[201.9.18.17 15:45:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=jerusa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 15:45:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=3573&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=5577&type=html&vend=3573"
+[201.9.18.17 15:45:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=jeruza&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 15:45:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=jerusa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 15:45:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=3573&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=5577&type=html&vend=3573"
+[201.9.18.17 15:45:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/"
+[201.9.18.17 15:45:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-cobr&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=rel-cobr"
+[201.9.18.17 15:45:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.18.17 15:45:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4416&cobr=28&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=4416&cobr=28"
+[201.9.18.17 15:45:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4516&regiao=10&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=4516&regiao=10"
+[201.9.18.17 15:46:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4516&regiao=14&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=4516&regiao=14"
+[201.9.18.17 15:46:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0002&html=sim&loja=5&cobrador=28&regiao=14&rota=&final=2017-11-11&submit-html=&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/print.php?code=0002"
+[201.9.18.17 15:47:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/?op=cad-lanc"
+[201.9.18.17 15:47:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=4408&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 15:47:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=4408&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=9923&vend=4408"
+[201.9.18.17 15:47:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.18.17 15:47:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=4409&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/index.php?op=cad-lanc"
+[201.9.18.17 15:47:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=4409&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=9923&vend=4409"
+[201.9.18.17 15:48:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&PHPSESSID=ebs31la26v57jv8uh84ntq5j56"
+uri = "/ajax.php?code=9117&cobrador=28"
+[66.249.66.94 18:34:16]
+uid = -
+params = ""
+uri = "/"
+[187.79.113.183 19:00:19]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/"
+[187.79.113.183 19:23:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=eaocr40kv4mu6na5rlbj6q5s02"
+uri = "/?op=login"
+[187.79.113.183 19:23:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=eaocr40kv4mu6na5rlbj6q5s02"
+uri = "/index.php?op=home"
+[187.79.113.183 19:24:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=eaocr40kv4mu6na5rlbj6q5s02"
+uri = "/index.php?op=cad-caix"
+[187.79.113.183 19:24:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=eaocr40kv4mu6na5rlbj6q5s02"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 19:30:17]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028&PHPSESSID=eaocr40kv4mu6na5rlbj6q5s02"
+uri = "/index.php?op=logout"
+[187.79.113.183 19:30:19]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[187.79.113.183 19:30:31]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=login&login=elanearaujo&senha=enally0916&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=login"
+[187.79.113.183 19:30:31]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=home"
+[187.79.113.183 19:30:35]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-vend"
+[187.79.113.183 19:30:36]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:30:36]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.113.183 19:30:36]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.113.183 19:30:39]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-vend&venda_id=31063&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-vend"
+[187.79.113.183 19:30:41]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:30:44]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=5577&vend=31063&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=5577&vend=31063"
+[187.79.113.183 19:30:45]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:30:45]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.113.183 19:30:45]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.113.183 19:30:46]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[187.79.113.183 19:30:46]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[187.79.113.183 19:31:07]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:31:07]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.113.183 19:31:08]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.113.183 19:31:08]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[187.79.113.183 19:31:09]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[187.79.113.183 19:31:09]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=5577&type=html&vend=31063&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=5577&type=html&vend=31063"
+[187.79.113.183 19:31:20]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=5577&vend=31063&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=5577&vend=31063"
+[187.79.113.183 19:31:21]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:31:22]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[187.79.113.183 19:31:22]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[187.79.113.183 19:31:34]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=9898&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=9898"
+[187.79.113.183 19:31:42]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8989&senha=enally0916&tipo=464&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8989"
+[187.79.113.183 19:31:43]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=add_vend&for-update-id=31063&consulta=29016&cliente=28673&data-venda=2017-08-02&previsao-entrega=2017-08-11&data-entrega=&loja=5&ordem-servico=32942&equipe=31&vendedor=60&agente=465&produtos=1000014:200,10:600&valor=800&entrada=80,00&tipo-pagamento-entrada=&prestacao-conta-entrada=&data-entrada=2017-08-11&qtd-parcelas=9&data-parcela=2017-09-11&nome-paciente=FRANCISCO ANTONIO COELHO RODRIGUES&esferico-olho-direito=-0.5&esferico-olho-esquerdo=-0.25&cilindrico-olho-direito=-0.5&cilindrico-olho-esquerdo=-0.5&eixo-olho-direito=115&eixo-olho-esquerdo=70&dnp-olho-direito=32&dnp-olho-esquerdo=32&dp=64&adicao=0&co=0&altura=0&lente=VS&cor=&oculista=433&observacao=&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###464"
+uri = "/index.php?op=add_vend"
+[187.79.113.183 19:31:44]
+uid = 464
+uname = "ELANE ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[187.79.113.183 19:31:47]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:31:47]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.113.183 19:31:50]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.113.183 19:31:52]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-vend&venda_id=31063&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-vend"
+[187.79.113.183 19:31:55]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.113.183 19:31:56]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.113.183 19:31:56]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.113.183 19:31:57]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=0001&venda=31063&js=sim&ns=1&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/print.php?code=0001&venda=31063&js=sim&ns=1"
+[187.79.113.183 19:33:17]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-lanc&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-lanc"
+[187.79.113.183 19:33:17]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-clie&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-clie"
+[187.79.113.183 19:33:40]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=31057&cpf=&pesquisar-clientes=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-clie"
+[187.79.113.183 19:33:43]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=4770&clie=28668&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=4770&clie=28668"
+[187.79.113.183 19:33:43]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8876&cidade=88&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8876&cidade=88"
+[187.79.113.183 19:34:07]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=add_clie&for-update-id=28668&nome=ARILEUDA MARIA TEIXEIRA&apelido=LEDA&nascimento=1967-05-10&rg=300972295&orgao-emissor=SSP&cpf=766.145.493-91&conjugue=ANTONIO CARLOS DE SOUSA&nome-pai=LEONCIO TEIXEIRA RODRIGUES&nome-mae=ISABEL JOSE DA SILVA&endereco=FAZENDA VELHA&numero=SN&observacao=&referencia=PROX AO CARTORIO CASA DE TIJOLOS SEM SER REBOCADA&bairro=BARRENTO&casa-propria=&tempo-casa-propria=&renda=0&localidade=801&telefone-1=(88) 99655-8686&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=add_clie"
+[187.79.113.183 19:34:08]
+uid = 464
+uname = "ELANE ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[187.79.113.183 19:34:15]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=31057&cpf=&pesquisar-clientes=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=cad-clie"
+[187.79.113.183 19:34:50]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=4770&clie=28668&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=4770&clie=28668"
+[187.79.113.183 19:34:50]
+uid = 464
+uname = "ELANE ARAUJO"
+params = "code=8876&cidade=88&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/ajax.php?code=8876&cidade=88"
+[187.79.113.183 19:34:55]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028&PHPSESSID=paun680o4epsu2342gu66pot03"
+uri = "/index.php?op=logout"
+[187.79.113.183 19:34:55]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[66.249.85.20 19:39:02]
+uid = -
+params = ""
+uri = "/"
+[187.79.113.183 19:44:12]
+uid = -
+params = "op=login&login=joaopaulo&senha=joaopaulo&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=login"
+[187.79.113.183 19:44:12]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[187.79.113.183 19:44:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=login"
+[187.79.113.183 19:44:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=home"
+[187.79.113.183 19:44:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=cad-prest-conta"
+[187.79.113.183 19:44:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 19:44:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 19:52:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=cad-caix"
+[187.79.113.183 19:54:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 19:54:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=80&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=80&caixa=3799"
+[187.79.113.183 19:55:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=350,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=80&entidade=5&observacao=rafael fez caixa
+&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 19:55:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 19:55:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3799"
+[187.79.113.183 19:56:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=163,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=8&observacao=vale pagamento sky 1234&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 19:56:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 19:56:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3799"
+[187.79.113.183 19:57:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=30,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=alimentação escritorio cod: 0563&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 19:57:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 19:58:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3799"
+[187.79.113.183 19:58:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=100,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=6&observacao=pagamento joelheira rafael&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 19:58:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 19:59:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3799"
+[187.79.113.183 19:59:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=100,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=470&observacao=vale escritorio 19:30&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 19:59:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:00:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/"
+[187.79.113.183 20:00:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/?op=cad-prest-conta"
+[187.79.113.183 20:00:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:00:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:00:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:00:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=500,00:1:2017-08-11&loja=5&cobrador=59&data-inicial=2017-08-11&data-final=2017-08-14&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/?op=add_prest_conta"
+[187.79.113.183 20:00:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[187.79.113.183 20:00:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:00:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:00:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=80&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=80&caixa=3799"
+[187.79.113.183 20:01:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=100,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=80&entidade=5&observacao=dr para equipe regison&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:01:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:01:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3799"
+[187.79.113.183 20:01:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=50,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=equipe regison&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:01:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:01:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=63&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=63&caixa=3799"
+[187.79.113.183 20:01:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=83&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=83&caixa=3799"
+[187.79.113.183 20:01:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=50,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=83&entidade=5&observacao=local do atendimento cod: 6958&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:01:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:01:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=83&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=83&caixa=3799"
+[187.79.113.183 20:02:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=30,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=83&entidade=5&observacao=local tejuçuoca 6960&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:02:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:03:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:03:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=1548,00:1:2017-08-11&loja=5&cobrador=59&data-inicial=2017-08-11&data-final=2017-08-12&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=add_prest_conta"
+[187.79.113.183 20:03:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[187.79.113.183 20:03:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:03:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.113.183 20:03:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:03:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3799"
+[187.79.113.183 20:04:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=30,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=elane e bigode cod: 6041&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:04:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:04:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=cad-caix"
+[187.79.113.183 20:04:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:07:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=32&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=32&caixa=3799"
+[187.79.113.183 20:08:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=1373,50&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=32&entidade=240&observacao=pagamento mes de julho&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:08:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:11:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9992&despesa=50590&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9992&despesa=50590"
+[187.79.113.183 20:11:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3799"
+[187.79.113.183 20:11:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=50590&valor=40,00&submit=Atualizar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=ALIMENTAÇÃO jp, breno walber eranildo 
+ESCRITORIO COD: 0563&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:11:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:12:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=57&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=57&caixa=3799"
+[187.79.113.183 20:12:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3799"
+[187.79.113.183 20:12:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=50,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=43&observacao=joao paulo vale cod: 0663&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=9004"
+[187.79.113.183 20:12:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3799&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/ajax.php?code=8181&caixa=3799"
+[187.79.113.183 20:12:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-natur&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/index.php?op=rel-natur"
+[187.79.113.183 20:13:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0012&html=sim&loja=5&natureza=33&data-limite-inferior=2017-08-01&data-limite-superior=2017-08-11&submit-html=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=gq2mdjmilma7ffvkevnon62272"
+uri = "/print.php?code=0012"

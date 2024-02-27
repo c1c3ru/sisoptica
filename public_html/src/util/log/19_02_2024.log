@@ -1,0 +1,51 @@
+[43.153.216.189 06:33:32]
+uid = -
+params = ""
+uri = "/"
+[104.167.222.126 07:17:20]
+uid = -
+params = ""
+uri = "/"
+[2a02:4780:1:5::1a 08:47:00]
+uid = -
+params = ""
+uri = "/"
+[54.200.100.229 08:49:56]
+uid = -
+params = ""
+uri = "/"
+[35.171.144.152 12:46:24]
+uid = -
+params = ""
+uri = "/"
+[177.14.232.4 13:31:25]
+uid = -
+params = ""
+uri = "/"
+[177.14.232.4 13:31:28]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[177.14.232.4 13:31:29]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.4 13:31:33]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[43.163.6.35 16:44:07]
+uid = -
+params = ""
+uri = "/"
+[42.83.147.34 22:31:57]
+uid = -
+params = ""
+uri = "/"
+[104.131.76.120 22:36:26]
+uid = -
+params = ""
+uri = "/"

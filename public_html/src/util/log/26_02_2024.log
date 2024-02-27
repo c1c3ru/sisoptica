@@ -1,0 +1,196 @@
+[2001:4ba0:cafe:c13::1 00:19:36]
+uid = -
+params = ""
+uri = "/"
+[2a02:4780:1:5::1a 03:15:55]
+uid = -
+params = ""
+uri = "/"
+[43.128.68.127 03:54:31]
+uid = -
+params = ""
+uri = "/"
+[35.87.167.59 04:46:18]
+uid = -
+params = ""
+uri = "/"
+[43.133.38.182 09:01:15]
+uid = -
+params = ""
+uri = "/"
+[182.44.67.97 09:05:46]
+uid = -
+params = ""
+uri = "/"
+[38.154.214.209 09:37:48]
+uid = -
+params = ""
+uri = "/"
+[54.196.187.194 09:37:52]
+uid = -
+params = ""
+uri = "/"
+[177.14.232.6 11:04:21]
+uid = -
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[177.14.232.6 11:04:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[177.14.232.6 11:04:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.6 11:04:46]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[177.14.232.6 11:04:50]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-equipe"
+uri = "/index.php?op=cad-equipe"
+[177.14.232.6 11:05:14]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-labo"
+uri = "/index.php?op=cad-labo"
+[177.14.232.6 11:05:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-loca"
+uri = "/index.php?op=cad-loca"
+[177.14.232.8 11:14:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-vend"
+uri = "/index.php?op=cad-vend"
+[177.14.232.8 11:14:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7776&loja=10"
+uri = "/ajax.php?code=7776&loja=10"
+[177.14.232.8 11:14:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7755&loja=10"
+uri = "/ajax.php?code=7755&loja=10"
+[177.14.232.8 11:14:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1118&loja=10"
+uri = "/ajax.php?code=1118&loja=10"
+[177.14.232.8 11:14:02]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7776&loja=10"
+uri = "/ajax.php?code=7776&loja=10"
+[177.14.232.8 11:14:02]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7755&loja=10"
+uri = "/ajax.php?code=7755&loja=10"
+[177.14.232.8 11:14:02]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1118&loja=10"
+uri = "/ajax.php?code=1118&loja=10"
+[177.14.232.5 11:17:36]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-central"
+uri = "/index.php?op=cad-central"
+[43.128.68.127 11:29:31]
+uid = -
+params = ""
+uri = "/"
+[43.130.32.224 12:02:01]
+uid = -
+params = ""
+uri = "/"
+[138.197.130.139 12:36:18]
+uid = -
+params = ""
+uri = "/"
+[193.34.74.245 13:09:39]
+uid = -
+params = ""
+uri = "/"
+[43.133.77.208 15:00:44]
+uid = -
+params = ""
+uri = "/"
+[43.153.110.177 18:01:33]
+uid = -
+params = ""
+uri = "/"
+[43.128.68.127 19:07:27]
+uid = -
+params = ""
+uri = "/"
+[182.44.67.97 19:12:38]
+uid = -
+params = ""
+uri = "/"
+[35.87.206.205 19:47:29]
+uid = -
+params = ""
+uri = "/"
+[189.36.205.83 20:08:10]
+uid = -
+params = ""
+uri = "/"
+[2804:18:7818:1ecc:84b9:591f:1528:df14 20:08:38]
+uid = -
+params = ""
+uri = "/"
+[189.36.205.83 20:20:50]
+uid = -
+params = ""
+uri = "/"
+[191.6.136.132 20:20:51]
+uid = -
+params = ""
+uri = "/"
+[189.36.205.83 20:21:03]
+uid = -
+params = "op=login&login=RAFAEL&senha=2024@Rafael&submeter=login"
+uri = "/?op=login"
+[189.36.205.83 20:21:03]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[189.36.205.83 20:21:35]
+uid = -
+params = ""
+uri = "/"
+[189.36.205.83 20:21:48]
+uid = -
+params = "op=login&login=RAFAEL&senha=rafael@2020&submeter=login"
+uri = "/?op=login"
+[189.36.205.83 20:21:49]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[189.36.205.83 20:21:59]
+uid = -
+params = ""
+uri = "/"
+[43.153.93.68 21:01:42]
+uid = -
+params = ""
+uri = "/"
+[43.157.40.112 22:57:49]
+uid = -
+params = ""
+uri = "/"
+[43.130.7.211 23:19:07]
+uid = -
+params = ""
+uri = "/"

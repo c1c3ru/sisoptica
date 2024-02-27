@@ -1,0 +1,148 @@
+[2a02:4780:1:5::1a 00:23:54]
+uid = -
+params = ""
+uri = "/"
+[34.247.40.184 02:11:26]
+uid = -
+params = ""
+uri = "/"
+[34.247.174.141 03:10:28]
+uid = -
+params = ""
+uri = "/"
+[2a06:4880:9000::97 09:19:32]
+uid = -
+params = ""
+uri = "/"
+[177.14.232.7 11:34:05]
+uid = -
+params = ""
+uri = "/"
+[177.14.232.7 11:34:20]
+uid = -
+params = "op=login&login=Rafael&senha=2024@Rafael&submeter=login"
+uri = "/?op=login"
+[177.14.232.7 11:34:20]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.7 11:34:31]
+uid = -
+params = "op=login&login=RAFAEL&senha=Rafael@2024&submeter=login"
+uri = "/index.php?op=login"
+[177.14.232.7 11:34:31]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.7 11:34:49]
+uid = -
+params = "op=login&login=RAFAEL&senha=2024@Rafael&submeter=login"
+uri = "/index.php?op=login"
+[177.14.232.7 11:34:49]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.3 11:35:36]
+uid = -
+params = "op=login&login=RAFAEL&senha=234567&submeter=login"
+uri = "/index.php?op=login"
+[177.14.232.3 11:35:36]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.5 11:37:06]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[177.14.232.5 11:37:06]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[177.14.232.5 11:37:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[177.14.232.5 11:37:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-central"
+uri = "/index.php?op=cad-central"
+[4.147.160.152 14:05:32]
+uid = -
+params = ""
+uri = "/"
+[4.147.160.152 15:05:53]
+uid = -
+params = ""
+uri = "/"
+[165.22.228.167 21:19:39]
+uid = -
+params = ""
+uri = "/"
+[45.160.234.31 22:19:24]
+uid = -
+params = ""
+uri = "/"
+[45.160.234.31 22:19:33]
+uid = -
+params = "op=login&login=JOAO&senha=010203&submeter=login"
+uri = "/?op=login"
+[45.160.234.31 22:19:33]
+uid = -
+msg = "-Falha na operação.<br/>Você não pode entrar no sistema. Seu usuário foi desativado"
+params = "op=home"
+uri = "/index.php?op=home"
+[45.160.234.31 22:19:42]
+uid = -
+params = "op=login&login=joao&senha=010203&submeter=login"
+uri = "/index.php?op=login"
+[45.160.234.31 22:19:42]
+uid = -
+msg = "-Falha na operação.<br/>Você não pode entrar no sistema. Seu usuário foi desativado"
+params = "op=home"
+uri = "/index.php?op=home"
+[45.160.234.31 22:20:23]
+uid = -
+params = "op=login&login=JOAO&senha=010203&submeter=login"
+uri = "/index.php?op=login"
+[45.160.234.31 22:20:23]
+uid = -
+msg = "-Falha na operação.<br/>Você não pode entrar no sistema. Seu usuário foi desativado"
+params = "op=home"
+uri = "/index.php?op=home"
+[45.160.234.31 22:48:33]
+uid = -
+params = ""
+uri = "/"
+[45.160.234.31 22:48:40]
+uid = -
+params = "op=login&login=JOAO&senha=010206&submeter=login"
+uri = "/?op=login"
+[45.160.234.31 22:48:40]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[45.160.234.31 22:50:25]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[45.160.234.31 22:50:26]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[45.160.234.31 22:50:26]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[2001:4ba0:cafe:c13::1 23:12:54]
+uid = -
+params = ""
+uri = "/"

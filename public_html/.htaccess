@@ -1,0 +1,24 @@
+#disable view of .ini
+<Files ~ "\.ini$">
+	Order allow,deny
+	Deny from all
+</Files>
+
+#disable view of .xml
+<Files ~ "\.xml$">
+	Order allow,deny
+	Deny from all
+</Files>
+
+#disable view of .log
+<Files ~ "\.log$">
+	Order allow,deny
+	Deny from all
+</Files>
+
+#disable list indexes
+Options -Indexes
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW ERRORPAGEID:LLYbGe3kJj
+ErrorDocument 500 /500.html
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE LLYbGe3kJj:ERRORPAGEID
+

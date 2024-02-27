@@ -1,0 +1,246 @@
+[2804:7f7:e28b:c2ce:5d0a:55e0:8ed1:956f 00:01:19]
+uid = -
+params = "op=cad-regi"
+uri = "/index.php?op=cad-regi"
+[2804:7f7:e28b:c2ce:5d0a:55e0:8ed1:956f 00:01:22]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[2804:7f7:e28b:c2ce:5d0a:55e0:8ed1:956f 00:01:22]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:7f7:e28b:c2ce:5d0a:55e0:8ed1:956f 00:01:29]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-regi"
+uri = "/index.php?op=cad-regi"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:02:56]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-func"
+uri = "/index.php?op=cad-func"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:03:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-equipe"
+uri = "/index.php?op=cad-equipe"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:15:13]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-rota"
+uri = "/index.php?op=cad-rota"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:15:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=5582&rota=53"
+uri = "/ajax.php?code=5582&rota=53"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:15:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=4471&loja=null"
+uri = "/ajax.php?code=4471&loja=null"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:15:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=4416&cobr=null"
+uri = "/ajax.php?code=4416&cobr=null"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:15:20]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=4471&loja=1"
+uri = "/ajax.php?code=4471&loja=1"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:15:37]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-regi"
+uri = "/index.php?op=cad-regi"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:16:55]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-rota"
+uri = "/index.php?op=cad-rota"
+[2804:7f7:e28b:c2ce:1db7:579f:a3fa:d2fa 00:17:09]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=4471&loja=1"
+uri = "/ajax.php?code=4471&loja=1"
+[2a02:4780:1:5::1a 00:23:54]
+uid = -
+params = ""
+uri = "/"
+[2804:7f7:e28b:c2ce:1975:dace:bd10:44e4 00:37:16]
+uid = -
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:1975:dace:bd10:44e4 00:37:17]
+uid = -
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:1975:dace:bd10:44e4 00:37:17]
+uid = -
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2804:7f7:e28b:c2ce:1975:dace:bd10:44e4 00:37:18]
+uid = -
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[5.133.192.88 02:55:41]
+uid = -
+params = ""
+uri = "/"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:05:49]
+uid = -
+params = ""
+uri = "/"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:06:13]
+uid = -
+params = ""
+uri = "/"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:06:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:06:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:06:35]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-equipe"
+uri = "/index.php?op=cad-equipe"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:07:12]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-labo"
+uri = "/index.php?op=cad-labo"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:10:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-veic"
+uri = "/index.php?op=cad-veic"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:10:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8802&loja=10"
+uri = "/ajax.php?code=8802&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:10:34]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-caix"
+uri = "/index.php?op=cad-caix"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:10:37]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-central"
+uri = "/index.php?op=cad-central"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:10:46]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-rene"
+uri = "/index.php?op=cad-rene"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:10:53]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-tipo-pgmto"
+uri = "/index.php?op=cad-tipo-pgmto"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-tipo"
+uri = "/index.php?op=cad-tipo"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:04]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-vend"
+uri = "/index.php?op=cad-vend"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:04]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7776&loja=10"
+uri = "/ajax.php?code=7776&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:04]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1118&loja=10"
+uri = "/ajax.php?code=1118&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:04]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7755&loja=10"
+uri = "/ajax.php?code=7755&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:06]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7776&loja=10"
+uri = "/ajax.php?code=7776&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:06]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7755&loja=10"
+uri = "/ajax.php?code=7755&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:06]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1118&loja=10"
+uri = "/ajax.php?code=1118&loja=10"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=5508&loja=10&dt-venda=2024-02-08"
+uri = "/ajax.php?code=5508&loja=10&dt-venda=2024-02-08"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:11:45]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=9001"
+uri = "/ajax.php?code=9001"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:12:18]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=5508&loja=10&dt-venda=2024-02-08"
+uri = "/ajax.php?code=5508&loja=10&dt-venda=2024-02-08"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:12:40]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-lanc"
+uri = "/index.php?op=cad-lanc"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:12:49]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=10&pesquisar_lancamento=Pesquisar"
+uri = "/index.php?op=cad-lanc"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:13:06]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-repasse"
+uri = "/index.php?op=cad-repasse"
+[2804:14c:de85:9351:517d:710b:b26b:974b 09:13:07]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=4471&loja=10"
+uri = "/ajax.php?code=4471&loja=10"
+[43.163.3.58 10:01:20]
+uid = -
+params = ""
+uri = "/"
+[66.249.75.32 19:54:05]
+uid = -
+params = ""
+uri = "/"
+[66.249.75.44 19:59:35]
+uid = -
+params = ""
+uri = "/"
+[2001:bc8:1600:4031::1 20:03:43]
+uid = -
+params = ""
+uri = "/"
+[2a01:4f9:c012:6365::1 20:03:48]
+uid = -
+params = ""
+uri = "/"

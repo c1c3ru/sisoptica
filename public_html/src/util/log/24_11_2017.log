@@ -1,0 +1,4377 @@
+[66.249.66.2 02:27:37]
+uid = -
+params = ""
+uri = "/"
+[191.242.175.52 07:01:31]
+uid = -
+params = "_ga=GA1.2.1246092241.1501670772"
+uri = "/"
+[191.242.175.52 07:01:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1246092241.1501670772&PHPSESSID=mf89jks5drqk8e5vj3rri2kb96"
+uri = "/?op=login"
+[191.242.175.52 07:01:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1246092241.1501670772&PHPSESSID=mf89jks5drqk8e5vj3rri2kb96"
+uri = "/index.php?op=home"
+[191.242.175.52 07:03:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=val-retornos&_ga=GA1.2.1246092241.1501670772&PHPSESSID=mf89jks5drqk8e5vj3rri2kb96"
+uri = "/index.php?op=val-retornos"
+[191.242.175.52 07:03:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=avalicao_ret&_ga=GA1.2.1246092241.1501670772&PHPSESSID=mf89jks5drqk8e5vj3rri2kb96"
+uri = "/index.php?op=avalicao_ret"
+[191.242.175.52 07:03:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=avalicao_ret&_ga=GA1.2.1246092241.1501670772&PHPSESSID=mf89jks5drqk8e5vj3rri2kb96"
+uri = "/index.php?op=avalicao_ret"
+[191.242.175.52 07:06:59]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/"
+[191.242.175.52 07:08:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/?op=login"
+[191.242.175.52 07:08:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=home"
+[191.242.175.52 07:08:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=home"
+[191.242.175.52 07:08:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/"
+[191.242.175.52 07:15:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=home"
+[191.242.175.52 07:16:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:16:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[191.242.175.52 07:16:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:16:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:16:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:16:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[191.242.175.52 07:16:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[191.242.175.52 07:16:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:16:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:16:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31704&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:16:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:16:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:16:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:20:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31704&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31704"
+[191.242.175.52 07:21:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31704&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:21:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:21:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:21:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:21:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:21:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31700&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:21:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:21:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:21:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:21:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31700&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31700"
+[191.242.175.52 07:21:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31700&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:21:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:21:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:21:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:21:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:21:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31702&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:21:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:21:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:21:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:21:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31702&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31702"
+[191.242.175.52 07:21:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31702&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:21:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:21:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:21:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:21:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:21:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31708&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:21:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:21:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:21:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:22:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31708&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31708"
+[191.242.175.52 07:22:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31708&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:22:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:22:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:22:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:22:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:22:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31709&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:22:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:22:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:22:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:22:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31709&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31709"
+[191.242.175.52 07:22:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31709&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:22:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:22:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:22:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:22:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:23:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31721&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:23:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:23:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:23:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:23:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31721&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31721"
+[191.242.175.52 07:23:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31721&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:23:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:23:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:23:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:23:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:23:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31717&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:23:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:23:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:23:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:23:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31717&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31717"
+[191.242.175.52 07:23:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31717&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:23:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:23:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:23:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:23:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:23:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31713&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:23:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:23:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:23:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:23:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31713&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31713"
+[191.242.175.52 07:24:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31713&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:24:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:24:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:24:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:24:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:24:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31713&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:24:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:24:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:24:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:25:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31712&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:25:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:25:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:25:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:25:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31712&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31712"
+[191.242.175.52 07:25:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31712&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:25:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:25:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:25:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:25:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:25:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31723&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:25:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:25:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:25:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:25:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31723&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31723"
+[191.242.175.52 07:26:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31723&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:26:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:26:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:26:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:26:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:26:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31716&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:26:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:26:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:26:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31716&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:26:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:26:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:26:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:26:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31716&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31716"
+[191.242.175.52 07:26:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:26:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31716&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:26:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:26:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:26:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:26:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:26:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31715&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:26:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:26:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:26:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:26:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31715&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31715"
+[191.242.175.52 07:26:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31715&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:26:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:27:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31714&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:27:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:27:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:27:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:27:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&venda=31714&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9733&venda=31714"
+[191.242.175.52 07:27:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=dt_ent_v&venda=31714&data-entrega=2017-11-23&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=dt_ent_v"
+[191.242.175.52 07:27:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:27:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:27:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:27:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:28:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-ventr&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/?op=rel-ventr"
+[191.242.175.52 07:28:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7755&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=7755&loja=5"
+[191.242.175.52 07:28:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0020&html=sim&loja=5&agente=&data-limite-inferior=2017-11-23&data-limite-superior=2017-11-23&submit-html=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/print.php?code=0020"
+[191.242.175.52 07:30:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php"
+[191.242.175.52 07:30:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:30:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31704&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:30:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31704&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31704"
+[191.242.175.52 07:30:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:30:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=59"
+[191.242.175.52 07:31:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31704&data=2017-11-20&prest=7693&cobrador=59&valor=50.00&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4559"
+[191.242.175.52 07:31:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31704&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31704"
+[191.242.175.52 07:31:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:31:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31700&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:31:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31700&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31700"
+[191.242.175.52 07:31:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:31:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=59"
+[191.242.175.52 07:31:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31700&data=2017-11-20&prest=7693&cobrador=59&valor=50.00&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4559"
+[191.242.175.52 07:31:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31700&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31700"
+[191.242.175.52 07:31:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:31:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31703&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:31:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31703"
+[191.242.175.52 07:31:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:32:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[191.242.175.52 07:32:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:32:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:32:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:32:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[191.242.175.52 07:32:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[191.242.175.52 07:32:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:32:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[191.242.175.52 07:32:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:32:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:32:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[191.242.175.52 07:32:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=31703&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 07:32:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:32:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:32:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:32:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=5577&vend=31703"
+[191.242.175.52 07:32:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:32:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[191.242.175.52 07:32:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[191.242.175.52 07:32:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5508&loja=5&dt-venda=2017-11-14&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=5508&loja=5&dt-venda=2017-11-14"
+[191.242.175.52 07:33:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:33:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 07:33:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 07:33:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[191.242.175.52 07:33:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[191.242.175.52 07:33:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php"
+[191.242.175.52 07:33:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&alias_edit=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7699"
+[191.242.175.52 07:33:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&alias_edit=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7699"
+[191.242.175.52 07:33:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8881&prest=7699"
+[191.242.175.52 07:33:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:33:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:33:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:33:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:35:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=5577&vend=31703"
+[191.242.175.52 07:35:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 07:35:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[191.242.175.52 07:35:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[191.242.175.52 07:39:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&alias_edit=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7699"
+[191.242.175.52 07:39:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:39:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:40:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:40:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8881&prest=7699"
+[191.242.175.52 07:40:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:40:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31703&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:40:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31703"
+[191.242.175.52 07:40:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:40:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=59"
+[191.242.175.52 07:40:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31703&data=2017-11-22&prest=7693&cobrador=59&valor=50.00&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4559"
+[191.242.175.52 07:40:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31703"
+[191.242.175.52 07:40:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:40:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31702&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:40:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31702&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31702"
+[191.242.175.52 07:41:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:41:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7693&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8881&prest=7693"
+[191.242.175.52 07:41:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7693&itens-prestacao=45076:150,00:1:2017-11-20&loja=5&cobrador=59&data-inicial=2017-11-20&data-final=2017-11-22&status=&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=add_prest_conta"
+[191.242.175.52 07:41:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 07:41:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7693&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=8881&prest=7693"
+[191.242.175.52 07:41:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7693&itens-prestacao=45085:150,00:1:2017-11-20&loja=5&cobrador=59&data-inicial=2017-11-20&data-final=2017-11-22&status=1&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=add_prest_conta"
+[191.242.175.52 07:41:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 07:41:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 07:41:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=59"
+[191.242.175.52 07:41:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31702&data=2017-11-23&prest=7699&cobrador=59&valor=50.00&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4559"
+[191.242.175.52 07:41:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31702&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31702"
+[191.242.175.52 07:41:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:41:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31708&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:41:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31708&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31708"
+[191.242.175.52 07:42:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31709&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:42:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31709&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31709"
+[191.242.175.52 07:42:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=28"
+[191.242.175.52 07:43:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31721&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 07:43:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31721&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31721"
+[191.242.175.52 07:43:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=356"
+[191.242.175.52 07:43:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=59"
+[191.242.175.52 07:43:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31721&data=2017-11-23&prest=7699&cobrador=59&valor=50.00&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=4559"
+[191.242.175.52 07:43:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31721&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9923&vend=31721"
+[191.242.175.52 07:43:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1736666189.1501674028&PHPSESSID=bga3eb2u8qig5jeknrbvun74c4"
+uri = "/ajax.php?code=9117&cobrador=356"
+[191.242.175.52 07:49:46]
+uid = -
+params = ""
+uri = "/"
+[191.242.175.52 07:49:56]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/?op=login"
+[191.242.175.52 07:49:57]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/index.php?op=home"
+[191.242.175.52 07:50:04]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-caix&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 07:50:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8181&caixa=3952&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/ajax.php?code=8181&caixa=3952"
+[191.242.175.52 07:50:31]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1333&natureza=80&caixa=3952&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/ajax.php?code=1333&natureza=80&caixa=3952"
+[191.242.175.52 07:50:42]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=9004&for-update-id=&valor=250,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=80&entidade=5&observacao=2743-1&caixa=3952&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 07:50:42]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8181&caixa=3952&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/ajax.php?code=8181&caixa=3952"
+[191.242.175.52 07:50:52]
+uid = -
+params = "op=logout&PHPSESSID=mr9djsii7sbjp7gmp323plpj61"
+uri = "/index.php?op=logout"
+[191.242.175.52 07:50:52]
+uid = -
+params = ""
+uri = "/index.php"
+[187.79.58.182 07:54:40]
+uid = -
+params = "_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php"
+[187.79.58.182 07:54:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=login"
+[187.79.58.182 07:54:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=home"
+[187.79.58.182 07:58:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 07:58:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31721&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 07:58:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31721&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31721"
+[187.79.58.182 07:58:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 07:58:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31717&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 07:58:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31717&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31717"
+[187.79.58.182 07:58:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 07:58:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=59"
+[187.79.58.182 07:58:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31717&data=2017-11-23&prest=7699&cobrador=59&valor=50.00&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4559"
+[187.79.58.182 07:58:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31717&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31717"
+[187.79.58.182 07:58:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 07:59:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31723&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 07:59:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31723&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31723"
+[187.79.58.182 07:59:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 07:59:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=59&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=59"
+[187.79.58.182 07:59:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=1&venda=31723&data=2017-11-23&prest=7699&cobrador=59&valor=30.00&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4559"
+[187.79.58.182 07:59:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31723&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31723"
+[187.79.58.182 07:59:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 07:59:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=1&vparc=31723&actual=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9733&nparc=1&vparc=31723&actual="
+[187.79.58.182 07:59:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=1&vparc=31723&data=2017-12-30&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=8700"
+[187.79.58.182 07:59:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31723&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31723"
+[187.79.58.182 07:59:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 08:00:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31716&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:00:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31716&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31716"
+[187.79.58.182 08:00:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 08:01:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31715&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[191.242.175.52 08:04:10]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[191.242.175.52 08:04:22]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/index.php?op=login"
+[191.242.175.52 08:04:22]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/index.php?op=home"
+[191.242.175.52 08:04:26]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&alias_edit=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7699"
+[191.242.175.52 08:04:27]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8881&prest=7699&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/ajax.php?code=8881&prest=7699"
+[191.242.175.52 08:04:27]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 08:04:27]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 08:04:27]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=91qhkscl44fgffujf99ci7mo66"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 08:10:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:10:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php"
+[187.79.58.182 08:10:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&alias_edit=7699&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7699"
+[187.79.58.182 08:10:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7699&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=8881&prest=7699"
+[187.79.58.182 08:10:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 08:10:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 08:10:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 08:10:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7699&itens-prestacao=45083:180,00:1:2017-11-23&loja=5&cobrador=59&data-inicial=2017-11-23&data-final=2017-11-23&status=1&submit=Atualizar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=add_prest_conta"
+[187.79.58.182 08:10:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 08:10:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 08:10:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 08:10:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:10:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=francisco manoel de susa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:10:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=francisco manoel de sousa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:10:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=1201&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=5577&type=html&vend=1201"
+[187.79.58.182 08:11:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=5577&type=html&vend=31105"
+[187.79.58.182 08:11:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=1201&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=5577&type=html&vend=1201"
+[187.79.58.182 08:11:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=5577&type=html&vend=31105"
+[187.79.58.182 08:11:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9923&vend=31105"
+[187.79.58.182 08:11:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=28&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=9117&cobrador=28"
+[187.79.58.182 08:11:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7601&numero=3&venda=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=7601&numero=3&venda=31105"
+[187.79.58.182 08:11:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7601&numero=2&venda=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=7601&numero=2&venda=31105"
+[187.79.58.182 08:11:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7601&numero=1&venda=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=7601&numero=1&venda=31105"
+[187.79.58.182 08:11:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=voangt02hpu2ntf235sb4dmi13"
+uri = "/ajax.php?code=5577&type=html&vend=31105"
+[187.79.58.182 08:36:52]
+uid = -
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=francisco manoel de sousa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:36:55]
+uid = -
+params = "_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php"
+[187.79.58.182 08:37:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=login"
+[187.79.58.182 08:37:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=home"
+[187.79.58.182 08:37:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[187.79.58.182 08:37:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 08:37:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 08:37:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 08:37:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[187.79.58.182 08:37:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[187.79.58.182 08:45:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=login"
+[187.79.58.182 08:45:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=home"
+[187.79.58.182 08:45:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:45:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=francisco manoel de sousa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 08:45:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31105&_ga=GA1.2.1269899824.1501680668&PHPSESSID=2iv830l04q36itnh4g3tc8fr31"
+uri = "/ajax.php?code=5577&type=html&vend=31105"
+[187.79.58.182 09:12:22]
+uid = -
+params = "op=cad-vend&open-cad=1&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[187.79.58.182 09:12:29]
+uid = -
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=francisco manoel de sousa&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 09:12:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=login"
+[187.79.58.182 09:12:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=home"
+[187.79.58.182 09:18:27]
+uid = -
+params = "op=login&login=joaopaulo&senha=joalucas&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=login"
+[187.79.58.182 09:18:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[187.79.58.182 09:18:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 09:18:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=home"
+[187.79.58.182 09:19:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-ventr&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=rel-ventr"
+[187.79.58.182 09:19:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7755&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/ajax.php?code=7755&loja=5"
+[187.79.58.182 09:19:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0020&html=sim&loja=5&agente=&data-limite-inferior=2017-11-23&data-limite-superior=2017-11-23&submit-html=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/print.php?code=0020"
+[187.79.58.182 09:24:11]
+uid = -
+params = ""
+uri = "/index.php"
+[187.79.58.182 09:24:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=login"
+[187.79.58.182 09:24:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=home"
+[187.79.58.182 09:24:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 09:24:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31717&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 09:24:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31717&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31717"
+[187.79.58.182 09:24:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-ventr&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/index.php?op=rel-ventr"
+[187.79.58.182 09:24:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7755&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ap0cqnptg0btiqlbbfmeh83m52"
+uri = "/ajax.php?code=7755&loja=5"
+[187.79.58.182 09:24:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-ventr&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=rel-ventr"
+[187.79.58.182 09:24:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7755&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=7755&loja=5"
+[187.79.58.182 09:24:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0020&html=sim&loja=5&agente=&data-limite-inferior=2017-11-23&data-limite-superior=2017-11-23&submit-html=&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/print.php?code=0020"
+[187.79.58.182 09:24:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31717&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31717"
+[187.79.58.182 09:24:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31717&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31717"
+[187.79.58.182 09:24:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:24:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:24:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:24:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31717&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31717"
+[187.79.58.182 09:24:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31721&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31721"
+[187.79.58.182 09:24:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31721&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31721"
+[187.79.58.182 09:24:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:24:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:24:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:24:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31721&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31721"
+[187.79.58.182 09:25:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31723&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31723"
+[187.79.58.182 09:25:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31723&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31723"
+[187.79.58.182 09:25:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:25:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:25:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:25:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31723&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31723"
+[187.79.58.182 09:25:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31716&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31716"
+[187.79.58.182 09:25:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:25:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:25:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:25:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31716&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31716"
+[187.79.58.182 09:25:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31716&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31716"
+[187.79.58.182 09:25:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31715&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31715"
+[187.79.58.182 09:25:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31715&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31715"
+[187.79.58.182 09:25:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:25:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:25:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:25:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31715&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31715"
+[187.79.58.182 09:25:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31713&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31713"
+[187.79.58.182 09:25:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31713&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31713"
+[187.79.58.182 09:25:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:25:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:25:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:25:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31713&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31713"
+[187.79.58.182 09:25:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31714&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31714"
+[187.79.58.182 09:25:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31714&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31714"
+[187.79.58.182 09:25:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:25:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:25:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:25:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31714&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31714"
+[187.79.58.182 09:25:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31712&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31712"
+[187.79.58.182 09:25:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31712&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31712"
+[187.79.58.182 09:25:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:25:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:25:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:25:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31712&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31712"
+[191.242.175.52 09:25:25]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[187.79.58.182 09:26:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31700&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31700"
+[187.79.58.182 09:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31700&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31700"
+[187.79.58.182 09:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31700&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31700"
+[187.79.58.182 09:26:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31702&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31702"
+[187.79.58.182 09:26:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31702&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31702"
+[187.79.58.182 09:26:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:26:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:26:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:26:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31702&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31702"
+[187.79.58.182 09:26:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31704&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31704"
+[187.79.58.182 09:26:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31704&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31704"
+[187.79.58.182 09:26:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:26:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:26:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:26:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31704&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31704"
+[187.79.58.182 09:26:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31708&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31708"
+[187.79.58.182 09:26:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31708&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31708"
+[187.79.58.182 09:26:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:26:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:26:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:26:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31708&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31708"
+[187.79.58.182 09:26:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&v=31709&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/index.php?op=cad-vend&v=31709"
+[187.79.58.182 09:26:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&vend=31709&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&vend=31709"
+[187.79.58.182 09:26:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 09:26:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 09:26:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 09:27:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31709&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&type=html&vend=31709"
+[187.79.58.182 09:31:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/"
+[187.79.58.182 09:31:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-repasse&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/?op=cad-repasse"
+[187.79.58.182 09:31:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-repasse&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/?op=cad-repasse"
+[187.79.58.182 09:31:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 09:31:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&resum=1&vend=31105&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/ajax.php?code=5577&resum=1&vend=31105"
+[187.79.58.182 09:32:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_repasse&for-update-id=&dt-chegada=2017-11-24&dt-envio-conserto=2017-11-24&dt-recebimento-conserto=&dt-envio-cliente=&loja=5&cobrador=356&venda=31105&observacao=farzer novo par de lente, revisão&submit=Cadastrar&PHPSESSID=12nkl1uulllijefed6lcsbj2v7"
+uri = "/?op=add_repasse"
+[187.79.58.182 09:32:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-repasse&PHPSESSID=12nkl1uulllijefed6lcsbj2v7&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-repasse"
+[187.79.58.182 10:09:12]
+uid = -
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:09:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=login"
+[187.79.58.182 10:09:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=home"
+[187.79.58.182 10:09:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:09:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:09:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=neuza maria&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:09:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=neuza maria&venda_id_loja=&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:09:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=gomes b&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:09:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30098&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=30098"
+[187.79.58.182 10:09:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31331&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=31331"
+[187.79.58.182 10:09:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30098&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=30098"
+[187.79.58.182 10:10:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30098&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=30098"
+[187.79.58.182 10:10:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31331&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=31331"
+[187.79.58.182 10:10:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30098&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=30098"
+[187.79.58.182 10:10:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31331&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=31331"
+[187.79.58.182 10:11:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30098&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=30098"
+[187.79.58.182 10:12:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30098&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=30098"
+[187.79.58.182 10:12:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31331&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=31331"
+[187.79.58.182 10:12:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-repasse&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-repasse"
+[187.79.58.182 10:13:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=7570&repasse=2097&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=7570&repasse=2097"
+[187.79.58.182 10:13:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&resum=1&vend=31331&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&resum=1&vend=31331"
+[187.79.58.182 10:13:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 10:15:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31331&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=31331"
+[187.79.58.182 10:25:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_repasse&for-update-id=2097&dt-chegada=2017-11-20&dt-envio-conserto=2017-11-20&dt-recebimento-conserto=&dt-envio-cliente=&loja=5&cobrador=28&venda=31331&observacao=FAZER CONCERTO DA ARMACAO (GENIVAN TROUXE)&submit=Atualizar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=add_repasse"
+[187.79.58.182 10:25:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-repasse&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-repasse"
+[187.79.58.182 10:38:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:38:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maRIA FABIANA&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:38:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maRIA FABIANA&venda_id_loja=&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 10:38:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29298&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=29298"
+[187.79.58.182 10:38:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29298&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9923&vend=29298"
+[187.79.58.182 10:38:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=256&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9117&cobrador=256"
+[187.79.58.182 10:38:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29298&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9923&vend=29298"
+[187.79.58.182 10:38:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=256&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9117&cobrador=256"
+[187.79.58.182 10:39:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29298&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=5577&type=html&vend=29298"
+[187.79.58.182 10:39:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29298&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9923&vend=29298"
+[187.79.58.182 10:39:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=256&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9117&cobrador=256"
+[187.79.58.182 10:40:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29298&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9923&vend=29298"
+[187.79.58.182 10:40:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=256&_ga=GA1.2.1269899824.1501680668&PHPSESSID=fvp9kv2n6eus47b6i6k7ulebj0"
+uri = "/ajax.php?code=9117&cobrador=256"
+[187.79.58.182 11:25:14]
+uid = -
+params = "op=cad-vend&open-cad=1&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[187.79.58.182 11:25:46]
+uid = -
+params = "op=login&login=JOAOPAULO&senha=JOAOLCUAS&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=login"
+[187.79.58.182 11:25:46]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[187.79.58.182 11:25:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=JOAOPAULO&senha=JOAOLUCAS&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=login"
+[187.79.58.182 11:25:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=home"
+[187.79.58.182 11:25:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 11:25:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=31747&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 11:26:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&open-cad=1&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[187.79.58.182 11:26:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 11:26:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 11:26:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 11:26:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[187.79.58.182 11:26:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[187.79.58.182 11:26:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 11:26:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 11:26:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=1&equipe=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[187.79.58.182 11:26:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 11:26:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[187.79.58.182 11:26:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/index.php?op=cad-vend"
+[187.79.58.182 11:26:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8901&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=8901&loja=5"
+[187.79.58.182 11:26:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1118&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=1118&loja=5"
+[187.79.58.182 11:26:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1102&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=1102&loja=5"
+[187.79.58.182 11:26:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31748&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31748"
+[187.79.58.182 11:26:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31749&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31749"
+[187.79.58.182 11:27:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31752&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31752"
+[187.79.58.182 11:27:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31750&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31750"
+[187.79.58.182 11:27:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31751&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31751"
+[187.79.58.182 11:27:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31753&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31753"
+[187.79.58.182 11:27:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31754&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31754"
+[187.79.58.182 11:28:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31755&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31755"
+[187.79.58.182 11:28:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31756&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31756"
+[187.79.58.182 11:28:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31757&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31757"
+[187.79.58.182 11:28:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31758&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31758"
+[187.79.58.182 11:28:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31759&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31759"
+[187.79.58.182 11:29:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31760&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31760"
+[187.79.58.182 11:29:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31762&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31762"
+[187.79.58.182 11:29:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31763&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31763"
+[187.79.58.182 11:29:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31764&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31764"
+[187.79.58.182 11:30:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31765&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31765"
+[187.79.58.182 11:30:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31766&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31766"
+[187.79.58.182 11:30:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31767&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31767"
+[187.79.58.182 11:30:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31768&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31768"
+[187.79.58.182 11:30:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31769&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31769"
+[187.79.58.182 11:31:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=31770&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ed5qmpbh4ra0mbfbq06ip50pq1"
+uri = "/ajax.php?code=5577&type=html&vend=31770"
+[187.79.58.182 14:03:49]
+uid = -
+params = "_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php"
+[187.79.58.182 14:04:02]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=login&login=angelafarias&senha=1980angela&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/index.php?op=login"
+[187.79.58.182 14:04:02]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/index.php?op=home"
+[187.79.58.182 14:04:25]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 14:04:40]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=FRANCISCA VANIA TEIXEIRA MOURA&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 14:04:43]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=5577&type=html&vend=31092&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/ajax.php?code=5577&type=html&vend=31092"
+[187.79.58.182 14:05:05]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9923&vend=31092&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/ajax.php?code=9923&vend=31092"
+[187.79.58.182 14:05:05]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=qev75lpp879nfskbqm10711dc6"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 14:31:49]
+uid = -
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 14:32:00]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=login&login=angelafarias&senha=1980ANGELA&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=login"
+[187.79.58.182 14:32:01]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=home"
+[187.79.58.182 14:32:06]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 14:32:06]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:32:06]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:32:28]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:32:48]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-caix&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=cad-caix"
+[187.79.58.182 14:33:05]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=8109&caixa=3952&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=8109&caixa=3952"
+[187.79.58.182 14:33:56]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=8109&caixa=3952&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=8109&caixa=3952"
+[187.79.58.182 14:34:12]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 14:34:12]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:34:12]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:34:13]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:34:51]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=150,00:1:2017-11-24&loja=5&cobrador=59&data-inicial=2017-11-23&data-final=2017-11-24&submit=Cadastrar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=add_prest_conta"
+[187.79.58.182 14:34:51]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+msg = "-Falha na operação.<br/>Não Existe o caixa aberto para o dia 24/11/2017"
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2&message_cookie=-Falha na operação.<br/>Não Existe o caixa aberto para o dia 24/11/2017"
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 14:34:51]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:34:51]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:35:00]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 14:39:47]
+uid = -
+params = "op=logout&_ga=GA1.2.1269899824.1501680668&PHPSESSID=1j8ligdd71sco6plbgst1g22o2"
+uri = "/index.php?op=logout"
+[187.79.58.182 14:39:47]
+uid = -
+params = "_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php"
+[191.242.175.52 14:51:54]
+uid = -
+params = "op=login&login=walbermoura&senha=atheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php?op=login"
+[191.242.175.52 14:51:54]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[191.242.175.52 14:52:10]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=7tkn66uofnm5r23rnr9lvgsmk2"
+uri = "/index.php?op=login"
+[191.242.175.52 14:52:10]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=7tkn66uofnm5r23rnr9lvgsmk2"
+uri = "/index.php?op=home"
+[191.242.175.52 14:52:13]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=7tkn66uofnm5r23rnr9lvgsmk2"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 14:52:22]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3952&_ga=GA1.2.1736666189.1501674028&PHPSESSID=7tkn66uofnm5r23rnr9lvgsmk2"
+uri = "/ajax.php?code=8181&caixa=3952"
+[191.242.175.52 14:52:36]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=7tkn66uofnm5r23rnr9lvgsmk2"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 14:52:44]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3952&_ga=GA1.2.1736666189.1501674028&PHPSESSID=7tkn66uofnm5r23rnr9lvgsmk2"
+uri = "/ajax.php?code=8181&caixa=3952"
+[191.242.175.52 15:00:30]
+uid = -
+params = ""
+uri = "/"
+[191.242.175.52 15:00:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=friosictdlq5r3619nkali3754"
+uri = "/?op=login"
+[191.242.175.52 15:00:48]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=friosictdlq5r3619nkali3754"
+uri = "/index.php?op=home"
+[191.242.175.52 15:01:07]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-gerencial&PHPSESSID=friosictdlq5r3619nkali3754"
+uri = "/index.php?op=rel-gerencial"
+[191.242.175.52 15:01:36]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-11-01&dt-final=2017-11-24&submit-html=&PHPSESSID=friosictdlq5r3619nkali3754"
+uri = "/print.php?code=0018"
+[191.242.175.52 15:08:11]
+uid = -
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 15:08:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=login"
+[191.242.175.52 15:08:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=home"
+[191.242.175.52 15:09:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 15:09:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 15:09:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 15:09:23]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&loja-prest-conta-pesquisa=5&cobrador-prest-conta-pesquisa=-1&status-prest-conta-pesquisa=1&pesquisar-prest-conta=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 15:09:23]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 15:09:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 15:09:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 15:10:30]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8881&type=html&prest=7698&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8881&type=html&prest=7698"
+[191.242.175.52 15:10:46]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 15:10:54]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3952&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3952"
+[191.242.175.52 15:16:29]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=fec_caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=fec_caix"
+[191.242.175.52 15:16:29]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 15:16:39]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_caix&for-update-id=&data=2017-11-24&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=add_caix"
+[191.242.175.52 15:16:39]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 15:16:49]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 15:17:00]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=79&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1333&natureza=79&caixa=3953"
+[191.242.175.52 15:17:12]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=100,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=79&entidade=5&observacao=2 consultas&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 15:17:12]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 15:17:27]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3953"
+[191.242.175.52 15:17:46]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=10,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=almoço regison&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 15:17:46]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 15:18:04]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=67&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1333&natureza=67&caixa=3953"
+[191.242.175.52 15:18:14]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=40,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=67&entidade=5&observacao=lotaçao&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 15:18:14]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 15:18:28]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3953"
+[191.242.175.52 15:18:56]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=50,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=equipe erineudo&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 15:18:56]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 15:19:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3953"
+[191.242.175.52 15:19:14]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=80,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=atendimento&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 15:19:14]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 15:20:44]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:20:45]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:20:45]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:20:45]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:20:47]
+uid = -
+params = "op=cad-vend"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:20:55]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria davileno&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:20:55]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:20:55]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:20:55]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/index.php?op=login"
+[191.242.175.52 15:21:00]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/index.php?op=home"
+[191.242.175.52 15:21:04]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-vend&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:21:05]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8901&loja=5&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:21:05]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1118&loja=5&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:05]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1102&loja=5&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:21:06]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria dalvileno&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:21:06]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:21:06]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:21:06]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria dalvileno&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:21:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:21:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:21:11]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-orde&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-orde"
+[191.242.175.52 15:21:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=cad-vend&venda_id=31734&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:21:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=8901&loja=5&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:21:16]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1118&loja=5&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:17]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=1102&loja=5&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:21:18]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-orde&ordem_servico_id_laboratorio=3&ordem_servico_id_loja=5&ordem_servico_numero=181222&ordem_servico_data_envio_lab=&ordem_servico_data_recebimento_lab=&pesquisar-ordens=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-orde"
+[191.242.175.52 15:21:19]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=5577&type=html&vend=31734&PHPSESSID=2rsqllbao51ovd0le8oj0g7ik2"
+uri = "/ajax.php?code=5577&type=html&vend=31734"
+[191.242.175.52 15:21:23]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-orde&ordem_servico_id_laboratorio=3&ordem_servico_id_loja=5&ordem_servico_numero=18122&ordem_servico_data_envio_lab=&ordem_servico_data_recebimento_lab=&pesquisar-ordens=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-orde"
+[191.242.175.52 15:21:34]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:21:34]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:21:34]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:34]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:21:38]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=31734&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 15:21:38]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:21:38]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 15:21:38]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 15:21:45]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=5577&type=html&vend=31734&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=5577&type=html&vend=31734"
+[191.242.175.52 15:22:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=5577&vend=31734&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=5577&vend=31734"
+[191.242.175.52 15:22:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 15:22:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8900&loja=5&cargo=1&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[191.242.175.52 15:22:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[191.242.175.52 15:24:20]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028&PHPSESSID=e9lckudq1fqpp4ff7nddcek2i5"
+uri = "/index.php?op=logout"
+[191.242.175.52 15:24:20]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[187.79.58.182 15:45:43]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=login&login=angelafarias&senha=1980ANGELA&submeter=login&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=login"
+[187.79.58.182 15:45:43]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=b23g92iat25oq8dlmp9a4nmpu3"
+uri = "/index.php?op=home"
+[187.79.58.182 16:06:45]
+uid = -
+params = "op=cad-caix&_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php?op=cad-caix"
+[187.79.58.182 16:06:57]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=login&login=angelafarias&senha=1980ANGELA&submeter=login&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=login"
+[187.79.58.182 16:06:58]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=home&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=home"
+[187.79.58.182 16:07:00]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-caix&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-caix"
+[187.79.58.182 16:07:12]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 16:07:33]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&venda_id=31092&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 16:07:40]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9923&vend=31092&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9923&vend=31092"
+[187.79.58.182 16:07:40]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 16:07:50]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 16:07:51]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 16:07:51]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 16:07:53]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 16:08:33]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=250,00:1:2017-11-24&loja=5&cobrador=59&data-inicial=2017-11-24&data-final=2017-11-24&submit=Cadastrar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=add_prest_conta"
+[187.79.58.182 16:08:33]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[187.79.58.182 16:08:34]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 16:08:34]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4471&loja=5&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4471&loja=5"
+[187.79.58.182 16:09:00]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 16:09:05]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 16:09:17]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&venda_id=31092&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 16:09:20]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9923&vend=31092&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9923&vend=31092"
+[187.79.58.182 16:09:21]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 16:09:32]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=59&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=59"
+[187.79.58.182 16:10:08]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4559&numero=2&venda=31092&data=2017-11-24&prest=7701&cobrador=59&valor=150.00&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4559"
+[187.79.58.182 16:10:08]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9923&vend=31092&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9923&vend=31092"
+[187.79.58.182 16:10:08]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 16:10:29]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "op=cad-lanc&venda_id=31553&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=cad-lanc"
+[187.79.58.182 16:10:32]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9923&vend=31553&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9923&vend=31553"
+[187.79.58.182 16:10:33]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 16:10:39]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=59&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=59"
+[187.79.58.182 16:10:50]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=4559&numero=1&venda=31553&data=2017-11-24&prest=7701&cobrador=59&valor=100.00&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=4559"
+[187.79.58.182 16:10:50]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9923&vend=31553&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9923&vend=31553"
+[187.79.58.182 16:10:50]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=9117&cobrador=356&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=9117&cobrador=356"
+[187.79.58.182 16:11:02]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php"
+[187.79.58.182 16:11:04]
+uid = 8
+uname = "ANGELA MARIA CHAVES FARIAS RODRIGUES"
+params = "code=8881&type=html&prest=7701&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/ajax.php?code=8881&type=html&prest=7701"
+[187.79.58.182 16:25:51]
+uid = -
+params = "op=logout&_ga=GA1.2.1269899824.1501680668&PHPSESSID=ln99jiart7q859iei2jh4r5np5"
+uri = "/index.php?op=logout"
+[187.79.58.182 16:25:51]
+uid = -
+params = "_ga=GA1.2.1269899824.1501680668"
+uri = "/index.php"
+[191.242.175.52 18:18:16]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[191.242.175.52 18:18:26]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=login"
+[191.242.175.52 18:18:27]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=home"
+[191.242.175.52 18:18:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&alias_edit=7701&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7701"
+[191.242.175.52 18:18:33]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8881&prest=7701&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=8881&prest=7701"
+[191.242.175.52 18:18:33]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:18:33]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:18:33]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:18:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_prest_conta&for-update-id=7701&itens-prestacao=45088:250,00:1:2017-11-24&loja=5&cobrador=59&data-inicial=2017-11-24&data-final=2017-11-24&status=1&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=add_prest_conta"
+[191.242.175.52 18:18:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 18:18:44]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:18:44]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:18:49]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 18:18:49]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:18:49]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:19:22]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:20:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=50,00:1:2017-11-24&loja=5&cobrador=59&data-inicial=2017-11-24&data-final=2017-11-24&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=add_prest_conta"
+[191.242.175.52 18:20:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 18:20:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:20:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:21:25]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 18:21:33]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 18:21:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9992&despesa=52376&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=9992&despesa=52376"
+[191.242.175.52 18:21:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=79&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=1333&natureza=79&caixa=3953"
+[191.242.175.52 18:22:15]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=52376&valor=150,00&submit=Atualizar&litros=&preco=&km-inicial=&km-final=&natureza=79&entidade=5&observacao=3 CONSULTAS(viva)&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 18:22:15]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 18:22:23]
+uid = -
+params = ""
+uri = "/"
+[191.242.175.52 18:22:34]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=rmagrf4i0rqddvo1t4l8p1qnv2"
+uri = "/?op=login"
+[191.242.175.52 18:22:35]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=rmagrf4i0rqddvo1t4l8p1qnv2"
+uri = "/index.php?op=home"
+[191.242.175.52 18:22:39]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-gerencial&PHPSESSID=rmagrf4i0rqddvo1t4l8p1qnv2"
+uri = "/index.php?op=rel-gerencial"
+[191.242.175.52 18:22:58]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3953"
+[191.242.175.52 18:23:01]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-11-01&dt-final=2017-11-24&submit-html=&PHPSESSID=rmagrf4i0rqddvo1t4l8p1qnv2"
+uri = "/print.php?code=0018"
+[191.242.175.52 18:23:14]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=5,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=merenda laboratorio e escritorio&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 18:23:14]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 18:24:29]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=60&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=1333&natureza=60&caixa=3953"
+[191.242.175.52 18:25:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=10,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=60&entidade=5&observacao=2 pinceis p/ quadro branco&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 18:25:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 18:27:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 18:27:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:27:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:27:21]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:27:52]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=300,00:1:2017-11-24&loja=5&cobrador=356&data-inicial=2017-11-21&data-final=2017-11-25&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=add_prest_conta"
+[191.242.175.52 18:27:52]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 18:27:53]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:27:53]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 18:34:23]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=rel-natur&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/index.php?op=rel-natur"
+[191.242.175.52 18:34:38]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=0012&html=sim&loja=5&natureza=33&data-limite-inferior=2017-11-01&data-limite-superior=2017-11-24&submit-html=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=f4vpm22csaeqvfhgci67tuoi93"
+uri = "/print.php?code=0012"
+[191.242.175.52 19:43:40]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php?op=logout"
+[191.242.175.52 19:43:43]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[191.242.175.52 19:43:54]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php?op=login"
+[191.242.175.52 19:43:54]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php?op=home"
+[191.242.175.52 19:43:58]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&alias_edit=7702&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7702"
+[191.242.175.52 19:43:59]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8881&prest=7702&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=8881&prest=7702"
+[191.242.175.52 19:43:59]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:43:59]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:43:59]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:44:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:44:07]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php"
+[191.242.175.52 19:44:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&alias_edit=7703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php?op=cad-prest-conta&alias_edit=7703"
+[191.242.175.52 19:44:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8881&prest=7703&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=8881&prest=7703"
+[191.242.175.52 19:44:10]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:44:10]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:44:10]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 19:44:13]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php"
+[191.242.175.52 19:44:28]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 19:44:35]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=63lnflspnu7rbua1id23okutg4"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:11:07]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php?op=logout"
+[191.242.175.52 20:11:08]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[191.242.175.52 20:11:18]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=login"
+[191.242.175.52 20:11:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=home"
+[191.242.175.52 20:11:33]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-repasse&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=cad-repasse"
+[191.242.175.52 20:12:16]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=7570&repasse=2097&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=7570&repasse=2097"
+[191.242.175.52 20:12:16]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=5577&resum=1&vend=31331&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=5577&resum=1&vend=31331"
+[191.242.175.52 20:12:16]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:12:54]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_repasse&for-update-id=2097&dt-chegada=2017-11-20&dt-envio-conserto=2017-11-20&dt-recebimento-conserto=2017-11-24&dt-envio-cliente=2017-11-25&loja=5&cobrador=28&venda=31331&observacao=FAZER CONCERTO DA ARMACAO (GENIVAN TROUXE)&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=add_repasse"
+[191.242.175.52 20:12:55]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-repasse&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-repasse"
+[191.242.175.52 20:14:16]
+uid = -
+params = "op=rel-vend"
+uri = "/index.php?op=rel-vend"
+[191.242.175.52 20:14:26]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=rel-cobr&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=rel-cobr"
+[191.242.175.52 20:14:26]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:14:26]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=ks1vqbouti0mj5ibs0rrdksth5"
+uri = "/index.php?op=login"
+[191.242.175.52 20:14:26]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=ks1vqbouti0mj5ibs0rrdksth5"
+uri = "/index.php?op=home"
+[191.242.175.52 20:14:29]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4416&cobr=21&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=4416&cobr=21"
+[191.242.175.52 20:14:34]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4416&cobr=28&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=4416&cobr=28"
+[191.242.175.52 20:14:36]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4516&regiao=10&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=4516&regiao=10"
+[191.242.175.52 20:14:43]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-agt-v&PHPSESSID=ks1vqbouti0mj5ibs0rrdksth5"
+uri = "/index.php?op=rel-agt-v"
+[191.242.175.52 20:14:43]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=7755&loja=5&PHPSESSID=ks1vqbouti0mj5ibs0rrdksth5"
+uri = "/ajax.php?code=7755&loja=5"
+[191.242.175.52 20:14:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=0002&html=sim&loja=5&cobrador=28&regiao=10&rota=&final=2017-11-29&submit-html=&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/print.php?code=0002"
+[191.242.175.52 20:14:59]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0010&html=sim&loja=&agente=&data-inicial=2017-11-01&data-final=2017-11-24&resumida=on&submit-html=&PHPSESSID=ks1vqbouti0mj5ibs0rrdksth5"
+uri = "/print.php?code=0010"
+[191.242.175.52 20:16:58]
+uid = -
+params = "op=logout&PHPSESSID=ks1vqbouti0mj5ibs0rrdksth5"
+uri = "/index.php?op=logout"
+[191.242.175.52 20:16:58]
+uid = -
+params = ""
+uri = "/index.php"
+[191.242.175.52 20:23:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 20:23:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 20:23:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 20:23:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 20:23:29]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ivoneda&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 20:23:30]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 20:23:30]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 20:23:30]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 20:23:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ivonelda&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 20:23:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 20:23:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 20:23:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 20:23:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ivoneuda&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/index.php?op=cad-vend"
+[191.242.175.52 20:23:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8901&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=8901&loja=5"
+[191.242.175.52 20:23:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1118&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1118&loja=5"
+[191.242.175.52 20:23:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1102&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=1102&loja=5"
+[191.242.175.52 20:23:55]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=5577&type=html&vend=31476&_ga=GA1.2.1736666189.1501674028&PHPSESSID=c2fmtpvaq24spm1othfctevs54"
+uri = "/ajax.php?code=5577&type=html&vend=31476"
+[191.242.175.52 20:50:56]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php?op=logout"
+[191.242.175.52 20:50:57]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[191.242.175.52 20:52:00]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=login"
+[191.242.175.52 20:52:00]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=home"
+[191.242.175.52 20:52:03]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 20:52:11]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:52:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=33&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3953"
+[191.242.175.52 20:52:37]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=200,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=299&observacao=vale 24/11/17&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 20:52:37]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:52:49]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=100&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=100&caixa=3953"
+[191.242.175.52 20:53:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=20,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=100&entidade=8&observacao=pegou com o walber&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 20:53:08]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:53:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9992&despesa=52380&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9992&despesa=52380"
+[191.242.175.52 20:53:20]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3953"
+[191.242.175.52 20:53:52]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=52380&valor=40,00&submit=Atualizar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=camila-luan e seu luciano&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 20:53:53]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:54:04]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=33&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3953"
+[191.242.175.52 20:54:18]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=5,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=60&observacao=vale camila&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 20:54:19]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:54:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=63&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=63&caixa=3953"
+[191.242.175.52 20:54:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=83&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=83&caixa=3953"
+[191.242.175.52 20:55:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=45,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=83&entidade=5&observacao=lagoinha e sitio do meio&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 20:55:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3953&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3953"
+[191.242.175.52 20:56:30]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=fec_caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=fec_caix"
+[191.242.175.52 20:56:31]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 20:56:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_caix&for-update-id=&data=2017-11-25&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=add_caix"
+[191.242.175.52 20:56:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 20:56:59]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 20:57:00]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:57:00]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:57:01]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:57:31]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=600,00:1:2017-11-25&loja=5&cobrador=275&data-inicial=2017-11-24&data-final=2017-11-25&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=add_prest_conta"
+[191.242.175.52 20:57:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[191.242.175.52 20:57:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:57:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=4471&loja=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.52 20:57:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 21:00:22]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3954"
+[191.242.175.52 21:00:32]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3954"
+[191.242.175.52 21:00:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=55,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=equipe erineudo&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 21:00:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3954"
+[191.242.175.52 21:00:56]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=81&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3954"
+[191.242.175.52 21:01:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=50,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=5&observacao=atendimento&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 21:01:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3954"
+[191.242.175.52 21:01:42]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=51&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=51&caixa=3954"
+[191.242.175.52 21:01:57]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=250,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=51&entidade=5&observacao=laboratorio 241117&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 21:01:57]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3954&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3954"
+[191.242.175.52 21:02:35]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3950&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3950"
+[191.242.175.52 21:04:48]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=63&caixa=3950&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=1333&natureza=63&caixa=3950"
+[191.242.175.52 21:05:05]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=806,72&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=63&entidade=7&observacao=lentes 231117&caixa=3950&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 21:05:06]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3950&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=8181&caixa=3950"
+[191.242.175.52 21:05:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-func&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=cad-func"
+[191.242.175.52 21:05:49]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=6610&func=5&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/ajax.php?code=6610&func=5"
+[191.242.175.52 21:05:54]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_func&for-update-id=5&nome=ANTONIO WALBER MOURA AGUIAR&cpf=916.906.173-49&rg=331115898&cargo=4&loja=7&email=VALBER.ITAPIPOCA2013@GMAIL.COM&nascimento=1979-12-09&cidade=59&admissao=2013-09-02&demissao=&rua=CLARISMUNDO&numero=1060&bairro=NOVA ALDEOTA&cep=62.500-000&cpt=&referencia=PROXIMO AO POSTO BALEIA&banco=CAIXA&agencia=0748-013&conta=567760&login=WALBERMOURA&senha=&perfil=1&telefone-1=(88) 96351-390&telefone-2=(88) 99083-039&submit=Atualizar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=add_func"
+[191.242.175.52 21:05:54]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-func&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[191.242.175.52 21:05:58]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028&PHPSESSID=avebc27o8u1tp2o3k84v2p1tt5"
+uri = "/index.php?op=logout"
+[191.242.175.52 21:05:58]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"
+[191.242.175.52 21:06:06]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/index.php?op=login"
+[191.242.175.52 21:06:07]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/index.php?op=home"
+[191.242.175.52 21:06:11]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 21:06:23]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=fec_caix&loja=7&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/index.php?op=fec_caix&loja=7"
+[191.242.175.52 21:06:24]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 21:06:35]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=add_caix&for-update-id=&data=2017-11-24&submit=Cadastrar&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/index.php?op=add_caix"
+[191.242.175.52 21:06:35]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[191.242.175.52 21:06:43]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=8181&caixa=3955"
+[191.242.175.52 21:06:52]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=80&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=1333&natureza=80&caixa=3955"
+[191.242.175.52 21:07:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=250,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=80&entidade=7&observacao=sanquia caixa 241117&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 21:07:09]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=8181&caixa=3955"
+[191.242.175.52 21:07:25]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=1333&natureza=32&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=1333&natureza=32&caixa=3955"
+[191.242.175.52 21:07:41]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=9004&for-update-id=&valor=200,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=32&entidade=331&observacao=referente a outubro&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=9004"
+[191.242.175.52 21:07:42]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "code=8181&caixa=3955&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/ajax.php?code=8181&caixa=3955"
+[191.242.175.52 21:11:41]
+uid = -
+params = "op=logout&_ga=GA1.2.1736666189.1501674028&PHPSESSID=jju2k6boj0o0a3kjodstpb1bo2"
+uri = "/index.php?op=logout"
+[191.242.175.52 21:11:41]
+uid = -
+params = "_ga=GA1.2.1736666189.1501674028"
+uri = "/index.php"

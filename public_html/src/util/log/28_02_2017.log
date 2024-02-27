@@ -1,0 +1,1619 @@
+[177.177.165.164 07:21:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/"
+[177.177.165.164 07:21:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/?op=cad-lanc"
+[177.177.165.164 07:31:03]
+uid = -
+params = "PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php"
+[177.177.165.164 07:31:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=login&login=elineuzamarques&senha=raimunda&submeter=login&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=login"
+[177.177.165.164 07:31:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=home&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=home"
+[177.177.165.164 07:31:16]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 07:31:22]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=29503&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 07:31:25]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=9923&vend=29503&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=9923&vend=29503"
+[177.177.165.164 07:31:26]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=9117&cobrador=28&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=9117&cobrador=28"
+[177.177.165.164 07:31:33]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=5577&type=html&vend=29503&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=5577&type=html&vend=29503"
+[177.177.165.164 07:31:50]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=29504&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 07:31:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=9923&vend=29504&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=9923&vend=29504"
+[177.177.165.164 07:31:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=9117&cobrador=28&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=9117&cobrador=28"
+[177.177.165.164 07:31:58]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=5577&type=html&vend=29504&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=5577&type=html&vend=29504"
+[177.177.165.164 07:32:07]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=9923&vend=29504&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=9923&vend=29504"
+[177.177.165.164 07:32:07]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=9117&cobrador=28&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=9117&cobrador=28"
+[177.177.165.164 07:32:15]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8004&vend=29504&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=8004&vend=29504"
+[177.177.165.164 07:32:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=29503&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 07:32:55]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8004&vend=29503&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=8004&vend=29503"
+[177.177.165.164 07:33:10]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8004&vend=29503&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/ajax.php?code=8004&vend=29503"
+[177.177.165.164 08:03:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/"
+[177.177.165.164 08:03:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-gerencial&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/?op=rel-gerencial"
+[177.177.165.164 08:03:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-01-01&dt-final=2017-01-28&submit-html=&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/print.php?code=0018"
+[177.177.165.164 08:03:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-02-01&dt-final=2017-02-28&submit-html=&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/print.php?code=0018"
+[177.177.165.164 08:18:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29526&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 08:22:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29526&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29526"
+[177.177.165.164 08:36:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29527&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 08:36:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29527&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29527"
+[177.177.165.164 08:39:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29528&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 08:39:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29528&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29528"
+[177.177.165.164 08:41:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29534&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 08:41:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29534&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29534"
+[170.79.200.157 09:04:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/"
+[170.79.200.157 10:08:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29524&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:08:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29524&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29524"
+[170.79.200.157 10:11:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29525&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:11:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29525&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29525"
+[170.79.200.157 10:13:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29531&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:13:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29531&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29531"
+[170.79.200.157 10:16:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29533&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:16:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29533&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29533"
+[170.79.200.157 10:25:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29532&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:25:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29532&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29532"
+[170.79.200.157 10:28:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29557&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:28:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29557&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29557"
+[170.79.200.157 10:31:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29535&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:31:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29535&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29535"
+[170.79.200.157 10:33:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29536&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:33:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29536&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29536"
+[170.79.200.157 10:37:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29540&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:37:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29540&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29540"
+[170.79.200.157 10:40:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29538&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:40:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29538&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29538"
+[170.79.200.157 10:44:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29539&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:44:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29539&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29539"
+[170.79.200.157 10:46:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29500&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:46:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29500&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29500"
+[177.177.165.164 10:47:13]
+uid = -
+params = "PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/"
+[177.177.165.164 10:47:22]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=login&login=ELINEUZAMARQUES&senha=raimunda&submeter=login&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/?op=login"
+[177.177.165.164 10:47:23]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=home&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=home"
+[177.177.165.164 10:47:29]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:47:43]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17046&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:47:57]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-orde&open-cad=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-orde&open-cad=1"
+[177.177.165.164 10:48:01]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-orde&ordem_servico_id_laboratorio=3&ordem_servico_id_loja=5&ordem_servico_numero=17046&ordem_servico_data_envio_lab=&ordem_servico_data_recebimento_lab=&pesquisar-ordens=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-orde"
+[177.177.165.164 10:48:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:48:23]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17035&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:48:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29502&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:48:59]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17050&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:48:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29502&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29502"
+[177.177.165.164 10:49:27]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17036&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:49:31]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-orde&open-cad=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-orde&open-cad=1"
+[177.177.165.164 10:49:34]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-orde&ordem_servico_id_laboratorio=3&ordem_servico_id_loja=5&ordem_servico_numero=17036&ordem_servico_data_envio_lab=&ordem_servico_data_recebimento_lab=&pesquisar-ordens=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-orde"
+[177.177.165.164 10:49:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:49:59]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=16974&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:50:23]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17040&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:50:46]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17052&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:51:11]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17055&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:51:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29504&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:51:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29504&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29504"
+[177.177.165.164 10:51:55]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17049&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:52:18]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17051&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:52:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17054&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:53:01]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17032&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:53:28]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17045&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:53:52]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17039&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:54:21]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17047&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 10:54:46]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&open-cad=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[177.177.165.164 10:54:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:54:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:54:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:54:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 10:54:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 10:54:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:54:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:54:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:54:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 10:54:49]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 10:54:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30151&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:54:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:54:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:54:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:55:02]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30151&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30151&js=sim&ns=1"
+[170.79.200.157 10:55:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29504&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29504"
+[177.177.165.164 10:55:27]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30149&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:55:27]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:55:27]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:55:27]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:55:29]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30149&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30149&js=sim&ns=1"
+[177.177.165.164 10:55:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30148&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:55:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:55:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:55:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:55:50]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30148&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30148&js=sim&ns=1"
+[177.177.165.164 10:56:09]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30154&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:56:09]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:56:09]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:56:09]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:56:12]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30154&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30154&js=sim&ns=1"
+[177.177.165.164 10:56:39]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30159&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:56:39]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:56:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:56:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:56:42]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30159&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30159&js=sim&ns=1"
+[177.177.165.164 10:57:03]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30164&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:57:04]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:57:04]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:57:04]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:57:07]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30164&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30164&js=sim&ns=1"
+[177.177.165.164 10:57:29]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30166&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 10:57:29]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 10:57:29]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 10:57:30]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 10:57:31]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30166&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30166&js=sim&ns=1"
+[170.79.200.157 10:58:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29506&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 10:58:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29506&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29506"
+[177.177.165.164 11:01:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30160&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:01:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:01:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:01:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:01:57]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30160&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30160&js=sim&ns=1"
+[177.177.165.164 11:02:15]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30161&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:02:16]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:02:16]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:02:16]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:02:18]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30161&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30161&js=sim&ns=1"
+[177.177.165.164 11:02:39]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30150&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:02:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:02:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:02:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:02:43]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30150&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30150&js=sim&ns=1"
+[170.79.200.157 11:02:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29508&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 11:03:02]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30146&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:03:03]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:03:03]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:03:03]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:03:06]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30146&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30146&js=sim&ns=1"
+[170.79.200.157 11:03:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29508&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29508"
+[177.177.165.164 11:03:33]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30165&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:03:34]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:03:34]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:03:34]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:03:37]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30165&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30165&js=sim&ns=1"
+[177.177.165.164 11:04:02]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30157&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:04:03]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:04:03]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:04:04]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:04:05]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30157&js=sim&ns=1&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/print.php?code=0001&venda=30157&js=sim&ns=1"
+[177.177.165.164 11:04:31]
+uid = -
+params = "op=logout&PHPSESSID=pv8gmabneeovpuoe409msu2sp7"
+uri = "/index.php?op=logout"
+[177.177.165.164 11:04:32]
+uid = -
+params = ""
+uri = "/index.php"
+[170.79.200.157 11:05:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29501&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:05:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29501&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29501"
+[170.79.200.157 11:09:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29555&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:09:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29555&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29555"
+[170.79.200.157 11:12:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29558&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:12:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29558&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29558"
+[170.79.200.157 11:15:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29592&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:15:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29592&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29592"
+[170.79.200.157 11:18:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=16558&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:18:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=16558&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=16558"
+[177.177.165.164 11:42:01]
+uid = -
+params = "PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/"
+[177.177.165.164 11:42:07]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=login&login=ELINEUZAMARQUES&senha=raimunda&submeter=login&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/?op=login"
+[177.177.165.164 11:42:07]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=home&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/index.php?op=home"
+[177.177.165.164 11:42:11]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&open-cad=1&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[177.177.165.164 11:42:12]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:42:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:42:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:42:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 11:42:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 11:42:13]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:42:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30157&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:42:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:42:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:42:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:42:22]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30157&js=sim&ns=1&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/print.php?code=0001&venda=30157&js=sim&ns=1"
+[177.177.165.164 11:42:39]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30165&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:42:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:42:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:42:40]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:42:42]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30165&js=sim&ns=1&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/print.php?code=0001&venda=30165&js=sim&ns=1"
+[170.79.200.157 11:42:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=27738&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:42:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=27738&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=27738"
+[177.177.165.164 11:43:01]
+uid = -
+params = "op=logout&PHPSESSID=67f0fket84pbpfv8l3i8sk58o1"
+uri = "/index.php?op=logout"
+[177.177.165.164 11:43:01]
+uid = -
+params = ""
+uri = "/index.php"
+[177.177.165.164 11:44:08]
+uid = -
+params = "PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/"
+[177.177.165.164 11:44:15]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=login&login=ELINEUZAMARQUES&senha=raimunda&submeter=login&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/?op=login"
+[177.177.165.164 11:44:15]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=home&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/index.php?op=home"
+[177.177.165.164 11:44:18]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&open-cad=1&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[177.177.165.164 11:44:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:44:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:44:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:44:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 11:44:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 11:44:20]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:44:20]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:44:20]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 11:44:20]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 11:44:20]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:44:23]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30165&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:44:24]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:44:24]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:44:24]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:44:26]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30165&js=sim&ns=1&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/print.php?code=0001&venda=30165&js=sim&ns=1"
+[177.177.165.164 11:44:57]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30157&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:45:00]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:45:00]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:45:00]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:45:01]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30157&js=sim&ns=1&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/print.php?code=0001&venda=30157&js=sim&ns=1"
+[170.79.200.157 11:45:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29509&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:45:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29509&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29509"
+[177.177.165.164 11:47:38]
+uid = -
+params = "op=logout&PHPSESSID=9ge2e2te2h0sm6k4lp6k7c36n0"
+uri = "/index.php?op=logout"
+[177.177.165.164 11:47:38]
+uid = -
+params = ""
+uri = "/index.php"
+[177.177.165.164 11:47:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=login&login=elineuzamarques&senha=raimunda&submeter=login&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/index.php?op=login"
+[177.177.165.164 11:47:47]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=home&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/index.php?op=home"
+[177.177.165.164 11:47:50]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&open-cad=1&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/index.php?op=cad-vend&open-cad=1"
+[177.177.165.164 11:47:50]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[177.177.165.164 11:47:51]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[177.177.165.164 11:47:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-vend&venda_id=30157&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/index.php?op=cad-vend"
+[177.177.165.164 11:47:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=8901&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=8901&loja=5"
+[177.177.165.164 11:47:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1118&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=1118&loja=5"
+[177.177.165.164 11:47:54]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=1102&loja=5&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/ajax.php?code=1102&loja=5"
+[177.177.165.164 11:47:56]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "code=0001&venda=30157&js=sim&ns=1&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/print.php?code=0001&venda=30157&js=sim&ns=1"
+[177.177.165.164 11:48:22]
+uid = -
+params = "op=logout&PHPSESSID=pde6vrpcq2s5rcg2e936jta6e2"
+uri = "/index.php?op=logout"
+[177.177.165.164 11:48:23]
+uid = -
+params = ""
+uri = "/index.php"
+[170.79.200.157 11:50:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=22456&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:50:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&open-cad=1&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/?op=cad-clie&open-cad=1"
+[170.79.200.157 11:50:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=22456&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 11:50:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=22187&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=22187"
+[170.79.200.157 11:50:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=64&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=64"
+[177.177.165.164 11:51:43]
+uid = -
+params = "op=logout&PHPSESSID=qrachb7q6gak2fde407u13sr21"
+uri = "/index.php?op=logout"
+[177.177.165.164 11:51:43]
+uid = -
+params = ""
+uri = "/index.php"
+[170.79.200.157 11:54:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=22456&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 11:54:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=22456&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=22456"
+[66.249.83.222 11:56:25]
+uid = -
+params = ""
+uri = "/"
+[177.177.165.164 14:10:44]
+uid = -
+params = "PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/"
+[170.79.200.157 14:28:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/?op=cad-lanc"
+[170.79.200.157 14:28:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29619&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-lanc"
+[170.79.200.157 14:28:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29619&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=5577&type=html&vend=29619"
+[177.177.165.164 15:47:47]
+uid = -
+params = "PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/"
+[177.177.165.164 15:51:12]
+uid = -
+params = "op=login&login=ELINEUZAMARQUES&senha=raimuda&submeter=login&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/?op=login"
+[177.177.165.164 15:51:12]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home&PHPSESSID=uob9gf0d173pvs62ccholv4322&message_cookie=-Falha na operação.<br/>Dados Inválidos"
+uri = "/index.php?op=home"
+[177.177.165.164 15:51:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=login&login=ELINEUZAMARQUES&senha=raimunda&submeter=login&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=login"
+[177.177.165.164 15:51:19]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=home&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=home"
+[177.177.165.164 15:51:22]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 15:51:41]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17061&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 15:51:48]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17059&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 15:51:53]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17064&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 15:51:57]
+uid = 200
+uname = "ELINEUZA MARQUES BEZERRA"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=17042&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=cad-lanc"
+[177.177.165.164 15:52:06]
+uid = -
+params = "op=logout&PHPSESSID=uob9gf0d173pvs62ccholv4322"
+uri = "/index.php?op=logout"
+[177.177.165.164 15:52:06]
+uid = -
+params = ""
+uri = "/index.php"
+[170.79.200.157 16:10:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&open-cad=1&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie&open-cad=1"
+[170.79.200.157 16:10:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29710&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:10:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27523&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27523"
+[170.79.200.157 16:10:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=154&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=154"
+[170.79.200.157 16:13:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29689&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:13:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27504&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27504"
+[170.79.200.157 16:13:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=154&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=154"
+[170.79.200.157 16:16:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29589&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:16:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27418&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27418"
+[170.79.200.157 16:16:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=81&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=81"
+[177.177.165.164 16:19:11]
+uid = -
+params = "PHPSESSID=taqgr94nkoedkd4mir61sb7sn6"
+uri = "/"
+[170.79.200.157 16:22:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29586&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:22:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27418&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27418"
+[170.79.200.157 16:22:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=81&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=81"
+[170.79.200.157 16:24:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29846&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:28:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27629&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27629"
+[170.79.200.157 16:28:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 16:34:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29846&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:34:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27629&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27629"
+[170.79.200.157 16:34:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 16:43:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29834&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:43:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=24746&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=24746"
+[170.79.200.157 16:43:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 16:47:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29833&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:47:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=24746&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=24746"
+[170.79.200.157 16:47:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 16:54:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29835&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 16:55:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=24751&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=24751"
+[170.79.200.157 16:55:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:03:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29835&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:03:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=24751&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=24751"
+[170.79.200.157 17:03:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:23:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29900&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:28:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27670&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27670"
+[170.79.200.157 17:28:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:34:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29827&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:34:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29827&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:34:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27616&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27616"
+[170.79.200.157 17:34:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:39:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29836&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:39:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27624&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27624"
+[170.79.200.157 17:39:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:44:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29845&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:44:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27623&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27623"
+[170.79.200.157 17:44:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:50:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29837&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:50:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27625&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27625"
+[170.79.200.157 17:50:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=130&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=130"
+[170.79.200.157 17:56:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29720&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/index.php?op=cad-clie"
+[170.79.200.157 17:58:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=27525&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=4770&clie=27525"
+[170.79.200.157 17:58:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=154&PHPSESSID=bm0ej6h3fcomvfkv02mg8coht6"
+uri = "/ajax.php?code=8876&cidade=154"

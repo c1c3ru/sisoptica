@@ -1,0 +1,2527 @@
+[201.9.143.229 05:58:29]
+uid = -
+params = ""
+uri = "/"
+[201.9.143.229 05:58:40]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=login&login=vanderlanelinhares&senha=laylaemarcello&submeter=login&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=login"
+[201.9.143.229 05:58:40]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=home&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=home"
+[201.9.143.229 05:58:43]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 05:58:50]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-rota&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-rota"
+[201.9.143.229 06:02:38]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 06:07:58]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=8181&caixa=3742&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=8181&caixa=3742"
+[201.9.143.229 06:57:27]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 06:57:39]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.143.229 06:57:39]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 06:57:39]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 06:57:41]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=8881&prest=7390&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=8881&prest=7390"
+[201.9.143.229 06:57:41]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 06:57:45]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_prest_conta&for-update-id=7390&itens-prestacao=43457:500,00:3:2017-06-07;43458:600,00:3:2017-06-09;43459:1000,00:3:2017-06-10;43460:32,00:1:2017-06-12;43461:746,00:1:2017-06-12&loja=5&cobrador=356&data-inicial=2017-06-07&data-final=2017-06-12&status=1&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_prest_conta"
+[201.9.143.229 06:57:45]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[201.9.143.229 06:57:45]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 06:57:46]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 06:58:02]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:04:14]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/"
+[201.9.143.229 07:10:33]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-caix"
+[201.9.143.229 07:10:41]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-caix"
+[201.9.143.229 07:16:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-rota&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-rota"
+[201.9.143.229 07:16:23]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-regi"
+[201.9.143.229 07:16:28]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=5567&regi=18&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=5567&regi=18"
+[201.9.143.229 07:16:28]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=6&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=6"
+[201.9.143.229 07:16:37]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-func"
+[201.9.143.229 07:16:55]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=356&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=356"
+[201.9.143.229 07:16:59]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=356&nome=DIEGO DE SOUSA PINTO&cpf=050.606.623-14&rg=20074973835&cargo=2&loja=6&email=DG-SOUSA6@HOTMAIL.COM&nascimento=1992-12-21&cidade=88&admissao=2015-12-01&demissao=&rua=RUA NOVA&numero=1184&bairro=LADEIRA&cep=62.500-000&cpt=&referencia=PROX AO COMERCIO DO RICARDO&banco=CAIXA&agencia=078 op 001&conta=0002538-7&login=&senha=&telefone-1=(88) 99603-4821&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=add_func"
+[201.9.143.229 07:16:59]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 07:17:02]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:17:04]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=5567&regi=18&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=5567&regi=18"
+[201.9.143.229 07:17:04]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=6&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=6"
+[201.9.143.229 07:17:07]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_regi&for-update-id=18&nome=ARACATI&loja=6&cobrador=356&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_regi"
+[201.9.143.229 07:17:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:17:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=5567&regi=24&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=5567&regi=24"
+[201.9.143.229 07:17:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 07:17:26]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_regi&for-update-id=24&nome=IPU&loja=5&cobrador=28&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_regi"
+[201.9.143.229 07:17:26]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:17:33]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=5567&regi=14&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=5567&regi=14"
+[201.9.143.229 07:17:33]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 07:17:36]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=6&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=6"
+[201.9.143.229 07:17:38]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 07:17:41]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_regi&for-update-id=14&nome=JIJOCA&loja=5&cobrador=28&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_regi"
+[201.9.143.229 07:17:42]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:18:14]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=5567&regi=17&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=5567&regi=17"
+[201.9.143.229 07:18:14]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=6&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=6"
+[201.9.143.229 07:18:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_regi&for-update-id=17&nome=LIMOEIRO&loja=6&cobrador=356&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_regi"
+[201.9.143.229 07:18:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:18:48]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=5567&regi=8&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=5567&regi=8"
+[201.9.143.229 07:18:48]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 07:18:52]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=4&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=4"
+[201.9.143.229 07:18:55]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 07:18:59]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_regi&for-update-id=8&nome=UMIRIM&loja=5&cobrador=256&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_regi"
+[201.9.143.229 07:18:59]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:20:48]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:24:49]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:26:57]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:27:56]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:29:05]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-regi&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-regi"
+[201.9.143.229 07:29:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=rel-cobr&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=rel-cobr"
+[201.9.143.229 07:29:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 07:30:04]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=6&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=6"
+[201.9.143.229 07:30:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4416&cobr=356&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4416&cobr=356"
+[201.9.143.229 07:30:15]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:36:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:36:21]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:36:32]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:40:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 07:41:56]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-func"
+[201.9.143.229 08:03:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:05:39]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:05:52]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:12:52]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:13:12]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:13:28]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:14:03]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:16:02]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:16:38]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 08:17:25]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.143.229 08:26:00]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:26:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:26:33]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 08:44:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=login"
+[201.9.20.87 08:44:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=home"
+[201.9.20.87 08:44:55]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria cleudiene de avila&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:20]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria cleudiene&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:24]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria cleudi&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:32]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria &venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:32]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria ,&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:37]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria &venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 08:45:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=30399&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/ajax.php?code=9923&vend=30399"
+[201.9.20.87 08:45:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=256&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/ajax.php?code=9117&cobrador=256"
+[201.9.20.87 08:46:00]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30399&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/ajax.php?code=5577&type=html&vend=30399"
+[201.9.20.87 08:47:26]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=30399&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/ajax.php?code=9923&vend=30399"
+[201.9.20.87 08:47:26]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=256&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/ajax.php?code=9117&cobrador=256"
+[201.9.20.87 08:51:01]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30399&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/ajax.php?code=5577&type=html&vend=30399"
+[201.9.143.229 08:54:57]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 08:57:48]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:00:20]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.143.229 09:00:21]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 09:00:23]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.20.87 09:01:41]
+uid = -
+params = "op=logout&PHPSESSID=r4odre7illndc17p0toe307cv5"
+uri = "/index.php?op=logout"
+[201.9.20.87 09:01:41]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.143.229 09:01:55]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:06:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:07:32]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:07:57]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:09:23]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:14:29]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:19:50]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:21:14]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:33:54]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 09:50:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=login"
+[201.9.20.87 09:50:44]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=home"
+[201.9.20.87 09:50:50]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-repasse&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-repasse"
+[201.9.143.229 09:53:17]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:54:23]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:55:01]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 09:58:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/"
+[201.9.143.229 09:58:25]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 10:16:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.143.229 10:16:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 10:16:52]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 10:19:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 10:22:40]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-central&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-central"
+[201.9.143.229 10:25:03]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:25:54]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=453&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=453"
+[201.9.143.229 10:26:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=237&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=237"
+[201.9.143.229 10:26:44]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=237&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=237"
+[201.9.143.229 10:26:44]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:27:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=32&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=32"
+[201.9.143.229 10:27:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=32&nome=ANTENOR SOUSA MENESES JUNIOR&cpf=315.956.648-07&rg=2007019069985&cargo=6&loja=5&email=&nascimento=1985-02-16&cidade=88&admissao=2017-01-09&demissao=&rua=ANTONIO GASPAR (APTO 2)&numero=441&bairro=BOA VISTA&cep=&cpt=&referencia=AO LADO DO RESTAURANTE POPULAR&banco=CAIXA&agencia=0748-023&conta=45175-0&inativo-para-caixa=on&login=&senha=&telefone-1=(88) 99871-4594&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:27:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:28:00]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=32&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=32"
+[201.9.143.229 10:28:00]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:28:12]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=389&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=389"
+[201.9.143.229 10:28:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=389&nome=ANTONIA DE MARIA DE SOUSA LIMA&cpf=072.206.453-50&rg=20081070262&cargo=6&loja=5&email=&nascimento=1997-04-18&cidade=81&admissao=2016-03-28&demissao=&rua=RUA NOVA&numero=00&bairro=PEREIROS&cep=62.000-000&cpt=&referencia=PROX A CASA DAS CAIXAS&banco=&agencia=&conta=&inativo-para-caixa=on&login=&senha=&telefone-1=&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:28:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:28:28]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=389&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=389"
+[201.9.143.229 10:28:29]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:31:00]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=237&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=237"
+[201.9.143.229 10:31:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=237&nome=ANDREIA COELHO DOS SANTOS&cpf=012.342.663-42&rg=2003014048936&cargo=3&loja=5&email=&nascimento=1986-05-12&cidade=88&admissao=2015-01-01&demissao=&rua=RUA MANOEL CARNEIRO DE CASTRO&numero=155&bairro=MARANHAO&cep=62.500-000&cpt=&referencia=VIZINHO A NIRA&banco=CAIXA&agencia=0748  op 013&conta=91714-0&inativo-para-caixa=on&login=&senha=&telefone-1=&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:31:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:32:26]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=341&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=341"
+[201.9.143.229 10:32:39]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=341&nome=ANTONIO CLEISON DIAS&cpf=024.791.953-50&rg=2001028105884&cargo=6&loja=5&email=&nascimento=1986-07-06&cidade=81&admissao=2015-11-01&demissao=&rua=RUA PIAUI&numero=16&bairro=PEREIROS&cep=&cpt=&referencia=PROX A QUADRA ESPORTIVA DOS POPULARES&banco=CAIXA&agencia=1423 op 013&conta=22320-9&inativo-para-caixa=on&login=&senha=&telefone-1=(88) 99814-9697&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:32:39]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:33:07]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=341&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=341"
+[201.9.143.229 10:33:08]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:33:32]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=275&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=275"
+[201.9.143.229 10:33:36]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=275&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=275"
+[201.9.143.229 10:33:36]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.20.87 10:33:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:33:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-caix&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 10:33:59]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:34:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonio carlos&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:34:13]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonio carlos&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:34:20]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=3880&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=5577&type=html&vend=3880"
+[201.9.143.229 10:34:26]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=303&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=303"
+[201.9.143.229 10:34:34]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=303&nome=DAIANE FARIAS MARTINS&cpf=055.000.903-56&rg=200600173587&cargo=1&loja=4&email=&nascimento=1996-03-26&cidade=59&admissao=2015-06-08&demissao=&rua=RUA RIO GRANDE DO NORTE&numero=1802&bairro=PANAMERICANO&cep=&cpt=&referencia=&banco=&agencia=&conta=&inativo-para-caixa=on&login=DAIANE&senha=&perfil=2&telefone-1=(88) 88519-325&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:34:35]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:35:06]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=303&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=303"
+[201.9.143.229 10:35:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=303&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=303"
+[201.9.143.229 10:35:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:36:54]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=455&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=455"
+[201.9.143.229 10:37:06]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=455&nome=DANIELE DE OLIVEIRA&cpf=070.414.053-54&rg=20078051813&cargo=6&loja=6&email=&nascimento=1995-10-30&cidade=155&admissao=2017-04-17&demissao=&rua=VILA SCIPIAO&numero=332&bairro=SCIPIAO&cep=&cpt=&referencia=&banco=&agencia=&conta=&inativo-para-caixa=on&login=&senha=&telefone-1=&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:37:07]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:37:18]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=455&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=455"
+[201.9.143.229 10:37:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:40:06]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=241&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=241"
+[201.9.143.229 10:40:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=241&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=241"
+[201.9.143.229 10:40:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:42:21]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=135&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=135"
+[201.9.20.87 10:43:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.143.229 10:43:07]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=135&nome=FRANCISCO ERLON VAZ MATIAS&cpf=464.988.343-15&rg=20077209421&cargo=2&loja=5&email=&nascimento=1973-11-05&cidade=88&admissao=2014-09-01&demissao=&rua=RUA SEBASTIAO MATIAS TEIXEIRA&numero=995&bairro=PICOS&cep=62.500-000&cpt=&referencia=&banco=CAIXA&agencia=0755  op 023&conta=13056-1&inativo-para-caixa=on&login=&senha=&telefone-1=(88) 92553-049&telefone-2=(88) 99166-300&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:43:07]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.20.87 10:43:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria cristina fideles de sousa&venda_id_loja=8&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:43:21]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30339&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=5577&type=html&vend=30339"
+[201.9.143.229 10:43:31]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=del_func&func=135&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=del_func&func=135"
+[201.9.143.229 10:43:32]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.20.87 10:43:41]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 10:43:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&nome=MARIA CRISTINA FIDELES DE SOUSA&cpf-pesquisa=&venda=&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 10:43:45]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4770&clie=28063&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=4770&clie=28063"
+[201.9.20.87 10:43:45]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=76&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=8876&cidade=76"
+[201.9.20.87 10:44:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:44:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonia esmeralda soares do nascimento&venda_id_loja=8&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:44:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonia esmeralda soares do nascimento&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:44:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonia esmeralda soares do nascimento&venda_id_loja=8&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:44:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonia esmeralda soares do nascimento&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:45:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=29936&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=5577&type=html&vend=29936"
+[201.9.20.87 10:45:14]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=29936&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=9923&vend=29936"
+[201.9.20.87 10:45:15]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=28&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.20.87 10:45:20]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=29936&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=5577&type=html&vend=29936"
+[201.9.143.229 10:46:21]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 10:47:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 10:48:21]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonio carlos&venda_id_loja=4&pesquisar_lancamento=Pesquisar&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-lanc"
+[201.9.143.229 10:48:22]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 10:48:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=28627&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/ajax.php?code=5577&type=html&vend=28627"
+[201.9.143.229 10:52:01]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-func"
+[201.9.143.229 10:52:06]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=6610&func=77&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=6610&func=77"
+[201.9.143.229 10:52:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_func&for-update-id=77&nome=ELANE MOURA ARAUJO&cpf=023.025.723-27&rg=20070042777&cargo=1&loja=5&email=ELANNE_ENALLY@HOTMAIL.COM&nascimento=1991-12-16&cidade=88&admissao=2014-06-16&demissao=&rua=RUA CHICO VIRIATO&numero=928&bairro=AREA NOBRE&cep=62.500-000&cpt=&referencia=SUCATA MATIAS&banco=CAIXA ECONOMICA&agencia=0748-013&conta=103147-2&login=ELANE&senha=&perfil=2&telefone-1=(88) 97298-231&submit=Atualizar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_func"
+[201.9.143.229 10:52:11]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-func"
+[201.9.20.87 10:52:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php"
+[201.9.20.87 10:52:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php"
+[201.9.20.87 10:53:00]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-caix&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 10:53:18]
+uid = -
+params = "op=logout&PHPSESSID=u4h75c3c6u67tm2stmkdf8uf81"
+uri = "/index.php?op=logout"
+[201.9.20.87 10:53:18]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.143.229 10:57:43]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/"
+[201.9.143.229 10:57:46]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-func&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-func"
+[201.9.143.229 11:01:54]
+uid = -
+params = ""
+uri = "/"
+[201.9.143.229 11:02:58]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=login&login=vanderlanelinhares&senha=laylaemarcello&submeter=login&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/?op=login"
+[201.9.143.229 11:02:58]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=home&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/index.php?op=home"
+[201.9.143.229 11:03:01]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/index.php?op=val-retornos"
+[201.9.143.229 11:03:13]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/index.php?op=avalicao_ret"
+[201.9.143.229 11:03:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/index.php?op=val-retornos"
+[201.9.143.229 11:03:23]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/index.php?op=avalicao_ret"
+[201.9.143.229 11:03:26]
+uid = -
+params = "op=logout&PHPSESSID=5lh4g7dksb2c32rcdkin19lsi4"
+uri = "/index.php?op=logout"
+[201.9.143.229 11:03:26]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.143.229 11:03:38]
+uid = -
+params = "PHPSESSID=4q235ac8ve37jjj708acqqb0t6"
+uri = "/"
+[201.9.20.87 11:05:35]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=login"
+[201.9.20.87 11:05:36]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=home"
+[201.9.20.87 11:05:59]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&loja=5&inicial=&regiao=8&final=2017-06-17&rota=27&data-limite-superior=2017-06-17"
+uri = "/offline.php"
+[201.9.20.87 11:06:13]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-caix&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 11:06:30]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php"
+[201.9.20.87 11:06:32]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:08:06]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=175&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8876&cidade=175"
+[201.9.20.87 11:09:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_clie&for-update-id=&nome=maria ednuzia ferreira da silva &apelido=ednuzia &nascimento=1987-05-04&rg=2003023035698&orgao-emissor=&cpf=044.028.303-54&conjugue=solteira&nome-pai=francisco lima da silva &nome-mae=cesarina ferreira da silva&endereco=RUA pv lavagem grande &numero=000&observacao=&referencia=proximo ao colegio santa rosa &bairro=lavagem grande &casa-propria=&tempo-casa-propria=&renda=400&localidade=670&telefone-1=&submit=Cadastrar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_clie"
+[201.9.20.87 11:09:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:09:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-loca&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-loca"
+[201.9.20.87 11:10:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4416&cobr=256&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=4416&cobr=256"
+[201.9.20.87 11:10:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4516&regiao=7&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=4516&regiao=7"
+[201.9.20.87 11:10:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-loca&loja-busca=&cobrador-busca=256&regiao-busca=7&rota-busca=&pesquisar-localidades=Pesquisar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-loca"
+[201.9.20.87 11:12:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:12:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:12:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:12:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:12:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:12:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:12:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:12:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.20.87 11:12:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.20.87 11:12:33]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-orde&open-cad=1&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-orde&open-cad=1"
+[201.9.20.87 11:13:24]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_orde&for-update-id=&laboratorio=3&loja=5&numero=ITA1-17369&data-envio-lab=2017-06-12&armacao-loja=&data-recebimento-lab=&submit=Cadastrar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_orde"
+[201.9.20.87 11:13:25]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-orde&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-orde"
+[201.9.20.87 11:13:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:13:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:13:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:13:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:13:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:13:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:13:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:13:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.20.87 11:13:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.20.87 11:13:33]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1230&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1230"
+[201.9.20.87 11:13:44]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9987&nome=maria ednuzia ferreira&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=9987&nome=maria%20ednuzia%20ferreira"
+[201.9.20.87 11:13:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5508&loja=5&dt-venda=2017-06-10&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=5508&loja=5&dt-venda=2017-06-10"
+[201.9.20.87 11:14:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[201.9.20.87 11:14:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=31&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[201.9.20.87 11:16:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_vend&for-update-id=&consulta=&cliente=28418&data-venda=2017-06-10&previsao-entrega=2017-06-20&data-entrega=&loja=5&ordem-servico=32637&equipe=31&vendedor=60&agente=456&produtos=3:300,5:300&valor=600&entrada=75,00&tipo-pagamento-entrada=&prestacao-conta-entrada=&data-entrada=2017-06-20&qtd-parcelas=7&data-parcela=2017-07-25&nome-paciente=MARIA EDNUZIA FERREIRA DA SILVA (30 anos ) &esferico-olho-direito=-2.25&esferico-olho-esquerdo=-2.75&cilindrico-olho-direito=0&cilindrico-olho-esquerdo=0&eixo-olho-direito=0&eixo-olho-esquerdo=0&dnp-olho-direito=29&dnp-olho-esquerdo=28&dp=57&adicao=0&co=0&altura=0&lente=vs&cor=incolor &oculista=153&observacao=&submit=Cadastrar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_vend"
+[201.9.20.87 11:16:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:16:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:16:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:16:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:16:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria ednuzia &venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:16:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:16:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:16:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:16:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:16:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=175&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8876&cidade=175"
+[201.9.20.87 11:18:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_clie&for-update-id=&nome=maria denisa da guia &apelido=deni do marcio &nascimento=1982-01-02&rg=99010019854&orgao-emissor=&cpf=033.214.903-07&conjugue=jose marcio do nascimento &nome-pai=antonio jose da guia &nome-mae=maria das merces da guia &endereco=RUA do campo &numero=00&observacao=&referencia=prox ao comercio do fabiano e ao campo &bairro=lavagem grande &casa-propria=&tempo-casa-propria=&renda=730&localidade=670&telefone-1=&submit=Cadastrar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_clie"
+[201.9.20.87 11:18:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:18:42]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-orde&open-cad=1&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-orde&open-cad=1"
+[201.9.20.87 11:18:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_orde&for-update-id=&laboratorio=3&loja=5&numero=ITA1-17368&data-envio-lab=2017-06-12&armacao-loja=&data-recebimento-lab=&submit=Cadastrar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_orde"
+[201.9.20.87 11:18:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-orde&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-orde"
+[201.9.20.87 11:18:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe="
+[201.9.20.87 11:18:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe="
+[201.9.20.87 11:19:00]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1230&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1230"
+[201.9.20.87 11:19:08]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9987&nome=maria denisa da guia&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=9987&nome=maria%20denisa%20da%20guia"
+[201.9.20.87 11:19:14]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5508&loja=5&dt-venda=2017-06-10&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=5508&loja=5&dt-venda=2017-06-10"
+[201.9.20.87 11:19:21]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=1&equipe=31&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=1&equipe=31"
+[201.9.20.87 11:19:21]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8900&loja=5&cargo=6,1,7&equipe=31&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8900&loja=5&cargo=6,1,7&equipe=31"
+[201.9.20.87 11:20:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_vend&for-update-id=&consulta=&cliente=28419&data-venda=2017-06-10&previsao-entrega=2017-06-20&data-entrega=&loja=5&ordem-servico=32638&equipe=31&vendedor=60&agente=456&produtos=1000014:300,6:400&valor=700&entrada=100,00&tipo-pagamento-entrada=&prestacao-conta-entrada=&data-entrada=2017-06-20&qtd-parcelas=8&data-parcela=2017-07-10&nome-paciente=marcio marido (40 anos ) &esferico-olho-direito=-2.00&esferico-olho-esquerdo=-0.25&cilindrico-olho-direito=-0.50&cilindrico-olho-esquerdo=-0.25&eixo-olho-direito=180&eixo-olho-esquerdo=180&dnp-olho-direito=32&dnp-olho-esquerdo=30&dp=62&adicao=1.00&co=23&altura=0&lente=progressiva &cor=marron 1&oculista=153&observacao=&submit=Cadastrar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_vend"
+[201.9.20.87 11:20:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:20:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:20:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:20:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:20:47]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=maria denisa da guia&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 11:20:47]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 11:20:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 11:20:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 11:20:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30751&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=5577&type=html&vend=30751"
+[201.9.143.229 11:22:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-loca&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-loca"
+[201.9.20.87 11:22:41]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:22:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=175&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8876&cidade=175"
+[201.9.143.229 11:28:54]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 11:28:56]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4416&cobr=256&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4416&cobr=256"
+[201.9.143.229 11:28:59]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4516&regiao=7&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4516&regiao=7"
+[201.9.143.229 11:29:01]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-loca&loja-busca=5&cobrador-busca=256&regiao-busca=7&rota-busca=&pesquisar-localidades=Pesquisar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-loca"
+[201.9.143.229 11:29:02]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 11:29:02]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4416&cobr=256&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4416&cobr=256"
+[201.9.143.229 11:29:02]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4516&regiao=7&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4516&regiao=7"
+[201.9.143.229 11:29:36]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 11:29:41]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4416&cobr=256&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4416&cobr=256"
+[201.9.143.229 11:29:44]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4516&regiao=7&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4516&regiao=7"
+[201.9.143.229 11:29:48]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4460&rota=16&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=4460&rota=16"
+[201.9.143.229 11:29:52]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_loca&for-update-id=&cidade=175&nome=lavagem grande&loja=5&cobrador=256&regiao=7&rota=16&ordem=131&submit=Cadastrar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_loca"
+[201.9.143.229 11:29:53]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-loca&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-loca"
+[201.9.20.87 11:31:07]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:31:13]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=175&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8876&cidade=175"
+[201.9.20.87 11:31:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=30751&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:31:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4770&clie=28419&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=4770&clie=28419"
+[201.9.20.87 11:31:30]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=175&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8876&cidade=175"
+[201.9.20.87 11:31:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_clie&for-update-id=28419&nome=MARIA DENISA DA GUIA&apelido=DENI DO MARCIO&nascimento=1982-01-02&rg=99010019854&orgao-emissor=&cpf=033.214.903-07&conjugue=JOSE MARCIO DO NASCIMENTO&nome-pai=ANTONIO JOSE DA GUIA&nome-mae=MARIA DAS MERCES DA GUIA&endereco=RUA DO CAMPO&numero=00&observacao=&referencia=PROX AO COMERCIO DO FABIANO E AO CAMPO&bairro=LAVAGEM GRANDE&casa-propria=&tempo-casa-propria=&renda=730&localidade=3205&telefone-1=&submit=Atualizar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_clie"
+[201.9.20.87 11:31:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:31:44]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=30750&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:31:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4770&clie=28418&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=4770&clie=28418"
+[201.9.20.87 11:31:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=175&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/ajax.php?code=8876&cidade=175"
+[201.9.20.87 11:31:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=add_clie&for-update-id=28418&nome=MARIA EDNUZIA FERREIRA DA SILVA&apelido=EDNUZIA&nascimento=1987-05-04&rg=2003023035698&orgao-emissor=&cpf=044.028.303-54&conjugue=SOLTEIRA&nome-pai=FRANCISCO LIMA DA SILVA&nome-mae=CESARINA FERREIRA DA SILVA&endereco=RUA PV LAVAGEM GRANDE&numero=000&observacao=&referencia=PROXIMO AO COLEGIO SANTA ROSA&bairro=LAVAGEM GRANDE&casa-propria=&tempo-casa-propria=&renda=400&localidade=3205&telefone-1=&submit=Atualizar&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=add_clie"
+[201.9.20.87 11:31:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 11:31:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php"
+[201.9.20.87 11:55:46]
+uid = -
+params = "op=logout&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=logout"
+[201.9.20.87 11:55:46]
+uid = -
+params = "op=logout&PHPSESSID=b7v5l788qlhnkv04nbrmosq7g6"
+uri = "/index.php?op=logout"
+[201.9.20.87 11:55:46]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.143.229 12:02:38]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/"
+[201.9.143.229 12:02:43]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-caix"
+[201.9.143.229 12:10:37]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=8181&caixa=3742&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/ajax.php?code=8181&caixa=3742"
+[201.9.143.229 12:10:46]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=fec_caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=fec_caix"
+[201.9.143.229 12:10:48]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:10:55]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=add_caix&for-update-id=&data=2017-06-14&submit=Cadastrar&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=add_caix"
+[201.9.143.229 12:10:55]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:12:37]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:12:59]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:16:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:17:27]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:20:25]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:29:54]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:35:38]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:36:15]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:36:28]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:46:31]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/index.php?op=cad-caix"
+[201.9.143.229 12:49:03]
+uid = -
+params = ""
+uri = "/"
+[201.9.143.229 12:49:13]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=login&login=VANDERLANELINHARES&senha=laylaemarcello&submeter=login&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/?op=login"
+[201.9.143.229 12:49:14]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=home&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=home"
+[201.9.143.229 12:50:27]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=val-retornos"
+[201.9.143.229 12:50:36]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=avalicao_ret"
+[201.9.143.229 12:50:40]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=val-retornos"
+[201.9.143.229 12:50:46]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=avalicao_ret"
+[201.9.143.229 12:50:49]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.143.229 12:50:50]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 12:50:50]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 12:50:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=val-retornos"
+[201.9.143.229 12:50:56]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=avalicao_ret"
+[201.9.143.229 12:51:00]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=val-retornos"
+[201.9.143.229 12:51:06]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=avalicao_ret"
+[201.9.143.229 12:51:22]
+uid = -
+params = "op=logout&PHPSESSID=0njjt0lgrk89hcj0tjf6e83qi6"
+uri = "/index.php?op=logout"
+[201.9.143.229 12:51:22]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.143.229 13:00:31]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/"
+[191.242.175.234 13:09:32]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[201.9.143.229 13:16:57]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-caix"
+[191.242.175.234 13:21:05]
+uid = -
+params = "PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/"
+[191.242.175.234 13:21:07]
+uid = -
+params = "PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/"
+[191.242.175.234 13:21:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/?op=login"
+[191.242.175.234 13:21:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/index.php?op=home"
+[191.242.175.234 13:21:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/"
+[201.9.143.229 13:23:49]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-caix"
+[191.242.175.234 13:28:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-loca&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/?op=cad-loca"
+[191.242.175.234 13:28:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.234 13:28:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4416&cobr=256&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4416&cobr=256"
+[191.242.175.234 13:28:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4516&regiao=4&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4516&regiao=4"
+[191.242.175.234 13:28:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-loca&loja-busca=5&cobrador-busca=256&regiao-busca=4&rota-busca=&pesquisar-localidades=Pesquisar&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/index.php?op=cad-loca"
+[191.242.175.234 13:28:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4416&cobr=256&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4416&cobr=256"
+[191.242.175.234 13:28:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.234 13:28:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4516&regiao=4&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4516&regiao=4"
+[191.242.175.234 13:28:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=4&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4471&loja=4"
+[191.242.175.234 13:28:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.143.229 13:31:22]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=cad-caix"
+[201.9.143.229 13:36:09]
+uid = -
+params = "op=logout&PHPSESSID=ofnhdiscugishktf77n04u8dv1"
+uri = "/?op=logout"
+[201.9.143.229 13:36:10]
+uid = -
+params = ""
+uri = "/index.php"
+[191.242.175.234 13:37:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-func&open-cad=1&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/index.php?op=cad-func&open-cad=1"
+[191.242.175.234 13:39:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4416&cobr=256&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4416&cobr=256"
+[191.242.175.234 13:39:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4516&regiao=4&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4516&regiao=4"
+[191.242.175.234 13:39:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-loca&loja-busca=5&cobrador-busca=256&regiao-busca=4&rota-busca=&pesquisar-localidades=Pesquisar&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/index.php?op=cad-loca"
+[191.242.175.234 13:39:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4471&loja=5"
+[191.242.175.234 13:39:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4416&cobr=256&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4416&cobr=256"
+[191.242.175.234 13:39:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4516&regiao=4&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/ajax.php?code=4516&regiao=4"
+[201.9.143.229 13:49:55]
+uid = -
+params = "PHPSESSID=g3310u2m54ofpoh8am1n436f27"
+uri = "/"
+[191.242.175.234 13:56:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-func&open-cad=1&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/index.php?op=cad-func&open-cad=1"
+[191.242.175.234 14:02:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/"
+[201.9.143.229 14:12:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/"
+[201.9.20.87 14:26:11]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=login"
+[201.9.20.87 14:26:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=home"
+[201.9.20.87 14:26:22]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php"
+[201.9.20.87 14:26:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php"
+[201.9.20.87 14:26:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php"
+[201.9.20.87 14:26:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php"
+[201.9.20.87 14:26:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php"
+[201.9.20.87 14:26:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-caix&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=cad-caix"
+[201.9.20.87 14:26:59]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php"
+[201.9.20.87 14:27:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 14:27:13]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=antonia esmeralda soares do nascimento&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 14:27:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=29936&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/ajax.php?code=9923&vend=29936"
+[201.9.20.87 14:27:19]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=28&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.20.87 14:27:24]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 14:27:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&nome=ANTONIA ESMERALDA SOARES DO NASCIMENTO&cpf-pesquisa=&venda=&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=cad-clie"
+[201.9.20.87 14:27:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4770&clie=27696&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/ajax.php?code=4770&clie=27696"
+[201.9.20.87 14:27:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=82&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/ajax.php?code=8876&cidade=82"
+[201.9.20.87 14:30:55]
+uid = -
+params = "op=logout&PHPSESSID=pf9ldjs4ht23fh4ms2qn260361"
+uri = "/index.php?op=logout"
+[201.9.20.87 14:30:55]
+uid = -
+params = ""
+uri = "/index.php"
+[66.249.83.19 14:46:36]
+uid = -
+params = ""
+uri = "/"
+[201.9.20.87 15:29:24]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=login"
+[201.9.20.87 15:29:25]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=home"
+[201.9.20.87 15:29:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:29:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:29:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:29:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:29:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30747&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:29:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:29:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:29:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:29:41]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30747&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30747"
+[201.9.20.87 15:29:45]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30747&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30747&js=sim&ns=1"
+[201.9.20.87 15:35:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30747&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:35:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:35:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:35:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:36:11]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30746&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:36:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:36:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:36:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:36:15]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30746&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30746&js=sim&ns=1"
+[201.9.20.87 15:37:35]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30748&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:37:35]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:37:35]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:37:35]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:37:36]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30748&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30748&js=sim&ns=1"
+[201.9.20.87 15:41:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30749&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:41:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:41:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:41:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:41:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30749&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30749&js=sim&ns=1"
+[201.9.20.87 15:41:42]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30749&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:41:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:41:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:41:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:41:44]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30749&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30749&js=sim&ns=1"
+[201.9.20.87 15:42:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30750&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:42:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:42:06]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:42:06]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:42:08]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30750&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30750&js=sim&ns=1"
+[201.9.20.87 15:43:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=30751&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-vend"
+[201.9.20.87 15:43:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.20.87 15:43:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.20.87 15:43:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.20.87 15:43:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30751&js=sim&ns=1&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/print.php?code=0001&venda=30751&js=sim&ns=1"
+[201.9.20.87 15:47:23]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.143.229 16:06:45]
+uid = -
+params = "PHPSESSID=g3310u2m54ofpoh8am1n436f27"
+uri = "/"
+[201.9.20.87 16:16:23]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30747&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:16:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30746&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:16:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30748&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:17:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30749&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:17:16]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30750&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:17:26]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30751&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:18:06]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:18:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30745&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:18:55]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30745&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30745"
+[201.9.20.87 16:19:06]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30690&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:19:07]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30690&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30690"
+[201.9.20.87 16:19:24]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30738&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:19:26]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30738&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30738"
+[201.9.20.87 16:19:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30735&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:19:45]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30735&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30735"
+[201.9.20.87 16:20:00]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30737&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:20:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30737&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30737"
+[201.9.20.87 16:20:09]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30730&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:20:11]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30730&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30730"
+[201.9.20.87 16:20:22]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30648&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:20:23]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30648&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30648"
+[201.9.20.87 16:20:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30692&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:20:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30692&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30692"
+[201.9.20.87 16:20:59]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30695&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:21:01]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30695&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30695"
+[201.9.20.87 16:21:15]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30495&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:21:17]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30495&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30495"
+[201.9.20.87 16:21:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30447&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:21:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30447&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30447"
+[201.9.20.87 16:21:45]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30594&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:21:47]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30594&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30594"
+[201.9.20.87 16:22:01]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30651&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:22:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30651&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30651"
+[201.9.20.87 16:22:10]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=30650&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=cad-lanc"
+[201.9.20.87 16:22:11]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30650&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/ajax.php?code=5577&type=html&vend=30650"
+[201.9.20.87 16:25:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php"
+[201.9.20.87 16:25:07]
+uid = -
+params = "op=logout&PHPSESSID=21bbqbu1ftvn7hs628o41bknv0"
+uri = "/index.php?op=logout"
+[201.9.20.87 16:25:07]
+uid = -
+params = ""
+uri = "/index.php"
+[191.242.175.234 18:53:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&open-cad=1&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/?op=cad-clie&open-cad=1"
+[191.242.175.234 18:54:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=vfporqqpgdbh4u26i093a45321"
+uri = "/index.php?op=cad-clie"

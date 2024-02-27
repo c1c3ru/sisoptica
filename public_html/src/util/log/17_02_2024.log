@@ -1,0 +1,49 @@
+[2a02:4780:1:5::1a 04:00:51]
+uid = -
+params = ""
+uri = "/"
+[2001:4ca0:108:42::15 15:58:04]
+uid = -
+params = ""
+uri = "/"
+[43.155.136.16 17:09:43]
+uid = -
+params = ""
+uri = "/"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:15:27]
+uid = -
+params = ""
+uri = "/index.php"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:15:53]
+uid = -
+params = "op=login&login=francilda&senha=65432&submeter=login"
+uri = "/index.php?op=login"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:15:53]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:20:35]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=login&login=francilda&senha=654321&submeter=login"
+uri = "/index.php?op=login"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:20:41]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:21:22]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-regi"
+uri = "/index.php?op=cad-regi"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 17:21:38]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[161.35.215.245 22:10:38]
+uid = -
+params = ""
+uri = "/"

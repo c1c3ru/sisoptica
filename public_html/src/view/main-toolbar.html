@@ -1,0 +1,70 @@
+<style>
+#main-toolbar {
+    position: fixed;
+    top: 10%;
+    height: auto;
+}
+#main-toolbar li img {
+    width: 32px;
+    height: 32px;
+}
+
+#main-toolbar li a {
+    padding: 10px;
+    width: 32px;
+    opacity: 0.5;
+    padding: 10px;
+}
+#main-toolbar li {
+    margin: 20px 0px 20px 0px
+}
+#main-toolbar li:first-child {
+    margin: 0px 0px 20px 0px
+}
+</style>
+<div id="main-toolbar">
+    <ul>
+        <li>
+            <a href="?op=cad-lanc" title="Lançamentos">
+                <img src="images/main-toolbar/lancamentos.png">
+            </a>
+        </li>
+        <li>
+            <a href="?op=cad-vend&open-cad=1" title="Vendas">
+                <img src="images/main-toolbar/venda.png">
+            </a>
+        </li>
+        <li>
+            <a href="?op=cad-orde&open-cad=1" title="Ordem de Serviço">
+                <img src="images/main-toolbar/os.png">
+            </a>
+        </li>
+        <li>
+            <a href="?op=cad-clie&open-cad=1" title="Clientes">
+                <img src="images/main-toolbar/add-cliente.png">
+            </a>
+        </li>
+        <li>
+            <a href="?op=cad-prod&open-cad=1" title="Produtos">
+                <img src="images/main-toolbar/add-produto.png">
+            </a>
+        </li>
+        <li>
+            <a href="?op=cad-loja&open-cad=1" title="Lojas">
+                <img src="images/main-toolbar/add-loja.png">
+            </a>
+        </li>
+        <li>
+            <a href="?op=cad-func&open-cad=1" title="Funcionários">
+                <img src="images/main-toolbar/add-funcionario.png">
+            </a>
+        </li>
+    </ul>
+</div>
+<script>
+$("#main-toolbar li a").hover(function(){
+    $(this).animate({opacity: 1.0, paddingLeft: '20px'}, 120);
+}, function() {
+    $(this).animate({opacity: 0.5, paddingLeft: '10px'}, 120);
+});
+</script>

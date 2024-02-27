@@ -1,0 +1,4825 @@
+[201.9.228.225 07:11:27]
+uid = -
+params = "op=cad-clie&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347"
+uri = "/index.php?op=cad-clie"
+[201.9.228.225 07:18:26]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=login&login=vanderlanelinhares&senha=laylaemarcello&submeter=login&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=login"
+[201.9.228.225 07:18:27]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=home&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=home"
+[201.9.228.225 07:19:09]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.228.225 07:19:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:19:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:19:19]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-caix&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-caix"
+[201.9.228.225 07:20:54]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.228.225 07:20:56]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:20:56]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:22:09]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.228.225 07:22:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:22:10]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:26:22]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.228.225 07:26:23]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:26:24]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:27:50]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-prest-conta&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-prest-conta"
+[201.9.228.225 07:27:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[201.9.228.225 07:27:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "code=4471&loja=5&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/ajax.php?code=4471&loja=5"
+[187.19.212.139 07:28:09]
+uid = -
+params = ""
+uri = "/"
+[187.19.212.139 07:28:16]
+uid = 427
+uname = "SAMYA NATECIA SOUZA NOGUEIRA"
+params = "op=login&login=SAMYANATECIA&senha=wallace10&submeter=login&PHPSESSID=lfgehokcaomv5i2od8jcifmrl5"
+uri = "/?op=login"
+[187.19.212.139 07:28:16]
+uid = 427
+uname = "SAMYA NATECIA SOUZA NOGUEIRA"
+params = "op=home&PHPSESSID=lfgehokcaomv5i2od8jcifmrl5"
+uri = "/index.php?op=home"
+[187.19.212.139 07:28:19]
+uid = 427
+uname = "SAMYA NATECIA SOUZA NOGUEIRA"
+params = "op=cad-caix&PHPSESSID=lfgehokcaomv5i2od8jcifmrl5"
+uri = "/index.php?op=cad-caix"
+[187.19.212.139 07:28:28]
+uid = 427
+uname = "SAMYA NATECIA SOUZA NOGUEIRA"
+params = "code=8109&caixa=3716&PHPSESSID=lfgehokcaomv5i2od8jcifmrl5"
+uri = "/ajax.php?code=8109&caixa=3716"
+[187.19.212.139 07:28:34]
+uid = -
+params = "op=logout&PHPSESSID=lfgehokcaomv5i2od8jcifmrl5"
+uri = "/index.php?op=logout"
+[187.19.212.139 07:28:34]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.228.225 07:34:21]
+uid = -
+params = ""
+uri = "/"
+[201.9.228.225 07:36:05]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=login&login=vanderlanelinhares&senha=laylaemarcello&submeter=login&PHPSESSID=ki7v84k0ch927uu1s0qu8on6e7"
+uri = "/?op=login"
+[201.9.228.225 07:36:06]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=home&PHPSESSID=ki7v84k0ch927uu1s0qu8on6e7"
+uri = "/index.php?op=home"
+[201.9.228.225 07:38:51]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=val-retornos&PHPSESSID=ki7v84k0ch927uu1s0qu8on6e7"
+uri = "/index.php?op=val-retornos"
+[201.9.228.225 07:39:07]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=avalicao_ret&PHPSESSID=ki7v84k0ch927uu1s0qu8on6e7"
+uri = "/index.php?op=avalicao_ret"
+[201.9.228.225 07:39:11]
+uid = -
+params = "op=logout&PHPSESSID=ki7v84k0ch927uu1s0qu8on6e7"
+uri = "/index.php?op=logout"
+[201.9.228.225 07:39:11]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.228.225 07:39:21]
+uid = 228
+uname = "VANDERLANE LINHARES DA CUNHA"
+params = "op=cad-central&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###347&PHPSESSID=uiv28gk8m479271tpb4codo3a6"
+uri = "/index.php?op=cad-central"
+[177.37.169.85 07:41:41]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[177.37.169.85 07:41:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=login"
+[177.37.169.85 07:41:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=home"
+[177.37.169.85 07:41:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 07:41:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=2+-325&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 07:42:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29325&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 07:42:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29325&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9923&vend=29325"
+[177.37.169.85 07:42:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 07:42:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29522&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 07:42:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29522&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9923&vend=29522"
+[177.37.169.85 07:42:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9117&cobrador=17"
+[201.9.228.225 07:48:41]
+uid = -
+params = ""
+uri = "/"
+[201.9.228.225 07:48:41]
+uid = -
+params = ""
+uri = "/"
+[201.9.228.225 07:48:53]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=login&login=edsonrodrigues&senha=paraguai&submeter=login&PHPSESSID=ul66eua3g2klck9akf2g7car66"
+uri = "/?op=login"
+[201.9.228.225 07:48:54]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=home&PHPSESSID=ul66eua3g2klck9akf2g7car66"
+uri = "/index.php?op=home"
+[201.9.228.225 07:48:58]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "op=rel-gerencial&PHPSESSID=ul66eua3g2klck9akf2g7car66"
+uri = "/index.php?op=rel-gerencial"
+[201.9.228.225 07:49:24]
+uid = 6
+uname = "EDSON RAFAEL FURTADO RODRIGUES"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-05-01&dt-final=2017-05-23&submit-html=&PHPSESSID=ul66eua3g2klck9akf2g7car66"
+uri = "/print.php?code=0018"
+[201.9.228.225 07:49:58]
+uid = -
+params = "op=logout&PHPSESSID=ul66eua3g2klck9akf2g7car66"
+uri = "/index.php?op=logout"
+[201.9.228.225 07:49:58]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.24.152 08:02:56]
+uid = -
+params = ""
+uri = "/index.php"
+[201.9.24.152 08:03:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=login"
+[201.9.24.152 08:03:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=home"
+[201.9.24.152 08:03:16]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=egoukrtl10rf09oa2b1e7nb060&loja=5&inicial=&regiao=8&final=2017-05-26&rota=27&data-limite-superior=2017-05-26"
+uri = "/offline.php"
+[201.9.24.152 08:03:20]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 08:03:32]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ANTONIA XAVIER DA SILVA&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 08:03:34]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=29921&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/ajax.php?code=5577&type=html&vend=29921"
+[201.9.24.152 08:03:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=cad-clie"
+[201.9.24.152 08:03:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=29921&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=cad-clie"
+[201.9.24.152 08:03:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4770&clie=27689&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/ajax.php?code=4770&clie=27689"
+[201.9.24.152 08:03:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8876&cidade=81&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/ajax.php?code=8876&cidade=81"
+[187.19.212.139 08:04:36]
+uid = -
+params = "PHPSESSID=6a3cgh0b2q9k66h0c0i5eeaau1"
+uri = "/"
+[201.9.228.225 08:16:10]
+uid = -
+params = ""
+uri = "/"
+[201.9.228.225 08:16:14]
+uid = -
+params = "PHPSESSID=3l0su19khmtei8o82gblnk6oq1"
+uri = "/"
+[201.9.228.225 08:17:15]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=login&login=walbermoura&senha=matheus290414&submeter=login&PHPSESSID=3l0su19khmtei8o82gblnk6oq1"
+uri = "/?op=login"
+[201.9.228.225 08:17:16]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "op=home&PHPSESSID=3l0su19khmtei8o82gblnk6oq1"
+uri = "/index.php?op=home"
+[66.249.83.17 08:18:08]
+uid = -
+params = ""
+uri = "/"
+[187.19.212.139 08:20:48]
+uid = -
+params = ""
+uri = "/"
+[187.19.212.139 08:22:49]
+uid = -
+params = "PHPSESSID=8e6g2no37hnbjmfvvqfemkhgi4"
+uri = "/"
+[201.9.24.152 08:26:48]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php"
+[201.9.24.152 08:26:50]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php"
+[201.9.24.152 08:26:54]
+uid = -
+params = "op=logout&PHPSESSID=egoukrtl10rf09oa2b1e7nb060"
+uri = "/index.php?op=logout"
+[201.9.24.152 08:26:54]
+uid = -
+params = ""
+uri = "/index.php"
+[177.37.169.85 08:36:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=joao firmino da costa&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 08:36:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29634&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=5577&type=html&vend=29634"
+[201.9.24.152 10:08:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=enally1612&submeter=login&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=login"
+[201.9.24.152 10:08:39]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=home"
+[201.9.24.152 10:08:43]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:09:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=lucivaldo rodrigues&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:09:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30075&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=5577&type=html&vend=30075"
+[201.9.24.152 10:09:11]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=30075&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=9923&vend=30075"
+[201.9.24.152 10:09:12]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:09:16]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=30075&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=5577&type=html&vend=30075"
+[201.9.24.152 10:09:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=30075&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=9923&vend=30075"
+[201.9.24.152 10:09:29]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:10:01]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=30075&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=9923&vend=30075"
+[201.9.24.152 10:10:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:10:50]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=cad-vend"
+[201.9.24.152 10:10:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.24.152 10:10:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.24.152 10:10:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.24.152 10:10:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-vend&venda_id=&cpf-pesquisa=&cliente_cpf=&cliente_nome=LUCIVALDO RODRIGUES DA SILVA&venda_id_loja=5&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=cad-vend"
+[201.9.24.152 10:10:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8901&loja=5&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=8901&loja=5"
+[201.9.24.152 10:10:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1118&loja=5&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=1118&loja=5"
+[201.9.24.152 10:10:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=1102&loja=5&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/ajax.php?code=1102&loja=5"
+[201.9.24.152 10:10:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=0001&venda=30075&js=sim&ns=1&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/print.php?code=0001&venda=30075&js=sim&ns=1"
+[201.9.24.152 10:11:17]
+uid = -
+params = "op=logout&PHPSESSID=7j8rhchlvc9ev6s4n27tje64r0"
+uri = "/index.php?op=logout"
+[201.9.24.152 10:11:17]
+uid = -
+params = ""
+uri = "/index.php"
+[177.37.169.85 10:18:45]
+uid = -
+params = ""
+uri = "/"
+[177.37.169.85 10:18:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/?op=login"
+[177.37.169.85 10:18:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=home"
+[177.37.169.85 10:18:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 10:18:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=Maria neuza da silva costa&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 10:19:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=silva costa&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 10:19:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=26427&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=26427"
+[177.37.169.85 10:19:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30442&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30442"
+[177.37.169.85 10:19:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30441&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30441"
+[177.37.169.85 10:20:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=26427&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=26427"
+[177.37.169.85 10:20:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30442&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30442"
+[177.37.169.85 10:20:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&open-cad=1&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-clie&open-cad=1"
+[177.37.169.85 10:20:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-clie&nome=NEUSA MARIA DA SILVA COSTA	&cpf-pesquisa=&venda=&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 10:20:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4770&clie=25622&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4770&clie=25622"
+[177.37.169.85 10:20:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8876&cidade=13&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8876&cidade=13"
+[201.9.24.152 10:44:58]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=ENALLY1612&submeter=login&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=login"
+[201.9.24.152 10:44:59]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=home"
+[201.9.24.152 10:45:02]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-caix&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=cad-caix"
+[201.9.24.152 10:45:05]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php"
+[201.9.24.152 10:45:14]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:45:21]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=12963&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:45:25]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=12963&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=12963"
+[201.9.24.152 10:45:25]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:45:27]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=28&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.24.152 10:45:37]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4559&numero=8&venda=12963&data=2017-05-20&prest=7344&cobrador=28&valor=50.00&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=4559"
+[201.9.24.152 10:45:37]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=12963&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=12963"
+[201.9.24.152 10:45:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:45:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=12636&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:45:52]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=12636&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=12636"
+[201.9.24.152 10:45:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:45:58]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=28&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.24.152 10:46:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4559&numero=10&venda=12636&data=2017-05-20&prest=7344&cobrador=28&valor=50.00&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=4559"
+[201.9.24.152 10:46:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=12636&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=12636"
+[201.9.24.152 10:46:16]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=20714&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:46:17]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=20714&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=20714"
+[201.9.24.152 10:46:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:46:21]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=28&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.24.152 10:46:26]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4559&numero=10&venda=20714&data=2017-05-20&prest=7344&cobrador=28&valor=20.00&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=4559"
+[201.9.24.152 10:46:26]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=20714&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=20714"
+[201.9.24.152 10:46:36]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=17272&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 10:46:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=17272&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=17272"
+[201.9.24.152 10:46:38]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 10:46:40]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=28&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9117&cobrador=28"
+[201.9.24.152 10:46:45]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=4559&numero=9&venda=17272&data=2017-05-20&prest=7344&cobrador=28&valor=10.00&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=4559"
+[201.9.24.152 10:46:46]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=17272&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=9923&vend=17272"
+[201.9.24.152 10:46:51]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php"
+[201.9.24.152 10:46:53]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=8881&type=html&prest=7344&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/ajax.php?code=8881&type=html&prest=7344"
+[201.9.24.152 10:58:04]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php"
+[201.9.24.152 11:04:14]
+uid = -
+params = "op=logout&PHPSESSID=86ubvm9qilobkql8ssie4j8b34"
+uri = "/index.php?op=logout"
+[201.9.24.152 11:04:14]
+uid = -
+params = ""
+uri = "/index.php"
+[177.37.169.85 12:15:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 12:17:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3718&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8181&caixa=3718"
+[177.37.169.85 14:02:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/"
+[177.37.169.85 14:02:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/"
+[177.37.169.85 14:02:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/?op=cad-caix"
+[177.37.169.85 14:03:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3718&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3718"
+[177.37.169.85 14:03:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=fec_caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=fec_caix"
+[177.37.169.85 14:03:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:04:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_caix&for-update-id=&data=2017-05-19&submit=Cadastrar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_caix"
+[177.37.169.85 14:04:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:04:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=fec_caix&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=fec_caix&loja=6"
+[177.37.169.85 14:04:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:04:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_caix&for-update-id=&data=2017-05-22&submit=Cadastrar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_caix"
+[177.37.169.85 14:04:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:04:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:04:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=80&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=80&caixa=3723"
+[177.37.169.85 14:05:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=100,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=80&entidade=6&observacao=Para despesa de viajem JP&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:05:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:06:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=67&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=67&caixa=3723"
+[177.37.169.85 14:06:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=20,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=67&entidade=6&observacao=JP itapipoca para for&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:06:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:06:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=67&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=67&caixa=3723"
+[177.37.169.85 14:06:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=25,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=67&entidade=6&observacao=De For para Russas JP&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:06:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:07:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3723"
+[177.37.169.85 14:07:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=15,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=Alimentação JP loja&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:07:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:07:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3723"
+[177.37.169.85 14:08:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=40,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=43&observacao=Vale cod: 60321&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:08:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:09:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/"
+[177.37.169.85 14:09:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/?op=cad-prest-conta"
+[177.37.169.85 14:09:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:09:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:10:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:12:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=200,00:8:2017-05-15;270,00:1:2017-05-22;100,00:3:2017-05-18;222,00:1:2017-05-22&loja=6&cobrador=17&data-inicial=2017-05-15&data-final=2017-05-22&submit=Cadastrar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/?op=add_prest_conta"
+[177.37.169.85 14:12:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:12:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:12:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:12:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:13:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=67,00:1:2017-05-22&loja=6&cobrador=57&data-inicial=2017-05-22&data-final=2017-05-22&submit=Cadastrar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 14:13:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:13:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:13:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:13:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-combu&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=rel-combu"
+[177.37.169.85 14:13:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0011&html=sim&loja=6&data-limite-inferior=2017-04-23&data-limite-superior=2017-05-23&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0011"
+[177.37.169.85 14:13:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=24&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=24&caixa=3723"
+[177.37.169.85 14:14:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=88,00&submit=Cadastrar&litros=22.5&preco=3,98&km-inicial=147108&km-final=148601&natureza=24&entidade=55&observacao=cod:647814, 182697, 168306&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&despesa=49239"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:14:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:14:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3723"
+[177.37.169.85 14:15:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=60,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=Cobrador marcos 4 dias de cobrança&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:15:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:15:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3723"
+[177.37.169.85 14:15:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=74,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=17&observacao=vale da pc 433&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:15:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:16:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=24&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=24&caixa=3723"
+[177.37.169.85 14:16:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=55&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=55&caixa=3723"
+[177.37.169.85 14:16:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=86,52&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=55&entidade=6&observacao=Energia cod;543222054&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:16:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:17:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=56&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=56&caixa=3723"
+[177.37.169.85 14:18:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=141,34&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=56&entidade=6&observacao=AGUA COD: 543222052&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:18:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:18:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=84&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=84&caixa=3723"
+[177.37.169.85 14:18:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=67&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=67&caixa=3723"
+[177.37.169.85 14:19:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=10,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=67&entidade=6&observacao=MOTO TAXI PARA LOTERICA PAGAR ENERGIA COD:02896&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:19:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:19:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3723"
+[177.37.169.85 14:20:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=174,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=6&observacao=VALE REPASSADO NA LOJA DE RUSSAS, DENTRO DA LOJA DIA 22.05&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:20:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:21:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3723"
+[177.37.169.85 14:21:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=5,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=JANTA JP COD: 60025&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:21:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3723"
+[177.37.169.85 14:22:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=fec_caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=fec_caix"
+[177.37.169.85 14:22:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:22:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_caix&for-update-id=&data=2017-05-23&submit=Cadastrar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_caix"
+[177.37.169.85 14:22:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:23:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:23:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:23:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:23:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:23:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:27:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=&itens-prestacao=180,00:3:2017-05-19;100,00:3:2017-05-20;100,00:1:2017-05-23;273,00:1:2017-05-23&loja=6&cobrador=17&data-inicial=2017-05-19&data-final=2017-05-23&submit=Cadastrar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 14:27:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:27:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:27:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:27:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:27:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=33&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=33&caixa=3724"
+[177.37.169.85 14:27:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=176,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=33&entidade=17&observacao=VALE DA PC 434&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:28:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:28:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=24&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=24&caixa=3724"
+[177.37.169.85 14:29:49]
+uid = -
+params = ""
+uri = "/"
+[177.37.169.85 14:29:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=login&login=nadyamaria&senha=92722839&submeter=login&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/?op=login"
+[177.37.169.85 14:29:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=home&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=home"
+[177.37.169.85 14:30:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:30:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=25301&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:30:14]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=25301&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=25301"
+[177.37.169.85 14:30:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=342&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=342"
+[177.37.169.85 14:30:18]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=57&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=57"
+[177.37.169.85 14:30:28]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=7&venda=25301&data=2017-05-22&prest=7346&cobrador=57&valor=67.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:30:28]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=25301&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=25301"
+[177.37.169.85 14:30:28]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=342&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=342"
+[177.37.169.85 14:30:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 14:30:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=52,00&submit=Cadastrar&litros=13&preco=3,89&km-inicial=148601&km-final=149056&natureza=24&entidade=55&observacao=COD: 569723, 569259&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&despesa=49249"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:30:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:30:36]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8881&type=html&prest=7346&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8881&type=html&prest=7346"
+[177.37.169.85 14:30:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-combu&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=rel-combu"
+[177.37.169.85 14:30:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-caix&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 14:30:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0011&html=sim&loja=6&data-limite-inferior=2017-04-23&data-limite-superior=2017-05-23&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0011"
+[177.37.169.85 14:30:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 14:31:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3724"
+[177.37.169.85 14:31:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=45,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=3 DIAS DE COBRANÇA MARCOS 19 A 22&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:31:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:32:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3724"
+[177.37.169.85 14:32:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=5,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=MERENDA MANHÃ COD 05054&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:32:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:32:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3724"
+[177.37.169.85 14:33:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=10,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=AMOÇO COD 010504&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 14:33:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 14:33:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:33:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:33:42]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:33:42]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:33:52]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&venda_id=30686&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:33:52]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:33:52]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:33:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:33:54]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&venda=30686&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&venda=30686"
+[177.37.169.85 14:34:11]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=dt_ent_v&venda=30686&data-entrega=2017-05-18&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=dt_ent_v"
+[177.37.169.85 14:34:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:34:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:34:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:34:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:34:18]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&venda_id=30696&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:34:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:34:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:34:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:34:20]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&venda=30696&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&venda=30696"
+[177.37.169.85 14:34:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=dt_ent_v&venda=30696&data-entrega=2017-05-18&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=dt_ent_v"
+[177.37.169.85 14:34:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=dt_ent_v&venda=30696&data-entrega=2017-05-18&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=dt_ent_v"
+[177.37.169.85 14:34:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:34:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:34:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:34:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:34:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3723&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8109&caixa=3723"
+[177.37.169.85 14:34:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&venda_id=30696&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:34:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:34:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:34:31]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:34:32]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=5577&type=html&vend=30696&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=5577&type=html&vend=30696"
+[177.37.169.85 14:34:43]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&venda_id=30686&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:34:43]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:34:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:34:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:34:45]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=5577&type=html&vend=30686&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=5577&type=html&vend=30686"
+[177.37.169.85 14:35:02]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 14:35:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:35:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28839&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:35:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28839&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28839"
+[177.37.169.85 14:35:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:35:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=2||3||4||5||6||7||8||9&vparc=28839&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28839"
+[177.37.169.85 14:36:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=2||3||4||5||6||7||8||9&vparc=28839&data=2017-06-18&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:36:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28839&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28839"
+[177.37.169.85 14:36:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:36:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:36:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:36:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:36:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:36:31]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:36:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&venda_id=30617&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:36:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:36:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:36:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:36:36]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&venda=30617&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&venda=30617"
+[177.37.169.85 14:36:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25941&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:36:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=25941&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=25941"
+[177.37.169.85 14:36:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:36:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=dt_ent_v&venda=30617&data-entrega=2017-05-14&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=dt_ent_v"
+[177.37.169.85 14:36:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+msg = "+Sucesso na operação."
+params = "op=cad-vend&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:36:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:36:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:36:45]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:36:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=9||10&vparc=25941&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=9&nparc[]=10&vparc=25941"
+[177.37.169.85 14:36:48]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-vend&venda_id=30617&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&venda_data_venda=&status=1&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-vend"
+[177.37.169.85 14:36:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8901&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8901&loja=6"
+[177.37.169.85 14:36:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1118&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1118&loja=6"
+[177.37.169.85 14:36:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=1102&loja=6&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=1102&loja=6"
+[177.37.169.85 14:36:51]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=5577&type=html&vend=30617&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=5577&type=html&vend=30617"
+[177.37.169.85 14:36:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:36:58]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=30617&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:36:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=9||10&vparc=25941&data=2017-05-25&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:36:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=25941&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=25941"
+[177.37.169.85 14:37:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=30617&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=30617"
+[177.37.169.85 14:37:02]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=26069&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:37:14]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=1&venda=30617&data=2017-05-15&prest=7345&cobrador=17&valor=50.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:37:14]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=30617&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=30617"
+[177.37.169.85 14:37:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=26609&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:37:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26609&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26609"
+[177.37.169.85 14:37:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:36]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28715&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:37:38]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28715&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28715"
+[177.37.169.85 14:37:38]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:44]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=3||4&vparc=28715&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=3&nparc[]=4&vparc=28715"
+[177.37.169.85 14:37:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=8&venda=26609&data=2017-05-19&prest=7347&cobrador=17&valor=60.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:37:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26609&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26609"
+[177.37.169.85 14:37:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:48]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=3||4&vparc=28715&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:37:48]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28715&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28715"
+[177.37.169.85 14:37:48]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:37:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=8||9||10&vparc=26609&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=26609"
+[177.37.169.85 14:37:58]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28717&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:38:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28717&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28717"
+[177.37.169.85 14:38:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=8||9||10&vparc=26609&data=2017-06-12&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:38:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26609&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26609"
+[177.37.169.85 14:38:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=3||4||5||6||7&vparc=28717&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&vparc=28717"
+[177.37.169.85 14:38:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=3||4||5||6||7&vparc=28717&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:38:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28717&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28717"
+[177.37.169.85 14:38:16]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=26493&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:38:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26493&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26493"
+[177.37.169.85 14:38:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:24]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29564&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:38:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29564&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29564"
+[177.37.169.85 14:38:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=2||3||4||5||6&vparc=29564&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&vparc=29564"
+[177.37.169.85 14:38:38]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=2||3||4||5||6&vparc=29564&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:38:38]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29564&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29564"
+[177.37.169.85 14:38:38]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=8&venda=26493&data=2017-05-22&prest=7347&cobrador=17&valor=150.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:38:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26493&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26493"
+[177.37.169.85 14:38:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=27713&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:38:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27713&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27713"
+[177.37.169.85 14:38:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:38:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=26493&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=26493"
+[177.37.169.85 14:38:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=8||9||10&vparc=27713&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=27713"
+[177.37.169.85 14:39:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=8||9||10&vparc=27713&data=2017-05-23&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:39:02]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27713&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27713"
+[177.37.169.85 14:39:02]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:39:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=26505&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:39:11]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-clie&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:39:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26505&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26505"
+[177.37.169.85 14:39:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:39:23]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=28628&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:39:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4770&clie=16867&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4770&clie=16867"
+[177.37.169.85 14:39:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8876&cidade=117&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8876&cidade=117"
+[177.37.169.85 14:39:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=7&venda=26505&data=2017-05-22&prest=7347&cobrador=17&valor=40.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:39:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26505&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26505"
+[177.37.169.85 14:39:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:39:31]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=add_clie&for-update-id=16867&nome=MARIA MIRNA NOGUEIRA&apelido=MIRNA prego&nascimento=1966-08-07&rg=&orgao-emissor=&cpf=534.164.813-72&conjugue=&nome-pai=&nome-mae=RITA NOGUEIRA DE PONTES&endereco=RUA RAIMUNDO JIRÃO MAIA&numero=1809&observacao=&referencia=PROX AO MERCADINHO ERIAL&bairro=PROUBI&casa-propria=1&tempo-casa-propria=15 ANOS&renda=380&localidade=2223&telefone-1=(88) 97058-263&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=add_clie"
+[177.37.169.85 14:39:32]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:39:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=8||9||10&vparc=26505&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=26505"
+[177.37.169.85 14:39:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=8||9||10&vparc=26505&data=2017-05-22&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:39:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26505&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26505"
+[177.37.169.85 14:39:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:39:48]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=28205&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:39:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4770&clie=13079&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4770&clie=13079"
+[177.37.169.85 14:39:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8876&cidade=117&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8876&cidade=117"
+[177.37.169.85 14:39:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=8||9||10&vparc=26505&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=26505"
+[177.37.169.85 14:40:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=8||9||10&vparc=26505&data=2017-06-10&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:40:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=26505&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=26505"
+[177.37.169.85 14:40:01]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:40:02]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=add_clie&for-update-id=13079&nome=FRANCISCA GLEICIANE ALVES DA COSTA&apelido=GLEICIANE prego&nascimento=1995-11-08&rg=20080459891&orgao-emissor=&cpf=072.029.053-88&conjugue=&nome-pai=FRANCISCO DE ASSIS DA COSTA&nome-mae=FRANCISCA VILANI ALVES DA COSTA&endereco=PRETONIO PORTELA&numero=1882&observacao=&referencia=ALTO ESCOLA VITORIO&bairro=POPULARES&casa-propria=1&tempo-casa-propria=19 ANOS&renda=0&localidade=2022&telefone-1=&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=add_clie"
+[177.37.169.85 14:40:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:40:05]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:40:11]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28049&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:40:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28049&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28049"
+[177.37.169.85 14:40:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:40:20]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=10&vparc=28049&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=10&vparc=28049"
+[177.37.169.85 14:40:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=20111&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:40:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=20111&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=20111"
+[177.37.169.85 14:40:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=10&vparc=28049&data=2017-06-08&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:40:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28049&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28049"
+[177.37.169.85 14:40:26]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:40:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:40:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=9&venda=20111&data=2017-05-22&prest=7347&cobrador=17&valor=105.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:40:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=20111&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=20111"
+[177.37.169.85 14:40:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=20111&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=20111"
+[177.37.169.85 14:40:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=27990&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:40:58]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27990&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27990"
+[177.37.169.85 14:40:58]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:04]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=8||9||10&vparc=27990&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=27990"
+[177.37.169.85 14:41:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28965&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:41:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=8||9||10&vparc=27990&data=2017-05-29&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:41:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27990&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27990"
+[177.37.169.85 14:41:09]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28965&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8004&vend=28965"
+[177.37.169.85 14:41:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28965&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28965"
+[177.37.169.85 14:41:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:17]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28629&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:41:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28629&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28629"
+[177.37.169.85 14:41:20]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=4||5||6||7||8||9&vparc=28965&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28965"
+[177.37.169.85 14:41:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=4||5||6||7||8||9&vparc=28965&data=2017-06-01&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:41:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28965&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28965"
+[177.37.169.85 14:41:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=2||3||4||5||6||7||8||9&vparc=28629&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28629"
+[177.37.169.85 14:41:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=2||3||4||5||6||7||8||9&vparc=28629&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:41:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28629&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28629"
+[177.37.169.85 14:41:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28966&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:41:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28966&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8004&vend=28966"
+[177.37.169.85 14:41:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28966&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28966"
+[177.37.169.85 14:41:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:43]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28209&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:41:45]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28209&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28209"
+[177.37.169.85 14:41:45]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:41:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=3||4||5||6||7||8||9&vparc=28966&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28966"
+[177.37.169.85 14:41:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=3||4||5||6||7||8||9&vparc=28966&data=2017-06-01&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:41:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28966&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28966"
+[177.37.169.85 14:41:58]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4||5||6||7||8||9&vparc=28209&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28209"
+[177.37.169.85 14:41:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:42:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4||5||6||7||8||9&vparc=28209&data=2017-05-23&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:42:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28209&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28209"
+[177.37.169.85 14:42:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:42:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28207&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:42:16]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28207&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28207"
+[177.37.169.85 14:42:16]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:42:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29590&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:42:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4||5||6||7||8||9||10&vparc=28207&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&nparc[]=10&vparc=28207"
+[177.37.169.85 14:42:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29590&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29590"
+[177.37.169.85 14:42:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:42:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4||5||6||7||8||9||10&vparc=28207&data=2017-05-23&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:42:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28207&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28207"
+[177.37.169.85 14:42:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:42:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=5&venda=29590&data=2017-05-22&prest=7347&cobrador=17&valor=100.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:42:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29590&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29590"
+[177.37.169.85 14:42:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=27654&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:42:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29326&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:42:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29326&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29326"
+[177.37.169.85 14:42:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:43:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=10&venda=29326&data=2017-05-22&prest=7347&cobrador=17&valor=74.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:43:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29326&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29326"
+[177.37.169.85 14:45:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29623&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:45:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29623&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29623"
+[177.37.169.85 14:45:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:45:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27654&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27654"
+[177.37.169.85 14:45:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:45:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4559&numero=6&venda=29623&data=2017-05-22&prest=7347&cobrador=17&valor=74.00&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:45:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29623&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29623"
+[177.37.169.85 14:45:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:45:57]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=8||9||10&vparc=27654&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=27654"
+[177.37.169.85 14:46:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=8||9||10&vparc=27654&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:46:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27654&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27654"
+[177.37.169.85 14:46:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:46:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=7&vparc=29623&actual=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc=7&vparc=29623&actual="
+[177.37.169.85 14:46:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=7&vparc=29623&data=2017-06-20&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:46:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29623&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29623"
+[177.37.169.85 14:46:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:46:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28171&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:46:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28171&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28171"
+[177.37.169.85 14:46:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:47:14]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=342&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=342"
+[177.37.169.85 14:47:16]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:47:33]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=27648&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:47:39]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27648&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27648"
+[177.37.169.85 14:47:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:47:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=8||9||10&vparc=27648&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=8&nparc[]=9&nparc[]=10&vparc=27648"
+[177.37.169.85 14:47:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9898&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9898"
+[177.37.169.85 14:47:51]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=8||9||10&vparc=27648&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:47:51]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=27648&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=27648"
+[177.37.169.85 14:47:51]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:47:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8989&senha=JOAOLUCAS&tipo=43&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8989"
+[177.37.169.85 14:47:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8018&venda=28171&cobrador=17&prest=7347&desconto=2.00&data=2017-05-22&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###43"
+uri = "/ajax.php?code=8018"
+[177.37.169.85 14:47:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28171&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###43"
+uri = "/ajax.php?code=9923&vend=28171"
+[177.37.169.85 14:48:00]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=28171&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=28171"
+[177.37.169.85 14:48:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:48:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-clie&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:48:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7345&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&prest=7345"
+[177.37.169.85 14:48:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9898&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9898"
+[177.37.169.85 14:48:29]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-clie&nome=&cpf-pesquisa=&venda=27230&cpf=&pesquisar-clientes=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:48:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7347&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&prest=7347"
+[177.37.169.85 14:48:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7347&itens-prestacao=43244:180,00:3:2017-05-19;43245:100,00:3:2017-05-20;43246:100,00:1:2017-05-23;43247:273,00:1:2017-05-23&loja=6&cobrador=17&data-inicial=2017-05-19&data-final=2017-05-23&status=&submit=Atualizar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 14:48:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:48:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:39]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4770&clie=19394&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4770&clie=19394"
+[177.37.169.85 14:48:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8876&cidade=117&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8876&cidade=117"
+[177.37.169.85 14:48:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:48:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7347&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&prest=7347"
+[177.37.169.85 14:48:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7347&itens-prestacao=43248:180,00:3:2017-05-19;43249:100,00:3:2017-05-20;43250:100,00:1:2017-05-23;43251:273,00:1:2017-05-23&loja=6&cobrador=17&data-inicial=2017-05-19&data-final=2017-05-23&status=1&submit=Atualizar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 14:48:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 14:48:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=add_clie&for-update-id=19394&nome=JOSE ROGERIO BARBOSA&apelido=ROGERIO prego&nascimento=1977-02-09&rg=&orgao-emissor=SSP-CE&cpf=934.492.323-04&conjugue=&nome-pai=FRANCISCO&nome-mae=MARIA FELICIA&endereco=MAE ROSARIO&numero=45&observacao=&referencia=ACADEMIA DA PALOMA&bairro=CENTRO&casa-propria=&tempo-casa-propria=&renda=788&localidade=1781&telefone-1=(88) 97349-201&telefone-2=(88) 97975-247&submit=Atualizar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=add_clie"
+[177.37.169.85 14:48:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 14:48:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+msg = "+Sucesso na operação."
+params = "op=cad-clie&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-clie"
+[177.37.169.85 14:48:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:49:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29325&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:49:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29325&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=29325"
+[177.37.169.85 14:49:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:49:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=256&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=256"
+[177.37.169.85 14:49:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:49:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9898&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9898"
+[177.37.169.85 14:49:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8989&senha=JOAOLCUAS&tipo=43&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8989"
+[177.37.169.85 14:49:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8989&senha=JOAOLCUAS&tipo=43&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8989"
+[177.37.169.85 14:49:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8989&senha=JOAOLUCAS&tipo=43&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8989"
+[177.37.169.85 14:49:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8018&venda=29325&cobrador=17&prest=7345&desconto=4.00&data=2017-05-23&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###43"
+uri = "/ajax.php?code=8018"
+[177.37.169.85 14:49:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29325&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###43"
+uri = "/ajax.php?code=9923&vend=29325"
+[177.37.169.85 14:49:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:49:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=230&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=230"
+[177.37.169.85 14:49:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:50:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9898&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9898"
+[177.37.169.85 14:50:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8989&senha=JOAOLUCAS&tipo=43&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8989"
+[177.37.169.85 14:50:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8018&venda=29325&cobrador=17&prest=7345&desconto=4.00&data=2017-05-22&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###43"
+uri = "/ajax.php?code=8018"
+[177.37.169.85 14:50:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=29325&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&pass_gerent_cookie=4e0ddffda312592d3983dbd623b9f97a###43"
+uri = "/ajax.php?code=9923&vend=29325"
+[177.37.169.85 14:50:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29325&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=29325"
+[177.37.169.85 14:50:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/"
+[177.37.169.85 14:50:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/?op=cad-lanc"
+[177.37.169.85 14:53:21]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28635&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:53:24]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28635&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28635"
+[177.37.169.85 14:53:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:53:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1&vparc=28635&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&vparc=28635"
+[177.37.169.85 14:53:32]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1&vparc=28635&data=2017-06-05&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:53:32]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28635&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28635"
+[177.37.169.85 14:53:32]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:53:45]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28639&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:53:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28639&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28639"
+[177.37.169.85 14:53:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:53:52]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3&vparc=28639&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&vparc=28639"
+[177.37.169.85 14:53:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3&vparc=28639&data=2017-06-07&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:53:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28639&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28639"
+[177.37.169.85 14:53:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:54:07]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28640&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:54:09]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28640&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28640"
+[177.37.169.85 14:54:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:54:21]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=3&venda=28640&data=2017-05-15&prest=7345&cobrador=17&valor=20.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 14:54:21]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28640&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28640"
+[177.37.169.85 14:54:22]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:54:29]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=3||4&vparc=28640&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=3&nparc[]=4&vparc=28640"
+[177.37.169.85 14:54:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=3||4&vparc=28640&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:54:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28640&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28640"
+[177.37.169.85 14:54:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:55:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28618&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:55:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28618&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28618"
+[177.37.169.85 14:55:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:55:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=4||5||6||7||8||9||10&vparc=28618&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&nparc[]=10&vparc=28618"
+[177.37.169.85 14:55:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=4||5||6||7||8||9||10&vparc=28618&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:55:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28618&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28618"
+[177.37.169.85 14:55:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:55:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28643&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:55:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28643&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28643"
+[177.37.169.85 14:55:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:56:02]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4||5&vparc=28643&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&vparc=28643"
+[177.37.169.85 14:56:06]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4||5&vparc=28643&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:56:06]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28643&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28643"
+[177.37.169.85 14:56:06]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:56:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28646&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:56:23]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28646&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28646"
+[177.37.169.85 14:56:24]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:56:31]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28646&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28646"
+[177.37.169.85 14:56:31]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:56:45]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4||5||6||7||8||9&vparc=28646&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28646"
+[177.37.169.85 14:56:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4||5||6||7||8||9&vparc=28646&data=2017-05-29&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:56:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28646&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28646"
+[177.37.169.85 14:56:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:57:05]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28593&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:57:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28593&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28593"
+[177.37.169.85 14:57:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:57:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=6||7||8||9||10&vparc=28593&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&nparc[]=10&vparc=28593"
+[177.37.169.85 14:57:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=6||7||8||9||10&vparc=28593&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:57:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28593&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28593"
+[177.37.169.85 14:57:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:58:04]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28595&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:58:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28595&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28595"
+[177.37.169.85 14:58:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:58:21]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=7||8||9||10&vparc=28595&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=7&nparc[]=8&nparc[]=9&nparc[]=10&vparc=28595"
+[177.37.169.85 14:58:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=7||8||9||10&vparc=28595&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:58:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28595&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28595"
+[177.37.169.85 14:58:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:58:37]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=21203&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:58:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=21203&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=21203"
+[177.37.169.85 14:58:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:58:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=9||10&vparc=21203&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=9&nparc[]=10&vparc=21203"
+[177.37.169.85 14:58:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=9||10&vparc=21203&data=2017-06-05&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:58:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=21203&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=21203"
+[177.37.169.85 14:58:51]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:59:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28647&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:59:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28647&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28647"
+[177.37.169.85 14:59:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:59:17]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=3||4||5&vparc=28647&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=3&nparc[]=4&nparc[]=5&vparc=28647"
+[177.37.169.85 14:59:22]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=3||4||5&vparc=28647&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:59:22]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28647&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28647"
+[177.37.169.85 14:59:23]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:59:32]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28648&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 14:59:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28648&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28648"
+[177.37.169.85 14:59:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 14:59:41]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=2||3||4||5&vparc=28648&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&vparc=28648"
+[177.37.169.85 14:59:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=2||3||4||5&vparc=28648&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 14:59:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28648&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28648"
+[177.37.169.85 14:59:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:00:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28650&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:00:12]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28650&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28650"
+[177.37.169.85 15:00:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:00:22]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4&vparc=28650&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&vparc=28650"
+[177.37.169.85 15:00:29]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4&vparc=28650&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:00:29]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28650&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28650"
+[177.37.169.85 15:00:29]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:00:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=6675&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:00:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=6675&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=6675"
+[177.37.169.85 15:00:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:01:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=2||3||4||5||6||7||8&vparc=6675&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&vparc=6675"
+[177.37.169.85 15:01:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=2||3||4||5||6||7||8&vparc=6675&data=2017-05-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:01:08]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=6675&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=6675"
+[177.37.169.85 15:01:09]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:01:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28652&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:01:24]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28652&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28652"
+[177.37.169.85 15:01:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:01:37]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=3&venda=28652&data=2017-05-15&prest=7345&cobrador=17&valor=25.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:01:37]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28652&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28652"
+[177.37.169.85 15:01:37]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:01:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=4||5||6||7||8||9&vparc=28652&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=4&nparc[]=5&nparc[]=6&nparc[]=7&nparc[]=8&nparc[]=9&vparc=28652"
+[177.37.169.85 15:01:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=4||5||6||7||8||9&vparc=28652&data=2017-06-02&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:01:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28652&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28652"
+[177.37.169.85 15:01:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:02:16]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28821&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:02:21]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28821&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28821"
+[177.37.169.85 15:02:21]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:02:30]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4||5&vparc=28821&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&vparc=28821"
+[177.37.169.85 15:02:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4||5&vparc=28821&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:02:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28821&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28821"
+[177.37.169.85 15:02:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:02:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28828&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:02:49]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28828&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28828"
+[177.37.169.85 15:02:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:02:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=2||3||4&vparc=28828&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&vparc=28828"
+[177.37.169.85 15:02:59]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=2||3||4&vparc=28828&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:02:59]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28828&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28828"
+[177.37.169.85 15:03:00]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:03:11]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28657&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:03:14]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28657&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28657"
+[177.37.169.85 15:03:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:03:23]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=2||3||4||5||6&vparc=28657&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=2&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&vparc=28657"
+[177.37.169.85 15:03:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=2||3||4||5||6&vparc=28657&data=2017-06-08&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:03:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28657&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28657"
+[177.37.169.85 15:03:28]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:03:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28658&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:03:43]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28658&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28658"
+[177.37.169.85 15:03:43]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:03:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=1||2||3||4&vparc=28658&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=1&nparc[]=2&nparc[]=3&nparc[]=4&vparc=28658"
+[177.37.169.85 15:03:54]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=1||2||3||4&vparc=28658&data=2017-05-28&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:03:54]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28658&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28658"
+[177.37.169.85 15:03:55]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:04:07]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=28621&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:04:09]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28621&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28621"
+[177.37.169.85 15:04:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:04:17]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=10&venda=28621&data=2017-05-15&prest=7345&cobrador=17&valor=75.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:04:20]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=28621&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=28621"
+[177.37.169.85 15:04:38]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29331&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:04:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29331&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29331"
+[177.37.169.85 15:04:40]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:04:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=9&venda=29331&data=2017-05-15&prest=7345&cobrador=17&valor=73.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:04:53]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29331&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29331"
+[177.37.169.85 15:04:54]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:05:05]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29345&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:05:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29345&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29345"
+[177.37.169.85 15:05:14]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:05:23]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=5&venda=29345&data=2017-05-15&prest=7345&cobrador=17&valor=80.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:05:23]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29345&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29345"
+[177.37.169.85 15:05:24]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:05:29]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=6||7||8&vparc=29345&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=6&nparc[]=7&nparc[]=8&vparc=29345"
+[177.37.169.85 15:05:33]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=6||7||8&vparc=29345&data=2017-06-20&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:05:33]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29345&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29345"
+[177.37.169.85 15:05:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:05:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29446&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:05:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29446&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29446"
+[177.37.169.85 15:05:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:06:00]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=7&venda=29446&data=2017-05-15&prest=7345&cobrador=17&valor=68.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:06:01]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29446&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29446"
+[177.37.169.85 15:06:04]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:06:09]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=8&vparc=29446&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=8&vparc=29446"
+[177.37.169.85 15:06:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=8&vparc=29446&data=2017-06-15&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:06:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29446&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29446"
+[177.37.169.85 15:06:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:06:24]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29413&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:06:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29413&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29413"
+[177.37.169.85 15:06:26]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:06:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=8&venda=29413&data=2017-05-15&prest=7345&cobrador=17&valor=68.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:06:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29413&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29413"
+[177.37.169.85 15:06:34]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:06:43]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=9&vparc=29413&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=9&vparc=29413"
+[177.37.169.85 15:06:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=9&vparc=29413&data=2017-06-30&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:06:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29413&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29413"
+[177.37.169.85 15:06:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:06:54]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29515&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:06:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29515&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29515"
+[177.37.169.85 15:06:57]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:07:05]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=7&venda=29515&data=2017-05-15&prest=7345&cobrador=17&valor=83.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:07:05]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29515&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29515"
+[177.37.169.85 15:07:06]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:07:09]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=8&vparc=29515&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=8&vparc=29515"
+[177.37.169.85 15:07:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=8&vparc=29515&data=2017-06-20&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:07:13]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29515&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29515"
+[177.37.169.85 15:07:14]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:07:25]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-lanc&venda_id=29522&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:07:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29522&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29522"
+[177.37.169.85 15:07:27]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:07:41]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=4559&numero=3&venda=29522&data=2017-05-15&prest=7345&cobrador=17&valor=50.00&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=4559"
+[177.37.169.85 15:07:41]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29522&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29522"
+[177.37.169.85 15:07:42]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:07:50]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9733&nparc=3||4||5||6&vparc=29522&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9733&nparc[]=3&nparc[]=4&nparc[]=5&nparc[]=6&vparc=29522"
+[177.37.169.85 15:07:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8700&nparc=3||4||5||6&vparc=29522&data=2017-06-02&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 15:07:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9923&vend=29522&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9923&vend=29522"
+[177.37.169.85 15:07:56]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=9117&cobrador=17&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 15:08:00]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 15:08:03]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 15:08:05]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8881&type=html&prest=7345&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8881&type=html&prest=7345"
+[177.37.169.85 15:08:18]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 15:08:20]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-caix&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 15:08:35]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8181&caixa=3724&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 15:08:47]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 15:09:10]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "op=cad-caix&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 15:09:15]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "code=8181&caixa=3724&PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 15:10:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 15:10:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 15:11:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3723&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8109&caixa=3723"
+[177.37.169.85 15:12:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 15:12:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9992&despesa=49251&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9992&despesa=49251"
+[177.37.169.85 15:12:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3724&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3724"
+[177.37.169.85 15:12:46]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/index.php"
+[177.37.169.85 15:13:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=49251&valor=9,00&submit=Atualizar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=caixa café, e pão merenda&caixa=3724&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 15:13:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 15:13:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 15:16:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-caix"
+[177.37.169.85 15:16:47]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3690&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8109&caixa=3690"
+[177.37.169.85 15:17:41]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-natur&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=rel-natur"
+[177.37.169.85 15:17:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0012&html=sim&loja=6&natureza=32&data-limite-inferior=2017-04-23&data-limite-superior=2017-05-23&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0012"
+[177.37.169.85 15:23:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:23:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28878&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:23:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25878&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:23:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25878&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:23:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=25878&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=25878"
+[177.37.169.85 15:23:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=25878&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=25878"
+[177.37.169.85 15:27:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3723&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8109&caixa=3723"
+[177.37.169.85 15:28:46]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8109&caixa=3723&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8109&caixa=3723"
+[177.37.169.85 15:32:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25877&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:32:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25877&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:32:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=25877&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=25877"
+[177.37.169.85 15:32:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25876&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:32:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25876&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:32:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=25876&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8004&vend=25876"
+[177.37.169.85 15:32:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=25876&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=25876"
+[177.37.169.85 15:33:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:33:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28994&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:33:32]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=5577&type=html&vend=28994"
+[177.37.169.85 15:33:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9923&vend=28994"
+[177.37.169.85 15:33:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=342&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9117&cobrador=342"
+[177.37.169.85 15:33:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ALVANIA DE LIMA REIS	&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:33:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=13563&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=13563"
+[177.37.169.85 15:34:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=28994"
+[177.37.169.85 15:35:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=13563&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=13563"
+[177.37.169.85 15:35:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=13563&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=13563"
+[177.37.169.85 15:35:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=28994"
+[177.37.169.85 15:35:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9923&vend=28994"
+[177.37.169.85 15:35:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=342&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9117&cobrador=342"
+[177.37.169.85 15:36:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=28994"
+[177.37.169.85 15:36:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=28994"
+[177.37.169.85 15:37:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=13563&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=8004&vend=13563"
+[177.37.169.85 15:37:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28994&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9923&vend=28994"
+[177.37.169.85 15:37:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=342&PHPSESSID=h54d7vte7m7j37msa7rt3up513"
+uri = "/ajax.php?code=9117&cobrador=342"
+[177.37.169.85 15:42:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25878&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:42:29]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=25878&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 15:42:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=25878&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=25878"
+[177.37.169.85 15:42:34]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=25878&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=25878"
+[177.37.169.85 15:42:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=25878&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8004&vend=25878"
+[201.9.228.225 16:00:13]
+uid = 5
+uname = "ANTONIO WALBER MOURA AGUIAR"
+params = "PHPSESSID=3l0su19khmtei8o82gblnk6oq1"
+uri = "/"
+[177.37.169.85 16:29:56]
+uid = -
+params = ""
+uri = "/"
+[177.37.169.85 16:38:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=login&login=joaopaulo&senha=joaolucas&submeter=login&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/?op=login"
+[177.37.169.85 16:38:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=home&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/index.php?op=home"
+[177.37.169.85 16:56:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 16:56:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 16:56:17]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:01:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7344&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&prest=7344"
+[177.37.169.85 17:01:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=5&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=5"
+[177.37.169.85 17:01:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7344&itens-prestacao=43238:130,00:1:2017-05-20&loja=5&cobrador=28&data-inicial=2017-05-20&data-final=2017-05-20&status=1&submit=Atualizar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 17:01:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 17:01:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:01:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:01:54]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7345&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&prest=7345"
+[177.37.169.85 17:01:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:01:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7345&itens-prestacao=43239:200,00:8:2017-05-15;43240:270,00:1:2017-05-22;43241:100,00:3:2017-05-18;43242:222,00:1:2017-05-22&loja=6&cobrador=17&data-inicial=2017-05-15&data-final=2017-05-22&status=1&submit=Atualizar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 17:01:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 17:01:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:01:59]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:02:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&prest=7346&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&prest=7346"
+[177.37.169.85 17:02:03]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:02:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=add_prest_conta&for-update-id=7346&itens-prestacao=43243:67,00:1:2017-05-22&loja=6&cobrador=57&data-inicial=2017-05-22&data-final=2017-05-22&status=1&submit=Atualizar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=add_prest_conta"
+[177.37.169.85 17:02:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+msg = "+Sucesso na operação."
+params = "op=cad-prest-conta&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6&message_cookie=+Sucesso na operação."
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 17:02:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:02:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:02:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/"
+[177.37.169.85 17:02:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-gerencial&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/?op=rel-gerencial"
+[177.37.169.85 17:03:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-05-01&dt-final=2017-05-23&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0018"
+[177.37.169.85 17:03:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0018&html=sim&loja=1||4||5||6||7||8&dt-inicial=2017-04-01&dt-final=2017-04-23&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0018"
+[201.9.24.152 17:03:49]
+uid = -
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[201.9.24.152 17:03:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=login&login=elane&senha=ENALLY1612&submeter=login&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=login"
+[201.9.24.152 17:03:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=home&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=home"
+[201.9.24.152 17:04:00]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[201.9.24.152 17:04:01]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[201.9.24.152 17:04:03]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 17:04:23]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=MARIA VILANI RIBEIRO LIMA&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 17:04:28]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=23425&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=5577&type=html&vend=23425"
+[201.9.24.152 17:04:32]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=23424&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=5577&type=html&vend=23424"
+[201.9.24.152 17:04:42]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=23425&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=5577&type=html&vend=23425"
+[201.9.24.152 17:04:55]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[201.9.24.152 17:04:56]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[201.9.24.152 17:04:57]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[177.37.169.85 17:05:02]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-prest-conta&loja-prest-conta-pesquisa=6&cobrador-prest-conta-pesquisa=17&status-prest-conta-pesquisa=1&pesquisar-prest-conta=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-prest-conta"
+[177.37.169.85 17:05:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:05:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=4471&loja=6&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=4471&loja=6"
+[177.37.169.85 17:06:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7347&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7347"
+[177.37.169.85 17:07:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7328&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7328"
+[177.37.169.85 17:14:19]
+uid = 418
+uname = "NADYA MARIA ROLIM DE ALMEIDA"
+params = "PHPSESSID=h4ml8ibcsaeu5mg89cllkj9c21"
+uri = "/"
+[201.9.24.152 17:34:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 17:34:54]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 17:34:55]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 17:35:08]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "op=cad-lanc&venda_id=&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=ANTONIA GOMES DE FARIAS&venda_id_loja=5&pesquisar_lancamento=Pesquisar&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php?op=cad-lanc"
+[201.9.24.152 17:35:11]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=23501&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=5577&type=html&vend=23501"
+[201.9.24.152 17:35:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=23501&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=9923&vend=23501"
+[201.9.24.152 17:35:18]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 17:35:22]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=5577&type=html&vend=23501&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=5577&type=html&vend=23501"
+[201.9.24.152 17:35:42]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9923&vend=23501&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=9923&vend=23501"
+[201.9.24.152 17:35:42]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "code=9117&cobrador=356&PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/ajax.php?code=9117&cobrador=356"
+[201.9.24.152 17:36:09]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[201.9.24.152 17:36:09]
+uid = 77
+uname = "ELANE MOURA ARAUJO"
+params = "PHPSESSID=nq15egkamp25fqd8fldrh7tpq0"
+uri = "/index.php"
+[177.37.169.85 17:37:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/?op=cad-lanc"
+[177.37.169.85 17:37:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30687&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:37:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30687&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30687"
+[177.37.169.85 17:38:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=28099&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:38:09]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=28099&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=28099"
+[177.37.169.85 17:38:11]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 17:38:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=28099&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=28099"
+[177.37.169.85 17:38:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8004&vend=28099&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8004&vend=28099"
+[177.37.169.85 17:38:55]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30251&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:38:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=30251&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=30251"
+[177.37.169.85 17:38:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 17:39:10]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9733&nparc=2&vparc=30251&actual=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9733&nparc=2&vparc=30251&actual="
+[177.37.169.85 17:39:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8700&nparc=2&vparc=30251&data=2017-05-30&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8700"
+[177.37.169.85 17:39:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=30251&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=30251"
+[177.37.169.85 17:39:18]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 17:44:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7324&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7324"
+[177.37.169.85 17:44:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30716&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:44:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9923&vend=30716&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9923&vend=30716"
+[177.37.169.85 17:44:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9117&cobrador=17&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=9117&cobrador=17"
+[177.37.169.85 17:44:43]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30716&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30716"
+[177.37.169.85 17:47:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30687&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:47:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30687&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30687"
+[177.37.169.85 17:47:22]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7315&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7315"
+[177.37.169.85 17:47:36]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7306&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7306"
+[177.37.169.85 17:47:44]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30696&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:47:45]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30696&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30696"
+[177.37.169.85 17:47:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7294&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7294"
+[177.37.169.85 17:48:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30641&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:48:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30641&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30641"
+[177.37.169.85 17:48:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30643&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:48:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30643&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30643"
+[177.37.169.85 17:48:31]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30618&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:48:33]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30618&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30618"
+[177.37.169.85 17:48:42]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7286&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7286"
+[177.37.169.85 17:48:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30638&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:48:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30638&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30638"
+[177.37.169.85 17:49:04]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30350&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:49:05]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30350&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30350"
+[177.37.169.85 17:49:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7281&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7281"
+[177.37.169.85 17:49:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30251&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:49:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30251&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30251"
+[177.37.169.85 17:50:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30251&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:50:20]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30251&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30251"
+[177.37.169.85 17:50:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30219&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:50:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30219&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30219"
+[177.37.169.85 17:50:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7271&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7271"
+[177.37.169.85 17:50:56]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30538&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:50:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30538&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30538"
+[177.37.169.85 17:51:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30540&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:51:07]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30540&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30540"
+[177.37.169.85 17:51:15]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7265&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7265"
+[177.37.169.85 17:51:23]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30465&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:51:30]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30465&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30465"
+[177.37.169.85 17:51:39]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7257&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7257"
+[177.37.169.85 17:51:49]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7247&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7247"
+[177.37.169.85 17:51:57]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29751&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:51:58]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29751&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=29751"
+[177.37.169.85 17:52:13]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7234&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7234"
+[177.37.169.85 17:52:24]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30362&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:52:25]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30362&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30362"
+[177.37.169.85 17:52:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8881&type=html&prest=7223&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=8881&type=html&prest=7223"
+[177.37.169.85 17:52:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=29185	&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:52:52]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=29185&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=29185"
+[177.37.169.85 17:53:06]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30541&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:53:08]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30541&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30541"
+[177.37.169.85 17:53:19]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30548&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:53:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30548&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30548"
+[177.37.169.85 17:53:35]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30543&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:53:37]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30543&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30543"
+[177.37.169.85 17:53:51]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-lanc&venda_id=30539&ordem_servico_numero=&cpf-pesquisa=&cliente_cpf=&cliente_nome=&venda_id_loja=6&pesquisar_lancamento=Pesquisar&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=cad-lanc"
+[177.37.169.85 17:53:53]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=5577&type=html&vend=30539&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/ajax.php?code=5577&type=html&vend=30539"
+[177.37.169.85 18:17:38]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=rel-natur&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/index.php?op=rel-natur"
+[177.37.169.85 18:17:48]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0012&html=sim&loja=6&natureza=33&data-limite-inferior=2017-05-01&data-limite-superior=2017-05-23&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0012"
+[177.37.169.85 18:17:50]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=0012&html=sim&loja=6&natureza=33&data-limite-inferior=2017-05-01&data-limite-superior=2017-05-23&resumida=on&submit-html=&PHPSESSID=pe5q9sdq16uf32hfarlet8qdb6"
+uri = "/print.php?code=0012"
+[201.9.228.225 19:22:51]
+uid = -
+params = ""
+uri = "/"
+[177.37.169.85 19:37:21]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/"
+[177.37.169.85 19:37:28]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "op=cad-caix&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/?op=cad-caix"
+[177.37.169.85 19:37:40]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/ajax.php?code=8181&caixa=3724"
+[177.37.169.85 19:38:12]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=1333&natureza=81&caixa=3724&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/ajax.php?code=1333&natureza=81&caixa=3724"
+[177.37.169.85 19:38:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=9004&for-update-id=&valor=5,00&submit=Cadastrar&litros=&preco=&km-inicial=&km-final=&natureza=81&entidade=6&observacao=Janta jp cod: 623655&caixa=3724&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/ajax.php?code=9004"
+[177.37.169.85 19:38:27]
+uid = 43
+uname = "JOAO PAULO ALVES AUGUSTO"
+params = "code=8181&caixa=3724&PHPSESSID=m59ebu5gkc7kuga4gelfuov4o1"
+uri = "/ajax.php?code=8181&caixa=3724"

@@ -1,0 +1,50 @@
+.tool-bar-form{
+    color: white;
+    font-size: 9pt;
+    text-shadow:-1px 0.5px 0.5px gray; 
+    margin-bottom: 20px;
+    width: 100%;
+    border-radius: 3px;
+    position: relative;
+    left: -1%;
+}
+.tool-button {
+    background: green; 
+    display: inline-block;
+    box-shadow: 0 2px 2px black;
+    padding: 5px;
+    border-radius: 2px;
+    cursor: default;
+    background-size: 25px;
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    font-weight: bolder;
+    margin-left: 10px;
+    background-size: 16px;
+    background-position-x: 5px;
+    background-position-y: 5px;
+}
+.tool-button:hover{
+    box-shadow: 0 1px 1px black;
+}
+.tool-button:active{
+    box-shadow: inset 0 2px 2px black;
+}
+.add-btn-tool-box{
+    background-image: url('../images/tool-icons/add.png'); 
+}
+.remover-btn-tool-box{
+    background-image: url('../images/tool-icons/remover.png'); 
+}
+.editar-btn-tool-box{
+    background-image: url('../images/tool-icons/editar.png'); 
+}
+.cancel-btn-tool-box{
+    background-color: brown; 
+    background-image: url('../images/tool-icons/del.png');
+    display: none;
+}
+.caixa-btn-tool-box{
+    background-color: goldenrod; 
+    background-image: url('../images/grid-icons/registradora.png');
+}

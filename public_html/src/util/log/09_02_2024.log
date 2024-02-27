@@ -1,0 +1,80 @@
+[2a02:4780:1:5::1a 00:23:54]
+uid = -
+params = ""
+uri = "/"
+[150.109.13.194 08:44:42]
+uid = -
+params = ""
+uri = "/"
+[138.246.253.15 09:48:02]
+uid = -
+params = ""
+uri = "/"
+[167.248.133.34 13:05:06]
+uid = -
+params = ""
+uri = "/"
+[162.142.125.14 13:44:38]
+uid = -
+params = ""
+uri = "/"
+[177.14.232.5 13:59:01]
+uid = -
+params = "op=cad-prod"
+uri = "/index.php?op=cad-prod"
+[2001:41d0:2:a1af::1 15:00:29]
+uid = -
+params = ""
+uri = "/"
+[2001:41d0:2:a1af::1 15:00:59]
+uid = -
+params = ""
+uri = "/"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:09:27]
+uid = -
+params = ""
+uri = "/index.php"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:09:38]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=login&login=francilda&senha=654321&submeter=login"
+uri = "/index.php?op=login"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:09:38]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:09:46]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:10:44]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "code=8876&cidade=881"
+uri = "/ajax.php?code=8876&cidade=881"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:11:25]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=cad-clie"
+uri = "/index.php?op=cad-clie"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:11:28]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = "op=home"
+uri = "/index.php?op=home"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:11:28]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = ""
+uri = "/index.php"
+[2804:3004:8002:4f0:8889:eded:b5f1:43a1 21:11:38]
+uid = 245
+uname = "FRANCILDA RODRIGUES DE MOURA"
+params = ""
+uri = "/index.php"
+[206.189.31.201 22:36:17]
+uid = -
+params = ""
+uri = "/"
