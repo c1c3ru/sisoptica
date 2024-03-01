@@ -4,7 +4,7 @@ $config = Config::getInstance();
 $controller = $config->currentController;
 
 $isWithForeignValues = true;
-$funcionarios = $controller->getAllFuncionarios($isWithForeignValues);
+$funcionarios = $controller->getAllFuncionarios(true);
 
 $withOperations = false;
 if($_SESSION[SESSION_PERFIL_FUNC] == PERFIL_ADMINISTRADOR){
@@ -67,20 +67,22 @@ if(!empty($funcionarios)){
 if(!empty($funcionarios)){
     ?>
     <script>
+        import dependencies from "../../../images/script/jquery";
+
         dependencies.push(function(){
 
-            var lTable = $("#lista-funcionarios").dataTable({
-                "bPaginate" : true,
-                "bJQueryUI" : true,
+            const lTable = $("#lista-funcionarios").dataTable({
+                "bPaginate": true,
+                "bJQueryUI": true,
                 "sPaginationType": "full_numbers",
                 "aoColumns": [
-                    { "asSorting": [ "desc", "asc" ]},
-                    { "asSorting": [ "desc", "asc" ]},
-                    { "asSorting": [ "desc", "asc" ]},
-                    { "asSorting": [ "desc", "asc" ]},
-                    { "asSorting": [ "desc", "asc" ]},
-                    { "asSorting": [ "desc", "asc" ]},
-                    { "asSorting": []},
+                    {"asSorting": ["desc", "asc"]},
+                    {"asSorting": ["desc", "asc"]},
+                    {"asSorting": ["desc", "asc"]},
+                    {"asSorting": ["desc", "asc"]},
+                    {"asSorting": ["desc", "asc"]},
+                    {"asSorting": ["desc", "asc"]},
+                    {"asSorting": []},
                 ],
                 "sScrollY": "250px",
                 "bScrollCollapse": false

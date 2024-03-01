@@ -10,5 +10,3 @@ if(!$config->isLoged())
 
 //Iniciando o controlador de serviços AJAX.
 $config->ajaxController();
-
-?>

@@ -1,5 +1,5 @@
 <?php
-
+require_once 'database.php';
 /**
  * Essa classe implementa o modelo da entidade Cargo.
  * @author Emanuel Oliveira <emanuel.oliveira23@gmail.com>
@@ -67,13 +67,14 @@ class CargoModel extends Database {
      * @param string $condition filtra a seleção das linhas, se for <i>null</i> não será considerado.
      * @return array lista de cargos do tipo Cargo.
      */
-    public function select($fields = " * ", $condition = null) {
+    public function select($table, $fields = " * ", $condition = null, $debug = false)
+    {
         if(is_array($fields)) $fields = implode (",", $fields);
         $res = parent::select(self::TABLE, $fields, $condition);
         $ana = $this->getAnnalisses();
         $cargos = array();
-        while(($row = $ana->fetchObject($res)) !== false) {
-            $cargo = new Cargo( isset($row->{self::ID})? $row->{self::ID} : 0, 
+        while(($row = $ana->fetchObject($res)) != false) {
+            $cargo = new Cargo( isset($row->{self::ID}) ? $row->{self::ID} : 0,
                                 isset($row->{self::NOME})? ($row->{self::NOME}): "" );
             $cargos[] = $cargo;		
         }
@@ -81,4 +82,3 @@ class CargoModel extends Database {
     }
     
 }
-?>

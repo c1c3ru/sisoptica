@@ -1,6 +1,6 @@
 <?php
 
-include_once MODELS.'Annalisses/Annalisses.php';
+include_once 'Annalisses/Annalisses.php';
 
 /**
  * Essa classe contém os métodos que preparam e executam as principais consulta SQL.

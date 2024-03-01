@@ -4,6 +4,7 @@
  */
 
 include_once 'src/util/config.php';
+//não existe esse arquivo offline-printer
 include_once 'src/print/offline/offline-printer.php';
 
 OfflinePrinterUtils::checkRequirements();

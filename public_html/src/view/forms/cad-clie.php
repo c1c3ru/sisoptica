@@ -311,13 +311,13 @@ function addCliente(){
         "renda":$("#renda-cliente").val(),
         "localidade":$("#localidade-cliente").val()
     };
-    for(var i = 0; i < telefones_count;i++){
+    for(let i = 0; i < telefones_count; i++){
         cliente["telefone-"+(i+1)] = $("#telefone-"+(i+1)).val();
     }
-    var url = "ajax.php?code=7565";
+    const url = "ajax.php?code=7565";
     post(url, cliente, function(data){
-        if(data.code == "0"){
-            var cliente = data.data;
+        if(data.code === "0"){
+            const cliente = data.data;
             openLoadingState();
             window.setTimeout(function(){
                 endLoadingState();

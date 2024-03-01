@@ -1,6 +1,6 @@
 <?php
 
-include_once MODELS.'Annalisses/Prepare.php';
+include_once 'Prepare.php';
 
 /**
  * Essa classe tem como principal intuito encapsular as principains funções

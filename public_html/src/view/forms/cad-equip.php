@@ -26,7 +26,7 @@ if($_SESSION[SESSION_PERFIL_FUNC] == PERFIL_ADMINISTRADOR) {
                                     include_once CONTROLLERS."loja.php";
                                     $loja_controller = new LojaController();
                                     $isWithFoerignValues = false;
-                                    $lojas = $loja_controller->getAllLojas($isWithFoerignValues);
+                                    $lojas = $loja_controller->getAllLojas(false);
                                     foreach($lojas as $loja){ ?>
                                         <option value="<?php echo $loja->id; ?>"><?php echo $loja->nome;  ?></option>
                                     <?php } ?>
@@ -63,5 +63,28 @@ if($_SESSION[SESSION_PERFIL_FUNC] == PERFIL_ADMINISTRADOR) {
         #form-cad-equipe-vendas table input[type="text"]{width: 100%;}
         #form-cad-equipe-vendas table select{width:100%;}
     </style>
+
+    <script>
+        <?php if(defined("MODE_AJAX")){?>
+        function addEquipeVendas(){
+            const equipe = {
+                "nome": $("#nome-equipe-vendas").val(),
+                "id_loja": $("#loja-equipe-vendas").val(),
+                "id_funcionario_lider": $("#lider-equipe-vendas").val()
+            };
+            const url = "ajax.php?code=XXXX"; // Substitua XXXX pelo código correto para adicionar uma equipe de vendas
+            post(url, equipe, function(data){
+                if(data.code === "0"){
+                    // Equipe adicionada com sucesso
+                    const equipe = data.data;
+                    // Aqui você pode adicionar qualquer ação desejada após adicionar a equipe de vendas
+                } else {
+                    // Ocorreu um erro ao adicionar a equipe de vendas
+                    badAlert(data.message);
+                }
+            });
+        }
+        <?php } ?>
+    </script>
 
 <?php } ?>

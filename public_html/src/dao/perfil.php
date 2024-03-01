@@ -1,5 +1,5 @@
 <?php
-
+require_once 'database.php';
 /**
  * Essa classe implementa o modelo da entidade Perfil.
  * @author Emanuel Oliveira <emanuel.oliveira23@gmail.com>
@@ -27,17 +27,17 @@ class PerfilModel extends Database {
      * @param string $condition filtra a seleção das linhas, se for <i>null</i> não será considerado.
      * @return array lista de perfis do tipo Perfil.
      */
-    public function select($fields = " * ", $condition = null) {
+    public function select($table,$fields = " * ", $condition = null, $debug = false) {
         if(is_array($fields)) $fields = implode (",", $fields);
-        $res = parent::select(self::TABLE, $fields, $condition);
+        $res = parent::select(self::TABLE, $fields, $condition, $debug);
         $ana = $this->getAnnalisses();
         $perfis = array();
-        while(($row = $ana->fetchObject($res)) !== false) {
-            $perfil = new Perfil( isset($row->{self::ID})? $row->{self::ID} : 0, 
-                                  isset($row->{self::NOME})? ($row->{self::NOME}): "" );
-            $perfis[] = $perfil;		
+        while(($row = $ana->fetchObject($res)) != false) {
+            $perfil = new Perfil( isset($row->{self::ID})? $row->{self::ID} : 0,
+                isset($row->{self::NOME})? ($row->{self::NOME}): "" );
+            $perfis[] = $perfil;
         }
         return $perfis;
     }
 }
-?>
+

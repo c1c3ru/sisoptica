@@ -4,6 +4,7 @@ include_once MODELS."loja.php";
 include_once MODELS."cargo.php";
 include_once MODELS."cidade.php";
 include_once MODELS."perfil.php";
+require_once "database.php";
 
 /**
  * Essa classe implementa o modelo da entidade Funcionário.
