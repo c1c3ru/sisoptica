@@ -1,4 +1,5 @@
 <?php
+namespace Util\Html;
 class HTMLUtil {
     
     public static function grid_icon($img_name, $title = ""){
@@ -53,6 +54,8 @@ function img($img_name, $title = "", $alt = ""){ return HTMLUtil::img($img_name,
 function hsep(){ return HTMLUtil::hsep(); }
 function vsep(){ return HTMLUtil::vsep(); }
 function select($values, $properties){ return HTMLUtil::select($values, $properties); }
+
+//function generar_element($values, $properties){ return HTMLUtil::select($values, $properties); }
 function title_form($title, $tag="p"){ return HTMLUtil::title_form($title, $tag); }
 function p_title_form($title){ return HTMLUtil::title_form($title); }
 function a_link($href, $content, $new_window = false){ return HTMLUtil::link($href, $content, $new_window); }

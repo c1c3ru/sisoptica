@@ -57,3 +57,4 @@ if(!defined('DEFINES_OPTICA_CAPITAL')) {
     define("DAYS_OFFLINE_INTERVAL", "+3 days");
 
 }
+?>

@@ -47,63 +47,95 @@ class TelefoneModel extends Database {
      * @param string $condition filtra a seleção das linhas, se for <i>null</i> não será considerado.
      * @return array lista de telefones do tipo Telefone.
      */
-    public function select($table, $condition = null) {
-        $res = parent::select($table, " * ", $condition);
+    public function select($table, $fields = '*', $condition = null, $debug = false)
+    {
+        $res = parent::select($table, $fields, $condition, $debug);
         $ana = $this->getAnnalisses();
         $telefones = array();
-        switch($table){
-            case self::TABLE_CLIE: $entityType = self::CLIENTE; break;
-            case self::TABLE_LOJA: $entityType = self::LOJA; break;
-            case self::TABLE_FUNC: $entityType = self::FUNCIONARIO; break;
-            default: return null;
+        switch ($table) {
+            case self::TABLE_CLIE:
+                $entityType = self::CLIENTE;
+                break;
+            case self::TABLE_LOJA:
+                $entityType = self::LOJA;
+                break;
+            case self::TABLE_FUNC:
+                $entityType = self::FUNCIONARIO;
+                break;
+            default:
+                return null;
         }
-        while(($row = $ana->fetchObject($res)) !== false){
+        while (($row = $ana->fetchObject($res)) !== false) {
             $telefones[] = new Telefone($row->{self::NUMERO}, $row->{$entityType});
         }
         return $telefones;
     }
-    
+
+
     /**
      * Insere uma lista de telefones na base de dados.
      * @param string $table tabela de telefones (a de loja, de cliente ou de funcionário).
-     * @param srray $telefones lista de telefones do tipo Telefone que vai ser inserida.
+     * @param $fields
+     * @param $values
+     * @param bool $debug
      * @return bool true em caso de sucesso na inserção ou false em caso de falha
      */
-    public function insert($table, $telefones) {
-        switch($table){
-            case self::TABLE_CLIE: $entityType = self::CLIENTE; break;
-            case self::TABLE_LOJA: $entityType = self::LOJA; break;
-            case self::TABLE_FUNC: $entityType = self::FUNCIONARIO; break;
-            default: return null;
+    public function insert($table, $fields, $values, $debug = false)
+    {
+        global $telefones;
+        switch ($table) {
+            case self::TABLE_CLIE:
+                $entityType = self::CLIENTE;
+                break;
+            case self::TABLE_LOJA:
+                $entityType = self::LOJA;
+                break;
+            case self::TABLE_FUNC:
+                $entityType = self::FUNCIONARIO;
+                break;
+            default:
+                return null;
         }
-        $fields = array(self::NUMERO, $entityType);
-        if(is_array($telefones)){
+
+        if (is_array($telefones)) {
             $values = array();
-            foreach ($telefones as $telefone){
+            foreach ($telefones as $telefone) {
                 $values[] = "(".Database::turnInValues($telefone).")";
             }
         } else {
             $values = Database::turnInValues($telefones);
         }
-        return parent::insert($table, implode(",", $fields), $values);
+
+        return parent::insert($table, $fields, $values, $debug);
     }
-    
+
+
     /**
      * Realiza a remoção de um telefone.
      * @param string $table tabela de telefones (a de loja, de cliente ou de funcionário).
      * @param int $value_id identificador da entidade que está associado ao telefone (pode string também).
-     * @return bool true em caso de sucesso, ou false em caso de falha
+     * @return PDOStatment true em caso de sucesso, ou false em caso de falha
      */
-    public function delete($table, $value_id){
-        switch($table){
-            case self::TABLE_CLIE: $entityType = self::CLIENTE; break;
-            case self::TABLE_LOJA: $entityType = self::LOJA; break;
-            case self::TABLE_FUNC: $entityType = self::FUNCIONARIO; break;
-            default: return null;
+    public function delete($table, $condition, $no_fk_check = false, $debug = false)
+    {
+        switch ($table) {
+            case self::TABLE_CLIE:
+                $entityType = self::CLIENTE;
+                break;
+            case self::TABLE_LOJA:
+                $entityType = self::LOJA;
+                break;
+            case self::TABLE_FUNC:
+                $entityType = self::FUNCIONARIO;
+                break;
+            default:
+                return null;
         }
+        $value_id = '';
         $condition = "$entityType = $value_id";
-        return parent::delete($table, $condition);
+        return parent::delete($table, $condition, $no_fk_check, $debug);
     }
-    
+
+
 }
 ?>

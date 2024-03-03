@@ -1,0 +1,220 @@
+[127.0.0.1 00:39:31]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 00:39:40]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 00:39:40]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 00:40:40]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 00:40:40]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 00:44:14]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 00:44:14]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 00:47:03]
+uid = -
+params = ""
+uri = "/"
+[127.0.0.1 00:47:28]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[127.0.0.1 00:47:28]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 00:52:10]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 00:52:10]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 00:57:22]
+uid = -
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 01:00:50]
+uid = -
+params = ""
+uri = "/"
+[127.0.0.1 01:00:59]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[127.0.0.1 01:00:59]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 01:01:57]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 01:01:57]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 09:07:32]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 09:07:32]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 09:18:30]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 09:18:30]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 09:18:44]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 09:18:44]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 09:25:33]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/index.php?op=login"
+[127.0.0.1 09:25:33]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 10:55:16]
+uid = -
+params = "_ijt=k8uhpommbuhr7aillddad6u7ie"
+uri = "/sisoptica/public_html/index.php?_ijt=k8uhpommbuhr7aillddad6u7ie"
+[127.0.0.1 10:55:23]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 10:55:50]
+uid = -
+params = ""
+uri = "/"
+[127.0.0.1 10:55:56]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/?op=login"
+[127.0.0.1 10:55:56]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/index.php?op=home"
+[127.0.0.1 11:04:55]
+uid = -
+params = "_ijt=gqfnv54oo9vr11q4jm85ofluf1"
+uri = "/sisoptica/public_html/index.php?_ijt=gqfnv54oo9vr11q4jm85ofluf1"
+[127.0.0.1 11:04:58]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:08:10]
+uid = -
+params = "_ijt=chps11pqb6p6j19rfr2kjc2qah"
+uri = "/sisoptica/public_html/index.php?_ijt=chps11pqb6p6j19rfr2kjc2qah"
+[127.0.0.1 11:08:12]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:14:19]
+uid = -
+params = "_ijt=sch13g8hpr26jg8ie6477jsd9a"
+uri = "/sisoptica/public_html/index.php?_ijt=sch13g8hpr26jg8ie6477jsd9a"
+[127.0.0.1 11:14:22]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:17:41]
+uid = -
+params = "_ijt=v6etr8gjbg460207diddmsst6f"
+uri = "/sisoptica/public_html/index.php?_ijt=v6etr8gjbg460207diddmsst6f"
+[127.0.0.1 11:17:43]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:19:17]
+uid = -
+params = "_ijt=ocah21ibckff8td0u1j4m5k29q"
+uri = "/sisoptica/public_html/index.php?_ijt=ocah21ibckff8td0u1j4m5k29q"
+[127.0.0.1 11:19:19]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:21:11]
+uid = -
+params = "_ijt=jb7itf84l9mhaqk4rl5u66igjd"
+uri = "/sisoptica/public_html/index.php?_ijt=jb7itf84l9mhaqk4rl5u66igjd"
+[127.0.0.1 11:21:13]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:21:14]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/sisoptica/public_html/index.php?op=home"
+[127.0.0.1 11:41:45]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:41:45]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/sisoptica/public_html/index.php?op=home"
+[127.0.0.1 11:49:36]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:49:37]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/sisoptica/public_html/index.php?op=home"
+[127.0.0.1 11:50:07]
+uid = -
+params = "_ijt=rnong91obg8nrt12caauniuq5n"
+uri = "/sisoptica/public_html/index.php?_ijt=rnong91obg8nrt12caauniuq5n"
+[127.0.0.1 11:50:09]
+uid = -
+params = "op=login&login=RAFAEL&senha=123456&submeter=login"
+uri = "/sisoptica/public_html/index.php?op=login"
+[127.0.0.1 11:50:09]
+uid = -
+msg = "-Falha na operação.<br/>Dados Inválidos"
+params = "op=home"
+uri = "/sisoptica/public_html/index.php?op=home"

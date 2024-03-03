@@ -1,5 +1,5 @@
 <?php
-if (!$link = mysql_connect('212.1.209.1', 'u293830981_os', 'Rafael@2024')) {
+if (!$link = mysql_connect('localhost', 'root', 'root')) {
     echo 'Could not connect to mysql';
     exit;
 }
@@ -9,7 +9,7 @@ if (!mysql_select_db('u293830981_os', $link)) {
     exit;
 }
 
-$sql    = 'SELECT funcionario FROM';
+$sql    = 'SELECT * FROM funcionario';
 $result = mysql_query($sql, $link);
 
 if (!$result) {
@@ -19,9 +19,6 @@ if (!$result) {
 }
 
 while ($row = mysql_fetch_assoc($result)) {
-    echo $row['foo'];
+    echo $row['nome_funcionario']  . "<br>";
 }
-
 mysql_free_result($result);
-
-?>

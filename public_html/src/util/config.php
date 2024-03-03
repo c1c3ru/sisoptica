@@ -1,7 +1,8 @@
 <?php
-
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 //Habilitando a exibição dos erros
-ini_set("display_errors", "0");
 // error_reporting(E_CORE_WARNING);
 // error_reporting(E_ALL ^ E_STRICT);
 set_time_limit(0);
@@ -30,9 +31,9 @@ class Answer {
     /**
      * Essa classe padroniza as respoas via JSON. Utlizada nos serviços ajax.
      * @param int $code código de resposta
-     * @param mixed $ data qualquer informação ou entidade necessária para a resposta do serviço
+     * @param mixed $data $ data qualquer informação ou entidade necessária para a resposta do serviço
      * @param string $message mensagem de retorno
-     * @return Answer objeto de resposta de um serviço
+     * @return void objeto de resposta de um serviço
      */
     public function __construct($code = "0", $data = null, $message = ""){
         $this->code = $code;
@@ -112,7 +113,7 @@ class Config {
     /**
      * Essa classe é o controlador geral e auxiliar do sistema. Realiza funções de utilidade geral.
      * Ao instanciar um objeto Config, o banco de dados já efetua a conexão.
-     * @return Config instancia de um controlador geral.
+     * @return void instancia de um controlador geral.
      */
     private function __construct(){
         $this->initDefines();
@@ -209,9 +210,13 @@ class Config {
      * @param bool $removeTags aplica um strip_tags no valor do parametro, retirando tags html do conteúdo
      */
     public function clearString(&$str, $removeTags = false){
-        if(!get_magic_quotes_gpc()) $str = addslashes($str);
+        if (function_exists('stripslashes')) {
+            $str = stripslashes($str);
+        }
         $str = trim($str);
-        if($removeTags) $str = strip_tags($str);
+        if($removeTags) {
+            $str = strip_tags($str);
+        }
     }
 
     /**
@@ -327,7 +332,7 @@ class Config {
 
     /**
      * Carrega um serviço AJAX com base no código.
-     * @param int $servie_code identificador do serviço
+     * @param $service_code
      * @return Service instancia do serviço solicitado (olhar classe Service)
      */
     public function loadAjaxService($service_code){
@@ -340,7 +345,7 @@ class Config {
             //Obtendo detalhes do serviço
             $service = explode(":", $str_service);
             //Verificndo o código...
-            if($service[0] == $service_code) {
+            if($service[0] === $service_code) {
                 //Criando e retornando o serviço
                 $servobj = new Service();
                 $servobj->code = trim($service[0]);
@@ -384,7 +389,7 @@ class Config {
      * Incia o vetor de dependencias JavaScript.
      */
     public function iniJSDependencies(){
-        echo "<script> var {$this->dependencies} = new Array(); </script>";
+        echo "<script> var {$this->dependencies} = []; </script>";
     }
 
     /**
@@ -445,7 +450,7 @@ class Config {
      */
     public function checkMessage(){
         //Verificando a existência
-        if(isset($_COOKIE[MESSAGE_COOKIE]) && !empty($_COOKIE[MESSAGE_COOKIE])){
+        if(!empty($_COOKIE[MESSAGE_COOKIE])){
             //Otendo conteúdo
             $message = $_COOKIE[MESSAGE_COOKIE];
             //Defindo tipo de alerta
@@ -558,7 +563,7 @@ class Config {
         $usuario    = $this->filter("login");
         $senha      = $this->filter("senha");
 
-        if($usuario == null || $senha == null){
+        if($usuario === null || $senha === null){
             $this->failInFunction("Todos os dados são necessários");
             $this->redirect("index.php");
         }
@@ -581,7 +586,7 @@ class Config {
             //Login foi sucesso
             //Registrando informações sobre o usuário na sessão
             $this->startSession();
-            
+
             $_SESSION[SESSION_ID_FUNC]      = $funcionario->id;
             $_SESSION[SESSION_PERFIL_FUNC]  = $funcionario->perfil;
             $_SESSION[SESSION_LOJA_FUNC]    = $funcionario->loja;
@@ -652,7 +657,7 @@ function register_log($cwd){
     $linha .= "params = \"".implode("&", $params)."\"\n";
     $linha .= "uri = \"".$_SERVER['REQUEST_URI']."\"\n";
 	$log_name = date("d_m_Y") . ".log";
-    $f = fopen($cwd ."/" . UTIL . "log/" . $log_name, 'a');
+    $f = fopen($cwd ."/" . UTIL . "log/" . $log_name, 'ab');
     fwrite($f, $linha);
     fclose($f);
 }

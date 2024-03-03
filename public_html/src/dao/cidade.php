@@ -31,25 +31,23 @@ class CidadeModel extends Database {
      * com os valores do banco.
      * @param mixed $fields colunas da seleção, pode ser um array (utilize as constantes das colunas).
      * @param string $condition filtra a seleção das linhas, se for <i>null</i> não será considerado.
-     * @return array lista de cidade do tipo Cidade.
+     * @return PDOStatment lista de cidade do tipo Cidade.
      */
-    public function select($fields = "*", $condition = null) {
-        if(is_array($fields)) $fields = implode(",", $fields);
+    public function select($table, $fields = "*", $condition = null, $debug = false)
+    {
+        if (is_array($fields)) {
+            $fields = implode(",", $fields);
+        }
 
         $this_condition = " 1 = 1 ORDER BY ".self::NOME;
-        if(is_null($condition)) $condition = $this_condition;
-        else $condition .= " AND $this_condition";
-
-        $res = parent::select(self::TABLE, $fields, $condition);		
-        $ana = $this->getAnnalisses();	
-        $cidades = array(); 
-        while(($row = $ana->fetchObject($res)) !== false) {
-            $cidade = new Cidade( isset($row->{self::ID})? $row->{self::ID} : 0, 
-                                  isset($row->{self::NOME})? ($row->{self::NOME}): "", 
-                                  isset($row->{self::ESTADO})? $row->{self::ESTADO}: "");
-            $cidades[] = $cidade;		
+        if (is_null($condition)) {
+            $condition = $this_condition;
+        } else {
+            $condition .= " AND $this_condition";
         }
-        return $cidades;
-    } 
+
+        return parent::select($table, $fields, $condition, $debug);
+    }
+
 }
 ?>

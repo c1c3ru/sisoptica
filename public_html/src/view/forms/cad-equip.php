@@ -1,4 +1,10 @@
 <?php
+require_once '../../util/define.php';
+
+ini_set('display_errors',1);
+ini_set('display_startup_erros',1);
+error_reporting(E_ALL);
+
 if($_SESSION[SESSION_PERFIL_FUNC] == PERFIL_ADMINISTRADOR) {
     $config = Config::getInstance();
     ?>

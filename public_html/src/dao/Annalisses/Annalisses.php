@@ -128,8 +128,9 @@ class Annalisses {
      * @return PDO é uma representação da conexão.
      */
     public function getConnection($dbname = null){
-        if($dbname != null)
+        if($dbname !== null) {
             return self::$connections[$dbname];
+        }
         return end(self::$connections);
     }
     
@@ -162,7 +163,9 @@ class Annalisses {
         $si         = $prepare->getSpecificInfo();
         if(!empty($si)){ $objSGBD->loadSpecificInfo();}
         $con = $objSGBD->getConnection();
-        if($con) self::$connections[(string)$prepare->getDBName()] = $con;
+        if($con) {
+            self::$connections[(string)$prepare->getDBName()] = $con;
+        }
         return $con;
     }
     
@@ -171,21 +174,29 @@ class Annalisses {
      * resultados ou false(bool) em caso de falha
      * @param srting $query a consulta SQL.
      * @param string $dbname nome do banco de dados para que possa ser obtida a conexão
-     * @return PDOStatment lista de resultados ou false(bool) em caso de falha.
+     * @return false|PDOStatement
      */
     public function execute($query, $dbname = null){
-        $query = $this->getConnection($dbname)->query($query);
-        return $query;
+        $connection = $this->getConnection($dbname);
+
+        try {
+            return $connection->query($query);
+        } catch (PDOException $e) {
+            // Tratar a exceção PDO aqui
+            // Por exemplo, você pode registrar o erro em um arquivo de log
+            error_log("Erro ao executar a consulta: " . $e->getMessage());
+            return false;
+        }
     }
-    
+
+
     /**
      * Obtém a próxima tupla na forma array associativo <i>(coula => valor)</i>.
      * @param PDOStatement $query instrução sql obtida da execução da consulta SQL.
      * @return array tupla chaveada pelos nomes das colunas da tabela
      */
     public function fetchAssoc($query){
-        $query = $this->fetch($query, PDO::FETCH_ASSOC);
-        return $query;
+        return $this->fetch($query, PDO::FETCH_ASSOC);
     }
     
     /**
@@ -194,8 +205,7 @@ class Annalisses {
      * @return objeto da tupla tendo com atributos o nome das colunas e seus respectivos valores
      */
     public function fetchObject($query){
-        $query = $this->fetch($query, PDO::FETCH_OBJ);
-        return $query;
+        return $this->fetch($query, PDO::FETCH_OBJ);
     }
     
     /**
@@ -204,8 +214,7 @@ class Annalisses {
      * @return array tupla chaveada indexes numéricos das colunas na tabela
      */
     public function fetchArray($query){
-        $query = $this->fetch($query, PDO::FETCH_NUM);
-        return $query;
+        return $this->fetch($query, PDO::FETCH_NUM);
     }
     
     /**
@@ -216,8 +225,7 @@ class Annalisses {
      * @return array tupla chaveada indexes numéricos e nomeados das colunas na tabela
      */
     public function fetchArrayAssoc($query){
-        $query = $this->fetch($query, PDO::FETCH_BOTH);
-        return $query;
+        return $this->fetch($query, PDO::FETCH_BOTH);
     }
     
     /**
@@ -228,12 +236,23 @@ class Annalisses {
      */
     public function fetch($query, $style){
         if(is_string($query)){
-            $query = $this->execute($query);
+            $queryResult = $this->execute($query);
+            if ($queryResult === false) {
+                return false; // Retorna false se houver um erro na execução da consulta
+            }
+        } else {
+            $queryResult = $query; // Se $query já for um objeto PDOStatement, apenas atribua a $queryResult
         }
-        $query = $query->fetch($style);
-        return $query;
+
+        // Verificar se $queryResult é um objeto PDOStatement antes de chamar fetch()
+        if ($queryResult instanceof PDOStatement) {
+            return $queryResult->fetch($style);
+        }
+
+        return false; // Se não for um objeto PDOStatement, retorne false
     }
-    
+
+
     /**
      * Esse método pode ser usado em conjunto com as constates de erro para 
      * obter melhores respostas aos usuários.

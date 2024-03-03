@@ -1,4 +1,8 @@
 <?php
+ini_set('display_errors',1);
+ini_set('display_startup_erros',1);
+error_reporting(E_ALL);
+
 include_once 'src/util/config.php';
 
 //Obtendo controlador geral e auxiliar
@@ -87,8 +91,8 @@ $message = $config->checkMessage();
                                 "cad-tipo" => "Cadastro de Tipos de Produto",
                                 "cad-marc" => "Cadastro de Marcas de Produtos",
                                 "cad-labo" => "Cadastro de Laboratórios",
-                                "cad-equipe"        => "Cadastro de Equipes",
-                                "cad-tipo-pgmto"    => "Cadastro de Tipos de Recebimento",
+                                "cad-equipe" => "Cadastro de Equipes",
+                                "cad-tipo-pgmto" => "Cadastro de Tipos de Recebimento",
                                 "cad-veic" => "Cadastro de Veículos",
                                 "cad-natu" => "Natureza de Despesa de Caixa"
                             );
@@ -209,7 +213,7 @@ $message = $config->checkMessage();
                 );
                 $ops = array_merge($opCadList, $opLanList, $opVendList, $opRelList, $father_ops);
                 $op = $config->filter("op");
-                if($op != null && isset($ops[$op])){
+                if($op !== null && isset($ops[$op])){
                     //Criando faixa de navegação
                     $message = $ops[$op];
                     echo "<p class='title-form' style='border-bottom:lightgray dashed 1px;'> ";
