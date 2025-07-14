@@ -1,0 +1,11 @@
+{
+    "name": "sisoptica/sisoptica",
+    "description": "Sistema de Óptica - Refatorado para PSR-4",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sisoptica\\": "public_html/src/"
+        }
+    }
+} 

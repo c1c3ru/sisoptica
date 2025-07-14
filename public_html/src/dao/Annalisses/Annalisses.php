@@ -169,13 +169,15 @@ class Annalisses {
     /**
      * Executa um instrução SQL e retorna um PDOStatement como uma lista de 
      * resultados ou false(bool) em caso de falha
-     * @param srting $query a consulta SQL.
+     * @param string $query a consulta SQL.
+     * @param array $params parâmetros para bind na query.
      * @param string $dbname nome do banco de dados para que possa ser obtida a conexão
-     * @return PDOStatment lista de resultados ou false(bool) em caso de falha.
+     * @return PDOStatement lista de resultados ou false(bool) em caso de falha.
      */
-    public function execute($query, $dbname = null){
-        $query = $this->getConnection($dbname)->query($query);
-        return $query;
+    public function execute($query, $params = [], $dbname = null){
+        $stmt = $this->getConnection($dbname)->prepare($query);
+        $stmt->execute($params);
+        return $stmt;
     }
     
     /**
