@@ -126,10 +126,11 @@ class ProdutoController {
      * @return array lista de produtos do tipo Produto
      */
     public function getAllProdutos($foreign_values = false){
-        $condition = ProdutoModel::TABLE.".".ProdutoModel::ID." NOT IN (".ProdutoModel::ID_PRODUTO_TAXA.",".ProdutoModel::ID_PRODUTO_RESTANTE.") ";
+        $condition = ProdutoModel::TABLE.".".ProdutoModel::ID." NOT IN (?, ?) ";
+        $params = [ProdutoModel::ID_PRODUTO_TAXA, ProdutoModel::ID_PRODUTO_RESTANTE];
         if($foreign_values)
-            return $this->modelProduto->superSelect($condition);
-        return $this->modelProduto->select("*", $condition);
+            return $this->modelProduto->superSelect($condition, $params);
+        return $this->modelProduto->select("*", $condition, $params);
     }
     
     /**
@@ -139,11 +140,12 @@ class ProdutoController {
      * @return array lista de produtos do tipo Produto
      */
     public function getAllLLentes($foreign_values = false){
-        $condition  = ProdutoModel::TABLE.".".ProdutoModel::ID." NOT IN (".ProdutoModel::ID_PRODUTO_TAXA.",".ProdutoModel::ID_PRODUTO_RESTANTE.") ";
-        $condition .= ' AND ' . ProdutoModel::CATEGORIA . " = " . ProdutoModel::CAT_LENTE;
+        $condition  = ProdutoModel::TABLE.".".ProdutoModel::ID." NOT IN (?, ?) ";
+        $condition .= ' AND ' . ProdutoModel::CATEGORIA . " = ?";
+        $params = [ProdutoModel::ID_PRODUTO_TAXA, ProdutoModel::ID_PRODUTO_RESTANTE, ProdutoModel::CAT_LENTE];
         if($foreign_values)
-            return $this->modelProduto->superSelect($condition);
-        return $this->modelProduto->select("*", $condition);
+            return $this->modelProduto->superSelect($condition, $params);
+        return $this->modelProduto->select("*", $condition, $params);
     }
     
     /**
@@ -154,9 +156,10 @@ class ProdutoController {
      * @return Produto produto específico ou um produto vazio em caso de inexistência.
      */
     public function getProduto($id_produto, $foreign_values = false){
-        $condition = ProdutoModel::TABLE.'.'.ProdutoModel::ID." = $id_produto";
-        if($foreign_values) $produto = $this->modelProduto->superSelect ($condition);
-        else $produto = $this->modelProduto->select("*", $condition);
+        $condition = ProdutoModel::TABLE.'.'.ProdutoModel::ID." = ?";
+        $params = [$id_produto];
+        if($foreign_values) $produto = $this->modelProduto->superSelect ($condition, $params);
+        else $produto = $this->modelProduto->select("*", $condition, $params);
         if(!empty($produto)) return $produto[0];
         return new Produto();
     }
@@ -169,9 +172,10 @@ class ProdutoController {
      * @return Produto produto específico ou um produto vazio em caso de inexistência.
      */
     public function getProdutoByCodigo($cod_produto, $foreign_values = false){
-        $condition = ProdutoModel::TABLE.'.'.ProdutoModel::CODIGO." = $cod_produto";
-        if($foreign_values) $produto = $this->modelProduto->superSelect ($condition);
-        else $produto = $this->modelProduto->select("*", $condition);
+        $condition = ProdutoModel::TABLE.'.'.ProdutoModel::CODIGO." = ?";
+        $params = [$cod_produto];
+        if($foreign_values) $produto = $this->modelProduto->superSelect ($condition, $params);
+        else $produto = $this->modelProduto->select("*", $condition, $params);
         if(!empty($produto)) return $produto[0];
         return new Produto();
     }

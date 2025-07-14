@@ -87,9 +87,9 @@ class ProdutoModel extends Database {
      * @param string $condition filtra a seleção das linhas, se for <i>null</i> não será considerado.
      * @return array lista de produtos do tipo Produto.
      */
-    public function select($fields = " * ", $condition = null) {
+    public function select($fields = " * ", $condition = null, $params = []) {
         if(is_array($fields)) $fields = implode(",", $fields);
-        $res = parent::select(self::TABLE, $fields, $condition);
+        $res = parent::select(self::TABLE, $fields, $condition, false, $params);
         $ana = $this->getAnnalisses();
         $produtos = array();
         while(($row = $ana->fetchObject($res)) !== false){
@@ -116,7 +116,7 @@ class ProdutoModel extends Database {
      * @param string $condition filtra a seleção das linhas, se for <i>null</i> não será considerado.
      * @return array lista de produtos do tipo Produto.
      */
-    public function superSelect($condition = null, $limit = null){
+    public function superSelect($condition = null, $params = [], $limit = null){
         
         $fields = array( self::TABLE.".".self::ID, self::CODIGO, self::DESCRICAO,
                          self::PRECO_COMPRA, self::PRECO_VENDA, self::PRECO_VENDA_MIN,
@@ -131,7 +131,7 @@ class ProdutoModel extends Database {
         
         $tables = implode(",", array(self::TABLE, TipoProdutoModel::TABLE, MarcaModel::TABLE));
         
-        $res = parent::select($tables, $fields_joined, $condition, $limit);
+        $res = parent::select($tables, $fields_joined, $condition, $limit, $params);
         $ana = $this->getAnnalisses();
         
         $produtos = array();
